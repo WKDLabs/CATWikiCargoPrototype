@@ -147,3 +147,4 @@ wfLoadSkin( 'Vector' );
 # Add more configuration options below.
 
 wfLoadExtension( 'Cargo' );
+$wgShowExceptionDetails = true;

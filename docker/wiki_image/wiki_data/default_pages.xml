@@ -1,0 +1,2334 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en-GB">
+  <siteinfo>
+    <sitename>catwiki</sitename>
+    <dbname>mediawiki</dbname>
+    <base>http://catwiki.wkdlabs.com/index.php/Main_Page</base>
+    <generator>MediaWiki 1.43.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Catwiki</namespace>
+      <namespace key="5" case="first-letter">Catwiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>72</id>
+      <parentid>1</parentid>
+      <timestamp>2025-03-27T19:52:49Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <comment>disclaimer</comment>
+      <origin>72</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="334" sha1="g3n5ef6wzff4uavtt8yb9i9we07r7xz" xml:space="preserve">Testing cargo formats for [https://wiki.rossmanngroup.com/wiki/Main_Page CAT wiki]. All content on the pages is copied from there used under [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0] to develop the data model to use alongside the clintonCAT extension. Any modifications to the content are made to that end.</text>
+      <sha1>g3n5ef6wzff4uavtt8yb9i9we07r7xz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Peloton</title>
+    <ns>0</ns>
+    <id>2</id>
+    <revision>
+      <id>25</id>
+      <parentid>16</parentid>
+      <timestamp>2025-03-27T18:39:33Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <comment>remove cargo</comment>
+      <origin>25</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2522" sha1="ot1rf6czujp5xk0lqkwpgb2fgxxz4sv" xml:space="preserve">{{InfoboxCompany
+| Name = Peloton Interactive, Inc.
+| Type = Public
+| Founded = 2012
+| Industry = Exercise Equipment
+| Official Website = https://onepelton.com/
+| Logo = Peloton (company) logo.svg.png
+}}
+
+'''[[wikipedia:Peloton_Interactive|Peloton Interactive, Inc.]]''' is a wellness technology company specializing in connected exercise equipment and subscription-based fitness content. Headquartered in New York City, the company operates in the fitness and wellness industry and is best known for its internet-connected stationary bikes, treadmills, and fitness app. As of 2025, Peloton has a significant presence in North America and Europe, with a business model heavily reliant on subscription services.
+
+==Consumer impact summary==
+Peloton has faced significant criticism for policies perceived as undermining consumer rights, particularly through restrictive practices that challenge traditional notions of product ownership and resale rights.
+
+Peloton’s policies reflect a larger trend in consumer markets where companies leverage digital connectivity to maintain post-sale control:
+*'''Erosion of ownership''': Practices such as activation fees and subscription locks limit consumer autonomy over purchased products.
+*'''Precedent for other industries''': Peloton’s approach sets a concerning precedent for post-sale control, with parallels in other industries.
+*'''Consumer rights in the digital age''': The rise of devices reliant on cloud subscription services raises questions about consumer protection.
+
+==Incidents==
+
+===Peloton Used Equipment Activation Fee (2024) ===
+{{Main|Peloton Used Equipment Activation Fee}}
+In 2024, Peloton announced the introduction of a $95 USD / $125 CAD used-equipment activation fee for purchasers of second-hand Peloton devices in the U.S. and Canada. The introduction of a fee for activating second-hand devices was criticized for undermining the [[first-sale doctrine]] and restricting ownership rights.
+
+===Removal of "Just Run" feature (2021) ===
+{{Main|Peloton removes Just Run feature}}
+Following multiple injuries and a fatality, Peloton introduced a new feature called Tread Lock as part of a safety recall, which required users to enter a passcode to secure their treadmills but also restricted access to the "Just Run" feature for non-subscribers. This feature was restored a few months after the restriction was introduced following widespread critisicm
+
+==See Also==
+*[[Subscription service]]
+
+==References==
+&lt;references /&gt;
+[[Category:Peloton Interactive]]</text>
+      <sha1>ot1rf6czujp5xk0lqkwpgb2fgxxz4sv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:InfoboxCompany</title>
+    <ns>10</ns>
+    <id>3</id>
+    <revision>
+      <id>33</id>
+      <parentid>32</parentid>
+      <timestamp>2025-03-27T19:08:17Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <comment>remove incident list as is result of querry</comment>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2977" sha1="jdl2l3uf48ozf5ytl8snfmzr078wobf" xml:space="preserve">&lt;includeonly&gt;
+{{#cargo_store:_table=Companies|Website={{{Official Website}}} }}&lt;div class="infobox"&gt;
+&lt;div style="display:flex;gap:8px;flex-direction:column;"&gt;
+    &lt;div class="infobox-title"&gt;{{{Company|{{PAGENAME}}}}}&lt;/div&gt;
+    &lt;div class="infobox-image"&gt;[[File:{{{Logo}}}|200px]]&lt;/div&gt;
+    &lt;table class="infobox-table"&gt;
+
+            &lt;tr&gt; 
+                &lt;th colspan=2 class="infobox-table-caption" &gt;Basic information&lt;/th&gt; 
+            &lt;/tr&gt;
+
+            &lt;tr&gt;
+                &lt;th&gt;{{nowrap|Founded}}&lt;/th&gt;
+                &lt;td&gt;{{{Founded}}}&lt;/td&gt;
+            &lt;/tr&gt;
+
+            &lt;tr&gt;
+                &lt;th&gt;{{nowrap|Type}}&lt;/th&gt;
+                &lt;td&gt;{{{Type}}}&lt;/td&gt;
+            &lt;/tr&gt;
+
+            &lt;tr&gt;
+                &lt;th&gt;{{nowrap|Industry}}&lt;/th&gt;
+                &lt;td&gt;{{{Industry}}}&lt;/td&gt;
+            &lt;/tr&gt;   
+ 
+            &lt;tr&gt;
+                &lt;th&gt;{{nowrap|Official website}}&lt;/th&gt;
+                &lt;td&gt;{{{Official Website}}}&lt;/td&gt;
+            &lt;/tr&gt;
+
+    &lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+'''Incidents in data tables:'''
+{{#cargo_query:tables=Incidents|where=Companies HOLDS '{{PAGENAME}}'}}
+&lt;/includeonly&gt;&lt;noinclude&gt;
+
+{{#cargo_declare:_table=Companies
+|Website=URL
+}}
+
+== Usage ==
+To have this infobox appear to the right of the page, add this to the page with the text you wish to appear on the box when using the source editor.
+{{InfoboxCompany
+| Company = Company Name
+| Type = Public
+| Founded = 2000
+| Industry = Industrial
+| Official Website = https://example.com/
+| Logo = QuestionMark.svg
+}}
+&lt;pre&gt;
+&lt;nowiki&gt;
+{{InfoboxCompany
+| Company =
+| Type = 
+| Founded =
+| Industry =
+| Official Website =
+| Logo =
+}}
+&lt;/nowiki&gt;
+&lt;/pre&gt;
+[[Category:Styling templates]]
+{{Clear}}
+
+== Template Data ==
+&lt;templatedata&gt;
+{
+	"params": {
+		"Name": {
+			"type": "string",
+			"description": "Name of Company",
+			"required": true
+		},
+        "Type" : {
+			"type": "string",
+			"description": "Ownership status of company",
+			"required": true
+        },
+		"Founded": {
+			"type": "string",
+			"description": "What year was the company founded",
+			"required": true
+		},
+		"Industry": {
+			"type": "string",
+			"description": "conglomerate, electronics manufacturer",
+			"example": "Electronics, EV's, Esc",
+			"required": true
+		},
+		"Official Website": {
+			"type": "string",
+			"description": "Website of the company.",
+			"required": true
+		},
+		"Logo": {
+			"description": "The logo associated with the company.",
+			"example": "filename.[jpg|png|svg]",
+			"type": "wiki-file-name",
+			"autovalue": "QuestionMark.svg",
+			"default": "QuestionMark.svg",
+			"required": true
+		},
+		"Type": {
+			"description": "Type of company ownership",
+			"example": "Public, Private, Government, Subsidiary",
+			"required": true
+		}
+	},
+	"description": "This is a a simple information box to use in product line articles.\nParameters are the information displayed on the infobox.",
+	"format": "block",
+	"paramOrder": [
+		"Name",
+		"Type",
+		"Founded",
+		"Industry",
+		"Official Website",
+		"Logo"
+	]
+}
+&lt;/templatedata&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>jdl2l3uf48ozf5ytl8snfmzr078wobf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Clear</title>
+    <ns>10</ns>
+    <id>4</id>
+    <revision>
+      <id>4</id>
+      <timestamp>2025-03-27T17:30:42Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <comment>copy from wiki.rossmanngroup.com/wiki/Template:Clear</comment>
+      <origin>4</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="400" sha1="n1xsw1x00sgrc64kb7e675nfx9zr9as" xml:space="preserve">&lt;!-- Based on https://en.wikipedia.org/wiki/Template:Clear --&gt;&lt;div style="clear:{{{1|both}}};" class={{{class|}}}&gt;&lt;/div&gt;&lt;noinclude&gt;"This template makes content wait until existing content is completed in all columns. It is often used to prevent text from flowing next to unrelated images."&lt;ref&gt;https://en.wikipedia.org/wiki/Template:Clear&lt;/ref&gt;&lt;references /&gt;[[Category:Styling templates]]&lt;/noinclude&gt;</text>
+      <sha1>n1xsw1x00sgrc64kb7e675nfx9zr9as</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Nowrap</title>
+    <ns>10</ns>
+    <id>5</id>
+    <revision>
+      <id>5</id>
+      <timestamp>2025-03-27T17:31:13Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <comment>copy from https://wiki.rossmanngroup.com/wiki/Template:Nowrap</comment>
+      <origin>5</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="218" sha1="933ainkk5ld7dxbwtbq26rb08dlf574" xml:space="preserve">&lt;span style="white-space:nowrap;"&gt;{{{1}}}&lt;/span&gt;
+&lt;noinclude&gt;
+&lt;templatedata&gt;
+{
+	"params": {},
+	"description": "Span with nowrap attr. Takes single parameter"
+}
+&lt;/templatedata&gt;
+[[Category:Styling templates]]
+&lt;/noinclude&gt;</text>
+      <sha1>933ainkk5ld7dxbwtbq26rb08dlf574</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Common.css</title>
+    <ns>8</ns>
+    <id>6</id>
+    <revision>
+      <id>7</id>
+      <parentid>6</parentid>
+      <timestamp>2025-03-27T17:33:46Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <comment>reset font sizes</comment>
+      <origin>7</origin>
+      <model>css</model>
+      <format>text/css</format>
+      <text bytes="6574" sha1="ewv52jxhtzbyf35xj8dmkpm3pjozrk8" xml:space="preserve">/* CSS placed here will be applied to all skins */
+/*Set font to be more legible.*/
+body {
+  font-family:"Gill Sans Nova",Ubuntu,Calibri,"DejaVu Sans",source-sans-pro,Helvetica,sans-serif;
+
+}
+/*see more collapsible in incomplete template*/
+@media (hover: hover) {
+  #learn-more-toggle:hover {
+    text-decoration: underline;
+  }
+}
+
+/*css hackjob to fix chrome putting subsections vertically next to infobox on mobile size*/
+.mw-parser-output :is(h1,h2,h3,h4,h5,h6) {
+    min-width: 1em; 
+}
+
+/** CSS trick to fix page name**/
+.mw-logo-container::before {
+	font-weight: bold;
+	content: "Consumer Action Taskforce";
+}
+.mw-logo-wordmark{
+  display: none;
+}
+
+/** Hide extra footer notices **/
+li#footer-info-license-notice,
+li#footer-info-privacy-notice{
+  display: none;
+}
+
+/** Category Page **/
+
+.cat-but-grid{
+
+}
+
+.cat-but-grid a{
+  text-decoration: none;
+}
+
+.cat-but{
+
+}
+
+.cat-but:active{
+  border-color: var( --color-base--active, #404244 ) !important;
+}
+
+@media screen {
+  html.skin-theme-clientpref-night .cat-but:active{
+    border: 2px solid var( --color-base--hover, #404244 ) !important;
+  }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  /* automatic mode */
+  html.skin-theme-clientpref-os .cat-but:active {
+    border: 2px solid var( --color-base--hover, #404244 ) !important;
+  }
+}
+
+@media (hover: hover) {
+  .cat-but:hover{
+    border-color: var( --color-base--hover, #404244 ) !important;
+    transform: scale(1.03);
+    }
+  
+  html.skin-theme-clientpref-night .cat-but:hover{
+    border: 2px solid var( --color-base--hover, #404244 ) !important;
+  }
+}
+@media (hover: hover) and (prefers-color-scheme: dark) {
+  html.skin-theme-clientpref-os .cat-but:hover{
+    border: 2px solid var( --color-base--hover, #404244 ) !important;
+  }
+}
+/** -------------------------------- **/
+
+/** Templates **/ 
+
+/* Notices - Coloured boxes */
+
+.cat-mw-box{
+  border: 1px solid var(--border-color-base, #a2a9b1);
+  border-radius: 0.3rem;
+  margin-bottom:2rem;
+}
+
+.cat-mw-box-header{
+  font-size:1.5rem;
+  line-height: 1.65rem;
+  background:rgba(0,0,0,0.03);
+  padding:0.2rem 1rem;
+}
+
+.cat-mw-box-body{
+  padding:0.2rem 1rem;
+}
+
+/* Infobox */
+
+.infobox {
+  color: var(--color-base, #202122);
+  background-color: var(--background-color-interactive-subtle, #f8f9fa);
+  border: 1px solid #aaa;
+  float: right;
+  margin: 0 0 1em 1em;
+  padding: 0.5em;
+  width: 24em;
+}
+
+.infobox-title {
+  font-size: 2em;
+  text-align: center;
+  border-bottom: 0.2em solid #ccc;
+  padding-bottom: .25em;
+}
+
+.infobox-image{
+  display: flex;
+  aspect-ratio: 2 / 1;
+  align-items: center;
+  justify-content: center;
+}
+
+/*bg color to get visible transparent images in darkmode*/
+
+@media screen {
+  html.skin-theme-clientpref-night .infobox-image{
+    background-color:#909590; 
+  }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  /* automatic mode */
+  html.skin-theme-clientpref-os .infobox-image{
+    background-color:#909590; 
+  }
+}
+
+.infobox-table{
+  width:100%;
+  table-layout:fixed;
+}
+
+.infobox-table td{
+  word-wrap:break-word;
+  text-align: left;
+}
+
+.infobox-table th{
+  text-align: left;
+}
+
+.infobox-table-caption{
+  border-bottom: 0.1em solid #ccc;
+  font-size:125%;
+}
+
+/* Loosely based on https://en.wikipedia.org/wiki/Template:Infobox */
+@media (min-width: 640px) {
+  .infobox {
+    float: right;
+    clear: right;
+  }
+}
+
+@media (max-width: 640px) {
+  .infobox {
+    width: 95%;
+    padding-left:2.5%;
+    padding-right:2.5%
+  }
+}
+
+/** -------------------------------- **/
+
+/** Create page **/
+
+.createPageInput {
+  padding: 1rem;
+  border: 2px solid var(--border-color-base, #a2a9b1); 
+  background-color: var(--background-color-interactive-subtle, #f8f9fa);
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.pageInputActive {
+  border-color: var(--border-color-progressive--focus, #36c);
+  box-shadow: inset 0 0 0 1px var(--box-shadow-color-progressive--focus, #36c);
+  background-color: var(--background-color-interactive-subtle--active, #fff);
+}
+
+@media screen {
+  html.skin-theme-clientpref-night .pageInputActive {
+    border: 2px solid var( --color-base--hover, #404244 );
+    background-color: #101418;
+  }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  /* automatic mode */
+  html.skin-theme-clientpref-os .pageInputActive {
+    border: 2px solid var( --color-base--hover, #404244 );
+    background-color: #101418;
+  }
+}
+
+@media (hover: hover) {
+  .createPageInput:hover{
+    border: 2px solid var( --color-base--hover, #404244 );
+    background-color: var( --background-color-interactive-subtle--active, #fff );
+  }
+
+  html.skin-theme-clientpref-night .createPageInput:hover{
+    border: 2px solid var( --color-base--hover, #404244 );
+    background-color: #101418;
+  }
+}
+
+@media (hover: hover) and (prefers-color-scheme: dark) {
+  html.skin-theme-clientpref-os .createPageInput:hover{
+    border: 2px solid var( --color-base--hover, #404244 );
+    background-color: #101418;
+  }
+}
+
+
+/* Work in progress */
+.create-page {
+  position: relative;
+}
+
+.create-page .grid {
+  display: grid;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+}
+
+.create-page .grid .incident { grid-area: 1 / 1 / 3 / 3; cursor: pointer;}
+.create-page .grid .company { grid-area: 1 / 3 / 2 / 4; cursor: pointer;}
+.create-page .grid .product-line { grid-area: 2 / 3 / 3 / 4;cursor: pointer; }
+.create-page .grid .theme { grid-area: 3 / 1 / 4 / 3; cursor: pointer;}
+.create-page .grid .product { grid-area: 3 / 3 / 4 / 4;cursor: pointer; }
+
+.create-page .hidden {
+  display: none;
+}
+
+.create-page .input-wrapper {
+  padding-top: 16px;
+}
+
+@media (max-width: 640px) {
+  .create-page .grid {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .create-page .input-wrapper {
+    position: sticky;
+    background-color: var(--background-color-base, #fff);
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid var(--border-color-muted, #dadde3);
+    margin-left: -1.5rem;
+    margin-right: -1.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-top: 8px;
+  }
+}
+
+/* Main page, new page summary */
+.mainpage-contents .mw-contributions-list li{
+  padding-bottom: 0.5rem;
+ 
+  margin: 0;
+}
+.mainpage-contents a.mw-newpages-time,
+.mainpage-contents span.mw-newpages-length,
+.mainpage-contents  span.comment,
+.mainpage-contents span.mw-usertoollinks,
+.mainpage-contents span.mw-tag-markers { display: none;}
+
+/** -------------------------------- **/
+
+/* Utility classes */
+
+/* Make an image span the full width of the page (should only be used for very narrow horizontal images) */
+.cat-image-fullwidth img {
+	max-width: 100%;
+	height: auto;
+}</text>
+      <sha1>ewv52jxhtzbyf35xj8dmkpm3pjozrk8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Main</title>
+    <ns>10</ns>
+    <id>7</id>
+    <revision>
+      <id>8</id>
+      <timestamp>2025-03-27T17:34:37Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <comment>copy template</comment>
+      <origin>8</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="94" sha1="d6qtk2plyyqakhbgnv713jjr55rml30" xml:space="preserve">:''Main article: [[{{{1}}}]]''&lt;noinclude&gt;
+{{documentation}}
+[[Category:Templates]]&lt;/noinclude&gt;</text>
+      <sha1>d6qtk2plyyqakhbgnv713jjr55rml30</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Peloton Used Equipment Activation Fee</title>
+    <ns>0</ns>
+    <id>8</id>
+    <revision>
+      <id>28</id>
+      <parentid>24</parentid>
+      <timestamp>2025-03-27T18:49:36Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <origin>28</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6079" sha1="7tlt7s100lx085pu3148dkewznbnif5" xml:space="preserve">{{IncidentCargo
+|Companies=Peloton
+|Categories=somecategory,someothercategory
+|DateOfIncident=2024
+}}
+
+{{incomplete|Issue 1= Section formatting needs work|Issue 2= This needs to be read through and verified as it started of as an AI generated article}}
+
+In 2024, [[Peloton]] announced the introduction of a $95 USD / $125 CAD '''used-equipment activation fee''' for purchasers of second-hand Peloton devices in the U.S. and Canada.&lt;ref&gt;{{Cite web |title=Buying Used Peloton Equipment |url=https://support.onepeloton.com/s/article/360000283723-Buying-A-Used-Peloton-Bike?language=en_US |url-status=live |access-date=20 Mar 2025 |website=[[Peloton]]}}&lt;/ref&gt; This fee, outlined in Peloton's Q4 FY2024 Shareholder Letter, highlights a broader issue in modern consumer markets: the erosion of ownership rights through digital connectivity and corporate oversight.&lt;ref&gt;{{Cite web |last=Song |first=Victoria |date=22 Aug 2024 |title=Peloton is adding a $95 activation fee for secondhand machines |url=https://www.theverge.com/2024/8/22/24225988/peloton-used-equipment-activation-fee-fitness |url-status=live |access-date=20 Mar 2025 |website=The Verge}}&lt;/ref&gt;
+
+===Background===
+Peloton, a fitness equipment and subscription services company, relies heavily on recurring revenue from its connected fitness subscriptions, which constitute a significant portion of its income. To maintain control over its ecosystem and extract value from the secondary market, Peloton introduced the activation fee under the guise of ensuring a '''high-quality onboarding experience''' for new members purchasing pre-owned devices.
+
+The fee applies to secondary-market buyers of Peloton's flagship products, such as the Peloton Bike and Bike+. Upon payment, users gain access to virtual setup assistance and historical data summaries for their devices. Peloton markets the fee as a way to enhance user experience, but critics argue it serves primarily as a revenue-generation tactic.&lt;ref&gt;{{Cite web |last=Ion |first=Florence |date=22 Aug 2024 |title=Buying a Used Peloton? You’ll Need to Pay a Fee Before You Can Ride It |url=https://gizmodo.com/buying-a-used-peloton-youll-need-to-pay-a-fee-before-you-can-ride-it-2000489936 |url-status=live |access-date=20 Mar 2025 |website=GizModo}}&lt;/ref&gt;
+
+===Undermining the first-sale doctrine===
+The introduction of this activation fee raises significant concerns about the erosion of the [[first-sale doctrine]], a legal principle in U.S. copyright law that allows purchasers of a legally acquired product to resell, lend, or give it away without requiring further authorization from the original manufacturer. Traditionally, once a consumer purchases a product, the seller relinquishes control over how it is used or resold.
+
+Peloton's fee effectively inserts the company into every resale transaction of its connected fitness devices. By tying the core functionality of its products to ongoing payment and cloud connectivity, Peloton:
+*'''Restricts consumer autonomy''': Buyers cannot fully utilize a purchased device without paying an additional fee, effectively imposing a form of "double-dipping."
+*'''Creates a paywall for ownership''': Ownership of the hardware is incomplete without additional payments to Peloton, circumventing the First Sale Doctrine's intent.
+*'''Sets a concerning precedent''': Other companies may adopt similar fees, further undermining consumer rights and resale markets.
+
+This approach transforms a straightforward sale into an ongoing service relationship, placing Peloton in a gatekeeping role over transactions between private individuals.
+
+===Consumer impact===
+The fee imposes an additional cost barrier on consumers who already paid for the hardware. By tethering functionality to cloud servers and subscription models, Peloton effectively restricts ownership rights. Without payment of the activation fee, the device's functionality is significantly diminished or inaccessible.
+
+This approach:
+*'''Discourages secondary market transactions''': Buyers are less likely to purchase used equipment due to increased costs.
+*'''Promotes waste''': Devices that could otherwise be resold may instead be discarded, contributing to environmental waste.
+*'''Erodes ownership rights''': Consumers are left with limited control over the products they purchase, contrary to the principles of the First Sale Doctrine.
+
+===Financial and strategic context===
+Peloton's financial struggles provide context for this policy. The company reported a net loss of $30.5 million in Q4 FY2024,&lt;ref&gt;{{Cite web |date=22 Aug 2024 |title=Q4 FY2024 Shareholder Letter |url=https://investor.onepeloton.com/static-files/7598c64a-bc5d-43c0-84a4-7016549587d3 |url-status=live |access-date=20 Mar 2025}}&lt;/ref&gt; an improvement from prior quarters but still indicative of significant challenges. While subscription revenue grew modestly, hardware sales declined, reflecting broader challenges in the connected fitness market.
+
+The activation fee appears to be an attempt to shore up revenue streams amid these difficulties. However, its contribution is unlikely to resolve the company’s financial woes. Critics point out that such fees alienate customers and detract from Peloton’s brand image as a premium fitness provider.
+
+===Broader implications===
+Peloton’s activation fee underscores a broader trend of companies leveraging digital connectivity to maintain post-sale control over products. This aligns with practices seen in other industries, such as:
+*'''Subscription locks''': Requiring recurring payments for access to basic device functionality.
+*'''Cloud dependency''': Rendering devices unusable without an active connection to company servers.
+*'''Fee-based activation''': Charging for services or features that were traditionally included in the purchase price.
+
+These practices collectively undermine consumer ownership and foster a landscape where corporations retain ongoing control over products long after sale.
+
+==References==
+&lt;references /&gt;
+
+[[Category:Incidents]]
+[[Category:Articles based on videos]]
+[[Category:Peloton Interactive]]</text>
+      <sha1>7tlt7s100lx085pu3148dkewznbnif5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Incomplete</title>
+    <ns>10</ns>
+    <id>9</id>
+    <revision>
+      <id>10</id>
+      <timestamp>2025-03-27T17:37:04Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <comment>copy template from cat</comment>
+      <origin>10</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4790" sha1="6y28yr3u914dr2l2eifnlsy8unsmj5v" xml:space="preserve">&lt;noinclude&gt;
+
+== Usage ==
+Add &lt;pre&gt;&lt;nowiki&gt;{{Incomplete
+|Issue 1 = Sources are needed in the section named ... 
+|Issue 2 = Formatting of the article does not match the blueprint 
+|Issue 3 = A third issue
+|Issue 4 = A fourth issue with the article}}&lt;/nowiki&gt;
+&lt;/pre&gt;
+in the beginning of the article to add up to 4 specific issues to the notice:
+{{Incomplete
+|Issue 1 = Sources are needed in the section named ... 
+|Issue 2 = Formatting of the article does not match the blueprint.
+|Issue 3 = A third issue.
+|Issue 4 = A fourth issue with the article.
+}}
+
+If no issues have been listed, &lt;code&gt;&lt;nowiki&gt;{{Incomplete}}&lt;/nowiki&gt;&lt;/code&gt;, the notice looks like this:
+{{Incomplete}}
+
+&lt;templatedata&gt;
+{
+	"params": {
+		"Issue 1": {},
+		"Issue 2": {},
+		"Issue 3": {},
+		"Issue 4": {}
+	},
+	"description": "Add up to 4 specific issues to include as bullet points in the notice"
+}
+&lt;/templatedata&gt;
+
+[[Category:Article notice templates]]
+
+&lt;includeonly&gt;&lt;!-- Uses style code from https://www.mediawiki.org/wiki/Template:Colored_box --&gt;&lt;/noinclude&gt;&lt;div class="cat-mw-box" style=" border-color:rgba(215, 169, 33,0.8); border-top-width: .5rem;"&gt;&lt;div class="cat-mw-box-header"style=" background:rgba(215, 169, 33,0.03);"&gt;
+&lt;span style="margin-right:8px;font-size:2rem"&gt;⚠️&lt;/span&gt; '''Article status notice: This article has been marked as incomplete'''
+&lt;/div&gt;
+&lt;div class="cat-mw-box-body"&gt;
+This article needs additional work to meet the wiki's [[Moderator Guidelines|Content Guidelines]] and be in line with our [[Mission statement|Mission Statement]] for comprehensive coverage of consumer protection issues. {{#if:{{{Issue 1|}}}| In particular: |}}
+{{#if:{{{Issue 1|}}} |# {{{Issue 1}}} }} {{#if:{{{Issue 2|}}} |# {{{Issue 2}}} }} {{#if:{{{Issue 3|}}} |# {{{Issue 3}}} }}{{#if:{{{Issue 4|}}} |# {{{Issue 4}}} }}
+''This notice will be removed once {{#if:{{{Issue 1|}}}| the issue/s highlighted above have been addressed and |}} sufficient documentation has been added to establish the systemic nature of these issues. Once you believe the article is ready to have its notice removed, visit the [https://discord.gg/8w5rSNAXRf  discord] and post to the &lt;code&gt;#appeals&lt;/code&gt; channel.''
+
+&lt;span class="mw-customtoggle-learnMore" id="learn-more-toggle" style="display:block;text-align:center;cursor:pointer;font-weight:bold;"&gt; Learn more ▼ &lt;/span&gt;
+&lt;div class="mw-collapsed mw-collapsible" id="mw-customcollapsible-learnMore" style="display:none"&gt;
+
+&lt;div style="font-size:1.5em; font-weight: 500;padding-top:0.2em;padding-bottom:0.2em"&gt; This Article Requires Additional Verification &lt;/div&gt;
+----
+This article has been flagged due to '''verification concerns'''. While the topic might have merit, the claims presented lack citations that live up to our standards, or rely on sources that are questionable or unverifiable by our standards. Articles must meet the [[Moderator Guidelines]] and [[Mission statement]]; factual accuracy and systemic relevance are required for inclusion here!
+
+&lt;div style="font-size:1.25em; font-weight: 450;padding-top:0.2em;padding-bottom:0.2em"&gt; Why This Article Is In Question &lt;/div&gt;
+----
+Articles in this wiki are required to:
+* Provide verifiable &amp; credible evidence to substantiate claims.
+* Avoid relying on anecdotal, unsourced, or suspicious citations that lack legitimacy.
+* Make sure that all claims are backed by reliable documentation or reporting from reputable sources.
+
+Examples of issues that trigger this notice:
+* A topic that heavily relies on forum posts, personal blogs, or other unverifiable sources.
+* Unsupported claims with no evidence or citations to back them up.
+* Citations to disreputable sources, like non-expert blogs or sites known for spreading misinformation.
+
+&lt;div style="font-size:1.25em; font-weight: 450;padding-top:0.2em;padding-bottom:0.2em"&gt; How You Can Improve This Article &lt;/div&gt;
+----
+To address verification concerns:
+* Replace or supplement weak citations with credible, verifiable sources.
+* Make sure that claims are backed by reputable reporting or independent documentation.
+* Provide additional evidence to demonstrate systemic relevance and factual accuracy. For example:
+** Avoid: Claims based entirely on personal anecdotes or hearsay without supporting documentation.
+** Include: Corporate policies, internal communications, receipts, repair logs, verifiable video evidence, or credible investigative reports.
+
+If you believe this notice has been placed in error, or once the article has been updated to address these concerns, please visit the &lt;code&gt;#appeals&lt;/code&gt; channel on our Discord server: [https://discord.gg/8w5rSNAXRf Join here.]
+&lt;/div&gt;
+{{#ifeq: {{NAMESPACE}} | Template || [[Category:Articles in need of additional work]] [[Category:Articles with verification concerns or other deficiencies]] }}
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/includeonly&gt;</text>
+      <sha1>6y28yr3u914dr2l2eifnlsy8unsmj5v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:IncidentCargo</title>
+    <ns>10</ns>
+    <id>12</id>
+    <revision>
+      <id>23</id>
+      <parentid>13</parentid>
+      <timestamp>2025-03-27T18:36:47Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <comment>change to invisible data addition</comment>
+      <origin>23</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="377" sha1="clz4vtwx0alvfwd1ngtgqu9hiyjjjt3" xml:space="preserve">&lt;noinclude&gt;
+This is the "Incident" template used with cargo and the wiki extension.
+
+{{#cargo_declare:_table=Incidents
+|Companies=List (,) of Page
+|Categories=List (,) of String
+|DateOfIncident=Date
+}}
+
+&lt;/noinclude&gt;
+
+&lt;includeonly&gt;
+{{#cargo_store:_table=Incidents
+|Companies={{{Companies|}}}
+|Categories={{{Categories|}}}
+|DateOfIncident={{{DateOfIncident|}}}
+}}
+
+&lt;/includeonly&gt;</text>
+      <sha1>clz4vtwx0alvfwd1ngtgqu9hiyjjjt3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Peloton removes Just Run feature</title>
+    <ns>0</ns>
+    <id>13</id>
+    <revision>
+      <id>29</id>
+      <parentid>14</parentid>
+      <timestamp>2025-03-27T18:49:54Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <comment>add cargo data</comment>
+      <origin>29</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7807" sha1="43nulgqecwm4jmp44obm4zn8bqjaxto" xml:space="preserve">[[Category:Service Siphoning]]
+{{IncidentCargo
+|Companies=Peloton
+|Categories=somecategory,someothercategory
+|DateOfIncident=2024
+}}
+
+[[Peloton]], a wellness technology company, faced widespread criticism after removing the "Just Run" feature from its Tread and Tread+ treadmills, making it accessible only through a paid subscription. This change, implemented under the guise of safety concerns, sparked debate over consumer rights and digital locks. The incident highlights broader issues surrounding corporate control over purchased products and the use of safety measures as a justification for subscription models. This issue has since been resolved, with Peloton restoring the feature in August 2021 following public backlash.
+
+==Background==
+Peloton sells high-end fitness equipment, which combines hardware with digital fitness programs offered through a subscription service. The Tread+ treadmill, priced at over $4,000, and the Tread treadmill, marketed as premium exercise machines, had previously allowed customers to use basic treadmill functions, including the "Just Run" feature, without a subscription&lt;ref&gt;Michael Kan, "Peloton Restores Free 'Just Run' Feature for Its Treadmill," PCMag, August 10, 2021. [https://web.archive.org/web/20241210095327/https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers]&lt;/ref&gt;.
+
+In May 2021, following reports of injuries to children, Peloton issued a voluntary recall of its Tread+ and Tread models in collaboration with the US [[Consumer Product Safety Commission]] (CPSC). To address safety concerns, Peloton introduced a new feature, Tread Lock, which required users to enter a passcode to prevent unauthorized access&lt;ref&gt;Consumer Product Safety Commission, "Peloton Tread+ Recall Announcement," May 2021. [https://web.archive.org/web/20241002012209/https://www.onepeloton.com/press/articles/tread-and-tread-recall]&lt;/ref&gt;. However, this change also removed access to "Just Run" for non-subscribers, effectively locking users out of basic functionality unless they paid a $39 monthly fee.
+
+==The incident==
+===What happened?===
+In June 2021, Peloton rolled out a software update that effectively disabled the "Just Run" feature for users without an active subscription. The company claimed the change was necessary to integrate Tread Lock, enhancing safety. However, this decision rendered the treadmills unusable for basic functionality unless customers subscribed to Peloton's fitness content&lt;ref&gt;Michael Kan, "Peloton Restores Free 'Just Run' Feature for Its Treadmill," PCMag, August 10, 2021. [https://web.archive.org/web/20241210095327/https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers]&lt;/ref&gt;.
+
+The situation escalated when customers like Jennifer Strong, a Tread+ owner, publicly shared their frustrations. Strong, who purchased her treadmill in 2019, stopped using Peloton's subscription-based content but continued to rely on the free "Just Run" feature. After the update, she discovered she could no longer use her treadmill without paying for a membership&lt;ref&gt;Jennifer Strong, "Peloton Tread+ Facebook Post," Facebook, June 2021. [https://web.archive.org/web/20220428214256im_/https://i.pcmag.com/imagery/articles/03kGxV2wrQ2n7WnIFhrAMnH-2.fit_lim.size_768x.png]&lt;/ref&gt;.
+
+===Who was involved?===
+Key stakeholders included Peloton, its customers, the CPSC, and prominent voices on social media. Customers amplified the issue online, sparking debate about the ethics of Peloton's decision&lt;ref&gt;Brianna Wu, "Social Media Commentary on Peloton Decision," Twitter, June 2021. [https://web.archive.org/web/20230610120941/https://twitter.com/BriannaWu/status/1407009346475675651]&lt;/ref&gt;.
+
+===When and where?===
+The incident began in mid-2021, primarily affecting Peloton users in the United States. The controversy unfolded on social media platforms and online forums.
+
+===What were the consequences?===
+The removal of "Just Run" led to widespread public backlash, with customers accusing Peloton of unethical practices. Many likened the situation to "ransomware," arguing that basic functionality of a purchased product should not be tied to ongoing payments. The outcry pressured Peloton to restore the feature in August 2021 through a software update&lt;ref&gt;Michael Kan, "Peloton Restores Free 'Just Run' Feature for Its Treadmill," PCMag, August 10, 2021. [https://web.archive.org/web/20241210095327/https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers]&lt;/ref&gt;.
+
+==Key Issues==
+===Violations of consumer rights===
+Peloton's decision raised questions about the rights of customers to use purchased products independently of subscriptions. Critics argued that tying basic functionality to a membership fee violated consumer expectations and eroded trust.
+
+===Ethical implications===
+The incident highlighted the ethical concerns of using digital locks to restrict access to product features. Many viewed Peloton's actions as prioritizing revenue generation over customer satisfaction.
+
+===Privacy and security===
+While Tread Lock was implemented as a safety measure, its introduction alongside a paid membership requirement blurred the line between security and monetization.
+
+==Stakeholder reactions==
+===The company===
+Peloton initially defended its decision, citing safety concerns as the rationale for integrating Tread Lock. However, the backlash prompted the company to restore "Just Run" for all users in August 2021. Peloton also urged customers to complete a free inspection and repair of their treadmills to address safety risks&lt;ref&gt;Michael Kan, "Peloton Restores Free 'Just Run' Feature for Its Treadmill," PCMag, August 10, 2021. [https://web.archive.org/web/20241210095327/https://www.pcmag.com/news/peloton-axes-free-just-run-feature-from-treadmill-bricking-it-for-non-subscribers]&lt;/ref&gt;.
+
+===Regulators and government bodies===
+The CPSC, which had overseen the voluntary recall of Tread+ and Tread, did not directly address the subscription controversy but maintained its focus on safety-related concerns&lt;ref&gt;Consumer Product Safety Commission, "Peloton Tread+ Recall Announcement," May 2021. [https://web.archive.org/web/20241002012209/https://www.onepeloton.com/press/articles/tread-and-tread-recall]&lt;/ref&gt;.
+
+===Public and media===
+The incident generated significant media coverage and public debate. Social media users expressed outrage, with many accusing Peloton of exploiting safety measures to enforce a subscription model&lt;ref&gt;Brianna Wu, "Social Media Commentary on Peloton Decision," Twitter, June 2021. [https://web.archive.org/web/20230610120941/https://twitter.com/BriannaWu/status/1407009346475675651]&lt;/ref&gt;.
+
+===Advocacy groups===
+Consumer rights organizations highlighted the case as an example of how companies can misuse digital locks to exert control over purchased products.
+
+==Broader implications==
+===Trends in the industry===
+The controversy reflects a growing trend in the tech industry, where companies increasingly tie product functionality to subscription-based services.
+
+===Consumer impact===
+The incident serves as a cautionary tale for consumers, emphasizing the importance of understanding the risk involved with connected devices. It also underscores the need for clearer communication from companies about product functionality.
+
+===Regulatory considerations===
+The incident highlights potential regulatory gaps in protecting consumers from digital locks that restrict access to basic functionality.
+
+==See Also==
+*[[Subscription model]]
+*[[Digital lock]]
+
+==References==
+&lt;references /&gt;
+
+[[Category:Incidents]]
+[[Category:Peloton Interactive]]
+[[Category:Consumer rights]]
+[[Category:Digital locks]]
+[[Category:Articles based on videos]]</text>
+      <sha1>43nulgqecwm4jmp44obm4zn8bqjaxto</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Forced arbitration</title>
+    <ns>0</ns>
+    <id>14</id>
+    <revision>
+      <id>35</id>
+      <parentid>34</parentid>
+      <timestamp>2025-03-27T19:43:11Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>34</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9745" sha1="oj2b12bgr3q5vwrj4qx0o18fbtzdqlc" xml:space="preserve">'''Forced arbitration''' is a practice in which businesses can require their customers to resolve disputes through arbitration, instead of a traditional court system. Per Wikipedia: "Arbitration is a formal method of dispute resolution involving a third party neutral who makes a binding decision."&lt;ref name=":1"&gt;[[wikipedia:Arbitration#References|https://en.wikipedia.org/wiki/Arbitration]]&lt;/ref&gt;
+
+==How it works==
+Businesses will typically add an arbitration clause to their [[Terms of Service]] or Terms of Use. This clause generally outlines how disputes are handled between the consumer and the business. A good example of a typical arbitration clause can be found in [[Instagram]]'s Terms of Use, which, as of January 6, 2025, is under Section 7.4 - How We Will Handle Disputes:&lt;ref name=":0"&gt;https://web.archive.org/web/20250106102429/https://help.instagram.com/581066165581870/ (January 6th, 2025) Retrieved January 13th, 2025&lt;/ref&gt;&lt;blockquote&gt;"Except as provided below, you and we agree that any cause of action, legal claim, or dispute between you and us arising out of or related to these Terms or Instagram ("claim(s)") must be resolved by arbitration on an individual basis. [[Class action|Class actions]] and class arbitrations are not permitted; you and we may bring a claim only on your own behalf and cannot seek relief that would affect other Instagram users."&lt;/blockquote&gt;Currently, in the United States, arbitration clauses such as this one are legal under the [[Federal Arbitration Act]] (FAA).&lt;ref name=":2"&gt;https://www.govinfo.gov/content/pkg/USCODE-2019-title9/html/USCODE-2019-title9.htm&lt;/ref&gt; Efforts have been made, however, to prohibit forced arbitration, most notably the [[Forced Arbitration Injustice Repeal]] (FAIR) Act of 2023.&lt;ref&gt;https://www.congress.gov/bill/118th-congress/senate-bill/1376&lt;/ref&gt;
+
+The [[wikipedia:United_Nations|United Nations]] has published a guideline for consumer protections in 2016, which lists the following under IV 11(c):&lt;ref&gt;https://unctad.org/system/files/official-document/ditccplpmisc2016d1_en.pdf&lt;/ref&gt;&lt;blockquote&gt;"Businesses should provide complete, accurate and not misleading information regarding the goods and services, terms, conditions, applicable fees and final costs to enable consumers to take informed decisions. Businesses should ensure easy access to this information, especially to the key terms and conditions"&lt;/blockquote&gt;
+
+==Why it is a problem&lt;!-- Extra reading:  https://www.congress.gov/congressional-report/116th-congress/house-report/204/1 --&gt;==
+
+===Revocation of rights===
+The practice of forced arbitration is one that is designed to revoke the rights of the consumer. In this case, the consumer's right to sue or participate in a [[class action]] against a business. Instead, the consumer must work with an arbiter of the businesses' choosing behind closed doors to resolve claims, which is widely believed to result in biased outcomes.
+
+====Bypassing of constitutional rights&lt;!-- Sources to read before integration:  https://scholars.law.unlv.edu/facpub/266/  https://www.clearygottlieb.com/-/media/files/arbitration-and-the-us-constitution-the-impact-of-federalism-and-due-process-on-the-enforcement-of-arbitration-agreements-and-awards-in-the-united-states.pdf  https://digitalcommons.law.uga.edu/fac_artchop/482/ --&gt;====
+Due to the out of place nature of arbitration, various rights granted by the US constitution and its amendments are entirely bypassed.&lt;ref&gt;{{Cite news |last=Zanville |first=Stuart |date=Sep 1, 2015 |title=Forced Arbitration |url=https://www.advocatemagazine.com/article/2015-september/forced-arbitration |url-status=live |archive-url=https://web.archive.org/web/20200921050552/https://www.advocatemagazine.com/article/2015-september/forced-arbitration |archive-date=Sep 21, 2020 |access-date=Mar 5, 2025 |work=Advocate Magazine}}&lt;/ref&gt;&lt;!-- The exact date is a placeholder, since the article does not list the exact day in September it was published --&gt;&lt;ref&gt;https://ir.law.fsu.edu/cgi/viewcontent.cgi?article=1454&amp;context=lr&lt;/ref&gt;&lt;ref&gt;Brunet,  Edward, Arbitration and Constitutional Rights (June 24, 1992). North Carolina Law Review, Vol. 71, pp. 81-120, 1992,  Available at SSRN: https://ssrn.com/abstract=2284464&lt;/ref&gt;
+
+The 7th amendment,&lt;ref&gt;https://constitution.congress.gov/constitution/amendment-7/&lt;/ref&gt; also known as the right to a trial by jury, is bypassed via forced arbitration. Additionally, the 6th amendment,&lt;ref&gt;https://constitution.congress.gov/constitution/amendment-6/&lt;/ref&gt; also known as the right to a speedy trial, is also bypassed by arbitration since arbitrated cases can take excessively longer than traditional public trials,&lt;ref&gt;https://adrtimes.com/how-long-does-arbitration-take/&lt;/ref&gt; especially when lawsuits that could have been filed under class action, end up being broken up into hundreds of individually arbitrated cases, such as what has happened with ''Bucher Law PLLC Vs. Valve Inc.''&lt;ref&gt;https://www.bucherlawfirm.com/steam-case-explained
+&lt;/ref&gt;
+
+===Inconvenient opt-out procedure&lt;!-- Read this, may integrate here:  https://www.nclc.org/study-99-of-consumers-unaware-they-are-subject-to-forced-arbitration/ --&gt;===
+Arbitration is often made inconvenient for users to opt-out of. Instead of giving users the option to do so at sign-up digitally, most businesses will require users to send a handwritten letter within 30 days of their sign-up to opt-out of arbitration. This type of opt-out clause can also be seen in Instagram's Terms of Use:&lt;ref name=":0" /&gt;&lt;blockquote&gt;"You can opt out of this provision within 30 days of the date that you agreed to these Terms. To opt out, you must send your name, residence address, username, email address or phone number you use for your Instagram account, and a clear statement that you want to opt out of this arbitration agreement, and you must send them here:" [Address redacted]&lt;/blockquote&gt;
+
+This practice is similar to how gyms will often require members to travel to their location or send snail mail to cancel a membership, while an online system could easily be put in its place.
+
+===Conflict of interest===
+Companies track performance of arbitrators over time, and as such, are able to pick arbitrators that lean towards the industry rather than the consumer.&lt;ref&gt;https://siepr.stanford.edu/publications/policy-brief/tipping-scales-balancing-consumer-arbitration-cases''Tipping the scales: Balancing consumer arbitration cases''. Amit Seru, Stanford Institute for Economic Policy Research. February 2023. Retrieved January 22nd, 2025.&lt;/ref&gt; While both the consumer and company theoretically have some control over the selection of the arbitrator, the company generally has an information advantage in the selection process. Furthermore, individual arbitrators have a long-term financial incentive to bias their rulings in favor of corporations, as the corporation is much more likely to become a "repeat customer" than the consumer. In extreme cases, entire arbitration firms may have a material conflict of interest.&lt;ref&gt;http://indisputably.org/2009/07/naf-announcement-out-of-consumer-arbitration/ ''NAF Announcement — Out of Consumer Arbitration''. July 20, 2009. Retrieved January 22nd, 2025.&lt;/ref&gt;
+
+==Examples==
+Some examples of arbitration clauses in terms and conditions include:
+
+Instagram Terms of Use - Section 7.4 - How We Will Handle Disputes&lt;ref name=":0" /&gt;
+
+Sony PlayStation Network Terms of Service - Section 14 - Binding Individual Arbitration&lt;ref&gt;https://web.archive.org/web/20241216114722/https://www.playstation.com/en-us/legal/psn-terms-of-service/ (December 16th, 2024) Retrieved January 13th, 2025&lt;/ref&gt;
+
+[[Ticketmaster]] Terms of Use - Section 17 - Mandatory Arbitration Agreement and Class Action Waiver&lt;ref&gt;[https://web.archive.org/web/20250105150022/https://help.ticketmaster.com/hc/en-us/articles/10468830739345-Terms-of-Use#section17 https://web.archive.org/web/20250105150022/https://help.ticketmaster.com/hc/en-us/articles/10468830739345-Terms-of-Use] (January 5th, 2025) Retrieved January 13th, 2025&lt;/ref&gt;
+
+Section 27.1 of [[Zoom]]'s Terms of Service, says "You and Zoom agree that any dispute or claim between you and Zoom arising out of or relating to this Agreement or the Services (a “Dispute”), including any related software, hardware, integrations, advertising or marketing communications, your account, or any aspects of your relationship or transactions with Zoom, will be resolved by binding arbitration, rather than in court." &lt;ref&gt;https://www.zoom.com/en/trust/terms/&lt;/ref&gt;
+
+Section 13.1. Binding arbitration agreement and class action waiver, of [[Zoom|proton]] Terms of Service, says " Please read this section and the class action waiver section carefully – it may significantly affect your legal rights, including your right to file a lawsuit in court and to have a jury hear your claims. It contains procedures for mandatory binding arbitration and a class action waiver."  &lt;ref&gt;{{Cite web |date=2025-01-21 |title=Terms of Service |url=https://proton.me/legal/terms |url-status=live |archive-url=https://web.archive.org/web/20250310210512/https://proton.me/nl/legal/terms |archive-date=2025-03-10 |access-date=2025-3-2025 |website=https://proton.me/}}&lt;/ref&gt;
+
+Yahoo Terms of Service - Section 14.2.b "'''BINDING ARBITRATION AGREEMENT'''" &lt;ref&gt;{{Cite web |title=Yahoo Terms of Service {{!}} Yahoo |url=https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html |url-status=live |archive-url=https://web.archive.org/web/20250315082242/https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html |archive-date=2025-03-15 |access-date=2025-03-15 |website=Yahoo}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+[[Category:Anti-Consumer_Practices]]
+[[Category:Common terms]]
+[[Category:Rights Stripping]]</text>
+      <sha1>oj2b12bgr3q5vwrj4qx0o18fbtzdqlc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>John Deere</title>
+    <ns>0</ns>
+    <id>15</id>
+    <revision>
+      <id>37</id>
+      <parentid>36</parentid>
+      <timestamp>2025-03-27T19:43:11Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>36</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4524" sha1="4hpew3wtyytg0mwmvkli5d32zhykyto" xml:space="preserve">{{InfoboxCompany
+| Name = John Deere
+| Type = Public
+| Founded = 1837
+| Industry = Agricultural machinery, Heavy equipment
+| Official Website = https://deere.com/
+| Logo = John Deere logo.png
+}}
+
+'''[[wikipedia:John Deere|John Deere]]''' is a leading manufacturer of agricultural and heavy machinery. Founded in 1837, they are primarily known for their heavy-duty agriculture machines, such as tractors and combines. They have recently faced criticism for their business practices, especially in the realm of equipment repair. These practices have raised concerns among farmers, independent repair technicians, and consumer-advocacy groups.&lt;ref name="jdflrtrt"&gt;https://www.npr.org/2025/01/15/nx-s1-5260895/john-deere-ftc-lawsuit-right-to-repair-tractors&lt;/ref&gt;
+
+==Consumer impact summary==
+[[File:John deere doc.png|thumb|524x524px|Front Page of the FTC's Suit Against John Deere&lt;ref name="DCRCCN325"&gt;https://www.ftc.gov/system/files/ftc_gov/pdf/DeereCoREDACTEDComplaintCaseNo325-cv-50017.pdf&lt;/ref&gt;]]
+
+====Repairability====
+
+*John Deere limits access to essential repair software and diagnostic tools.&lt;ref name="dith3"&gt;https://pirg.org/resources/deere-in-the-headlights-3/&lt;/ref&gt;
+*Restrictive policies prevent farmers from performing repairs or using independent repair shops, forcing them to rely on authorized dealerships.&lt;ref name="jdflrtrt" /&gt;
+*Farmers have reported being unable to fix minor mechanical issues without John Deere's proprietary tools.&lt;ref name="fssdcp"&gt;https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-states-sue-deere-company-protect-farmers-unfair-corporate-tactics-high-repair-costs&lt;/ref&gt;
+*John Deere has allegedly unlawfully inflated repair costs by controlling the repair-service market.
+
+====Monopoly on repairs====
+&lt;ul&gt;
+&lt;li&gt; John Deere's control over the repair market has been likened to monopolistic behavior.&lt;/li&gt;
+&lt;li&gt; By restricting and controlling access to repair resources and parts, the company has effectively eliminated competition in the repair market.&lt;ref&gt;https://www.courthousenews.com/ftc-accuses-john-deere-of-unlawful-equipment-repair-practices/&lt;/ref&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+====Digital rights and ownership====
+
+*John Deere uses software locks and [[digital rights management]] (DRM) systems that control user autonomy.&lt;ref&gt;https://pirg.org/edfund/resources/john-deere-repair-software/&lt;/ref&gt;
+*These measures prevent farmers and independent repair technicians from completing repairs without access to the proprietary software.&lt;ref name="dith3" /&gt;
+
+====Opposition to right-to-repair legislation====
+
+*John Deere has actively lobbied against [[Right to repair|right-to-repair]] legislation in multiple states, and on the federal level. &lt;ref&gt;[https://pirg.org/resources/john-deere-and-right-to-repair-over-the-years/?utm_source=chatgpt.com https://pirg.org/resources/john-deere-and-right-to-repair-over-the-years/]&lt;/ref&gt;&lt;ref&gt;[https://wisconsinwatch.org/2024/04/midwest-farmers-right-to-repair-agriculture-john-deere-illinois/?utm_source=chatgpt.com https://wisconsinwatch.org/2024/04/midwest-farmers-right-to-repair-agriculture-john-deere-illinois/]&lt;/ref&gt;
+*Despite signing a memorandum of understanding with the American Farm Bureau Federation in 2023, the company has been accused of undermining the spirit of the agreement.&lt;ref&gt;[https://investigatemidwest.org/2024/11/12/is-john-deeres-day-of-reckoning-soon-at-hand/#:~:text=In%20a%20nutshell%3A%20Deere%20embeds%20authorization%20codes%20in,dealers%20have%20access%20to%20all%20the%20verification%20codes. https://investigatemidwest.org/2024/11/12/is-john-deeres-day-of-reckoning-soon-at-hand/#:~:text=In%20a%20nutshell%3A%20Deere%20embeds%20authorization%20codes%20in,dealers%20have%20access%20to%20all%20the%20verification%20codes.]&lt;/ref&gt;&lt;ref&gt;https://www.youtube.com/watch?v=7-RgOUT3zeo&lt;/ref&gt;
+
+==Incidents==
+
+This is a list of all consumer protection incidents this company is involved in. Any incidents not mentioned here can be found in the [[:Category:{{FULLPAGENAME}}|{{PAGENAME}} category]].
+
+===FTC Lawsuit (January 2025)===
+On January 15, 2025, the [[Federal Trade Commission]] (FTC) filed a lawsuit against John Deere, alleging anticompetitive practices in the repair market.&lt;ref name="fssdcp" /&gt;&lt;ref name="DCRCCN325" /&gt; The lawsuit claims that:
+
+*John Deere unlawfully inflated repair costs by monopolizing the repair-service market.
+*The company's restrictive policies violated consumer-protection laws and limited farmers' ability to maintain their equipment.
+
+==References==
+&lt;references /&gt;
+
+[[Category:John Deere]]</text>
+      <sha1>4hpew3wtyytg0mwmvkli5d32zhykyto</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>John Deere dealerships are lobbying against right to repair</title>
+    <ns>0</ns>
+    <id>16</id>
+    <revision>
+      <id>39</id>
+      <parentid>38</parentid>
+      <timestamp>2025-03-27T19:43:11Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>38</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5273" sha1="gtbu97ruo8lwa2lk83iwz8kt9f2pluf" xml:space="preserve">The issue at hand for farmers is the difficulty to repair their own farming equipment. Farmers could not do much to diagnose the problem with their tractor, as they did not have access to the diagnostic software themselves — only a John Deere dealer, not an independent mechanic nor the farmer.&lt;ref name=":0"&gt;{{Cite web|url=https://www.npr.org/2021/05/26/1000400896/standoff-between-farmers-and-tractor-makers-intensifies-over-repair-issues|publisher=NPR News|title=Standoff Between Farmers And Tractor Makers Intensifies Over Repair Issues|date=26 May 2021|author=Uri Berliner|format=radio transcript|language=en}}&lt;/ref&gt; 
+
+The personal story of farmer Schweitzer&lt;ref name=":0" /&gt; highlights two more themes, besides not being able to do the repair themselves. The repair through the dealer takes a long time, a month for the repair in his case, and had high costs, nearly $5,000 to replace a fuel sensor in his case, which he says a local independent mechanic would have charged only a small fraction of that. It is not an option to wait this long, "Unfair repair restrictions can mean farmers face unnecessary delays during tight planting and harvest windows. For some, these delays can mean that months of hard work and much-needed income vanish, devastating their business."&lt;ref&gt;{{Cite web|url=https://www.ftc.gov/system/files/ftc_gov/pdf/deere-lina-khan-statement-final.pdf|date=15 Jan 2025|title=Statement of Chair Lina M. Khan In the Matter of Deere &amp; Company Commission File No. 2110191|publisher=Federal Trade Commission (FTC)|language=en|author=Lina M. Khan}}&lt;/ref&gt;
+
+Tractors and combines have gotten more computerized, which makes it difficult, or nearly impossible, for to diagnose without access to this software.&lt;ref&gt;{{Cite web|url=https://www.mainepublic.org/npr-news/2025-01-15/john-deere-faces-u-s-lawsuit-over-farmers-ability-to-repair-tractors|title=John Deere faces U.S. lawsuit over farmers' ability to repair tractors|author=Alina Selyukh|date=15 January 2025|language=en|format=article|publisher=Maine Public and NPR}}&lt;/ref&gt;
+
+==Maine==
+States have tried legislating against these practices by strengthening the right to repair. In 2020, the following bill was considered in Maine, LD 1977 SP 679,&lt;ref&gt;{{Cite web|url=https://legiscan.com/ME/bill/LD1977/2019|title=ME LD 1977 SP 679: An Act To Ensure a Consumer's Right To Repair Certain Electronic Products|language=en|publisher=Maine Senate}}&lt;/ref&gt;&lt;ref name=":1"&gt;{{Cite web|url=https://www.youtube.com/watch?v=38O1zEuLOMM|title=John Deere dealerships are lobbying against right to repair. Farmers, please help me out here.|date=27 Jan 2020|publisher=YouTube|format=video|language=en|author=Louis Rossmann}}&lt;/ref&gt; which summarizes:&lt;blockquote&gt;This bill establishes a consumer's right to repair electronic devices, excluding motor
+
+vehicles. It requires manufacturers of electronic equipment to make available the
+
+information and equipment necessary for diagnosis and repair of electronic equipment
+
+problems. It prohibits original equipment manufacturers from limiting access to
+
+diagnostic equipment and tools to authorized repair providers and requires manufacturers
+
+to make this information and equipment available to independent repair providers under
+
+fair and reasonable terms. The bill provides that a violation constitutes an unfair trade
+
+practice.&lt;/blockquote&gt;The dealers are lobbying against this bill,&lt;ref name=":1" /&gt; and state a number of reasons. They question the definition of a motor vehicle, and regarding the legislation if it should apply to motor vehicles due to what they call safety concerns. One of dealers argues that right to repair is a touchy subject, as "a lot of us dealers sit back, and say we really almost don't want in essence people possibly working on our equipment."&lt;ref name=":1" /&gt;
+
+At the same time, the delegates of the Nebraska Farm Bureau supported right to repair near unanimously (176-1) on a voice note to formally endorse the right to repair. The delegates represent 58,000 member families that want to have the right to repair of the products they own, and set strong standards for any legislation or agreement with equipment manufacturers.&lt;ref&gt;{{Cite web|url=https://pirg.org/articles/nebraska-farmers-vote-overwhelmingly-for-right-to-repair/|title=Nebraska farmers vote overwhelmingly for Right to Repair|date=11 December 2019|publisher=PIRG|language=en|format=article}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|title=Nebraska Farm Bureau supports right to repair 176-1|url=https://www.youtube.com/watch?v=QkrHjvjhCQ8|publisher=YouTube|format=video|language=en|date=18 Dec 2019|author=Louis Rossmann}}&lt;/ref&gt; 
+
+The dealer reacts to the point of farmers wanting the right to repair by the following points:
+
+*They provide technical manuals in order for people to be able to repair their own equipment.
+*What they might not have for the customers is the computer laptop that would allow them to plug to the tractor.
+*Calls it a misnomer that farmers cannot hire technicians that come by to do this for them.
+*John Deere had this for 18 months, and provides customer service advisors, which customers can buy or subscribe to.
+
+==References==
+&lt;references /&gt;
+[[Category:John Deere]]
+[[Category:Right to repair]]
+[[Category:Incidents]]
+[[Category:Articles based on videos]]</text>
+      <sha1>gtbu97ruo8lwa2lk83iwz8kt9f2pluf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>John Deere employee responds to Right to Repair</title>
+    <ns>0</ns>
+    <id>17</id>
+    <revision>
+      <id>41</id>
+      <parentid>40</parentid>
+      <timestamp>2025-03-27T19:43:12Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>40</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23434" sha1="je1ucy6fow117n31y96gn2eih06pt43" xml:space="preserve">{{Autogenerated}}
+
+The video&lt;ref&gt;{{Cite web |author=Louis Rossmann |date=20 Mar 2020 |title=John Deere employee responds to Right to Repair |url=https://www.youtube.com/watch?v=G8pEHA7EfIQ |publisher=YouTube |language=en |format=video |ref=Rossmann-video-1}}&lt;/ref&gt; mostly reads out the letter that has been sent by the John Deere employee.
+
+==The letter==
+&lt;blockquote&gt;Thank you for taking the time to educate yourself on matters you do not fully understand. I appreciate what you are doing fighting for right to repair and wish you luck. However I would also like for you to have accurate information in order to make yourself more credible. The video I would like to start with is the one published on Jan 26 titled “John Deere dealerships are lobbying AGAINST right to repair. Farmers, please help me out.”&lt;ref&gt;{{Cite web |author=Louis Rossmann |date=27 Jan 2020 |title=John Deere dealerships are lobbying against right to repair. Farmers, please help me out here. |url=https://www.youtube.com/watch?v=38O1zEuLOMM |publisher=YouTube |language=en |format=video |ref=Rossmann-video-2}}&lt;/ref&gt; Much of your commentary in [''sic''] inaccurate and I will address your points one at a time and give proof as to why.
+
+One of the things you talk about is farmers do not want to race their tractors. This is not entirely true. There are competitions farmers compete in with their tractors called “tractor pulls.” If you would like to see this google NTPA. Or go to ntpapull.com. This is the home page of the National Tractor Pullers Association. This is the highest level of the competition in the sport equivalent to Major League Baseball. YouTube some videos of “NTPA tractor pull” and you will see this is Formula One level of competition. And just like baseball has major leagues, minor leagues, AAA, college games, high school, all the way down to neighborhood kids playing at the park, tractor pulling has the same structure. When I was younger I would compete in these at the county level with the same tractors we farmed with. Similar to how people might street race with production cars. And we did modify them to produce more power to compete better. I was doing this at 15 years old.
+
+The tractors used in these professional pulling competitions are purpose built for that sole use. However farmers do modify current production tractors to produce more power in the field. This is usually referred to as “chipping.” The most common brand used by my customers is Steinbauer. www.steinbauer.cc. These devices change the fuel mapping to the engine generating more power. This would be very similar to overclocking a CPU. The reason they do this is very simple. While Deere makes higher powered tractors, they cost more. So instead of buying a bigger tractor they buy a small one and add a “chip” to it in order to increase horsepower. Deere does not want customers to do this for the same reason Intel will not let you overclock a low end i5 running at 3.4GHz and overclock it to 4.6GHz. They want you to buy the faster chip so they lock out the ability to overclock them. And just like CPU’s the more power the more heat they produce. On CPU’s you would upgrade the stock cooler to maybe a water cooled system. On tractors the cooing [''sic''] capacity is designed into the machine for a specific horsepower and not easily upgradeable. Also the transmissions, drive shafts, axles, etc are designed to withstand a certain amount of power.
+
+Another point you mention is farmers are not trying to add to pollution by changing emission standards. This is also not entirely accurate. Google “Deere DPF delete kit” or go to allcartuning.com. These are kits used to change the engine software and components to remove emission devices. This often removes the EGR valve (exhaust gas recirculation), DPF (diesel particulate filter), DOC (diesel oxidation catalyst), SCR (selective catalytic reduction), AOC (ammonia oxidation catalyst), and DEF injection system (diesel exhaust fluid). This is done to save money. DEF is consumed by the engine at a rate of typically 3-6% of fuel consumption. So for every 100 gallons of fuel you will need 5 gallons of DEF. This system is on all modern diesel engines including pickup trucks and semi trucks. Owners remove this system because DEF does not increase performance of the engine. It is injected into the exhaust stream to aid the AOC in removing NOx (nitrous oxides) from the exhaust. This increase [''sic''] the operating cost of the machine but adds no financial benefit. Also the engine mapping can be changed without these emission devices to use less fuel at the same power, however it no longer meets EPA emission standards.
+
+You discussed in your video certain repairs must be completed by software used by the dealership even if the repair is performed by the customer. This is accurate in very specific situations. The short answer to this is because of emissions. I will explain. A current production 8R series tractor can have around 45 on board controllers. The customer has access to the DTC’s (diagnostic trouble codes) of all 45 controllers through the touch screen display in the cab along with a short description of the fault. This is vastly superior to the ability of most cars. If your “check engine” light or “service engine” light comes on in your car you must use a scan tool to retrieve the code. This is not necessary in these tractors as this function is built In to the on board software. Of these 45 controllers the customer can erase the DTC’s themselves on 44 of them with the push of some buttons and the vast majority of the codes on the 45th. The 45th being for the engine. Of the ones the customer can erase it is usually not necessary to do so once the repair is made. When the controller detects the fault has been repaired the code is changed to “stored” instead of “active” and the machine will resume normal operations with no need to interact with the software. Now to achieve optimal performance again some sensors and devices do need to be recalibrated. Majority of the time this is accessible to the customer as well using the on board diagnostics. Now to address the times when it is not accessible to the OBD and dealership laptop must be used. These are called “latched DTC’s.” They are used when a sensor detects a problem with the engine causing it not to meet EPA emission standards. When a fault like this occurs it can physically damage the emissions devices (DOC, DPF, AOC, SCR.) These are very expensive as they are similar to the catalytic converters on your car. To date the most expensive system I have priced out was $18,000.00. If farmers had the ability they would clear this DTC every time it came up and continue to use the machine unaware it was destroying itself and causing excessive pollution. By creating these “latched” codes it does not allow the code to be cleared and keeps the machine in a de-rated condition forcing the problem to be addressed instead of ignored. Yes, my customers ignore the warning on the display and continue to use the machine until the timer in the software runs out “usually a few minutes” and puts the engine in a de-rate mode. When there [''sic''] power and speed are reduced to half that gets their attention. This de-rate mode also helps to protect the engine from any further damage.
+
+I tell you this not to combat you on right to repair, but to educate you on the things you are unaware of. In most cases I am for right to repair and would like it expanded in the industry. I believe people advocating for right to repair need to have accurate information to seem credible when appearing in front of a legislative body, or on a YouTube video. I have greatly simplified many of these topics and focused primarily on Deere’s current production premium heavy ag equipment. I can expand or clarify on any of this more if you would like, or answer any questions you may have. There are also other more technical discussions being held in the industry relating to this topic regarding thigs [''sic''] like data management, third party access to CAN BUS [''sic''], GPS steering system [''sic''], and other situations that would be hard to explain without a background knowledge. Also please let me know how I did explaining this as I feel I will be doing it more in the future and would like to do a competent job of it.
+
+Thank you for your time and I look forward to hearing from you again,
+
+If you provide specific concerns, questions, and complaints you come across I will try my best to answer them directly. But here are some of the ones I come across.
+
+Most of the complaints I feel stem from a lack of knowledge, lack of understanding, misinformation, misinterpretation, and a customer’s desire to complain when things don’t go right and they need somewhere to place the blame. Don’t get me wrong, there are real issues and we deal with them at the dealership level as well. Customers are not the only ones that struggle with it.
+
+Here are some of the complaints that are legitimate and why I feel they are done the way they are. Customers, even with the customer version of the software, still do not have the ability to clear the previously mentioned latched codes even though they can clear any other code. Now why they do this is speculation on my part but I feel there is a good chance it is correct. I am aware of several other diesel engine manufacturers that have similar dealer only requirements when it comes to emissions. This mostly has to do with a function called active regeneration. To understand what active regeneration is you must know a little about how the system works. The filters in the exhaust only function when at full operating temperature. This is normally achieved with passive regeneration. During passive regeneration the normal heat from the exhaust is enough to keep the system working properly. Under light engine loads and cold ambient air temperatures this is not enough to keep the system working. When the filters begin to choke up the system enters active regeneration. Now the engine is actively making changes to cause the exhaust gas to heat up to around 1000 F and "burn" the impurities out of the filters. This process generally takes 45 minutes for a complete cycle. During this time if something happens and the cycle is not allowed to complete the computer records that. This can be from a malfunction, the operator manually aborting the process, or shutting the engine off during the cycle. If this cycle happens to [''sic''] many times in a row the engine goes into a “service only mode” at which time I have to use the dealership software and do a “service regeneration” which typically last [''sic''] 3 hours. This is to recover the system from an excessively restricted state. This situation is most serious in semi trucks when they enter this mode along the interstate and must be repaired there causing delays, expense and risk to the driver and mechanic. This is a long explanation to get to my point. Since so many manufactures do this even in the trucking industry I feel that this is a mandate somehow by the EPA when these things are engineered. I am not sure why else so many manufactures would use a similar unpopular procedure. So I think this is more than likely caused by EPA regulation and not intentional design by Deere or other manufactures to upset their customers. They would go to great lengths to get rid off [''sic''] all of this if they could. If you would like proof google “Volvo diesel emission scandal.” They got in a lot of trouble for defeating the government emission testing. So the short answer is this complaint is caused by government regulation and can not be fixed by more government regulation. Once again, this is speculation on my part but feel it is a plausible scenario.
+
+Another real complaint is customers are not able to program their own controllers once they purchase them. This is very true. Now to understand why this is you must know how it use [''sic''] to be done. When I first started we could not program controllers even at the dealership. Many of the controllers are serial number specific based on the options of the machine, tuning, and security measures. Because of this we had to order every one by serial number. Normally we get parts overnighted but because of the extra step of the factory having to program it first it could add a few days until we received it. This meant the customer was down for days. And if that wasn't the problem after all you just wasted all that time. To combat this problem the dealerships gained the ability to program controllers. This meant we could stock a blank one and program it for whatever machine needed it getting it running the same day greatly improving customer service. If it wasn't the problem you were out of hours instead of days. In the early days this happened often. The early on board diagnostic [''sic''] were poor to no [''sic''] existent. The procedure in the manuals would sometimes say try this part and if that doesn't fix it try this one. This is referred to as swapnostics. Now when this system of programmable controllers was put into place the database was created inside the dealer portal so the only way to gain access to it was with a dealer log in to the corporate website. At the time there really was no customer portal in existence like there is today. Now could this database be incorporated into a customer accessible database? I don't know. I am not a software engineer. Considering the time, resources, money, failings, and aggravation involved with other systems that were incorporated I don't know if it would be worth the expense and manpower involved to do it for how very little it would be utilized by customers. In 25 years of doing this I can not think of one time I've had a customer that would be willing to even attempt to diagnose replace and reprogram their own controller. The risk of damaging a new controller, the investment in hardware and software, and the training and knowledge required to do it just isn't feasible. I don't think the process would be utilized enough to make it worth while. Also currently the software is free for the dealership to download and my dealership does not charge anything but our standard hourly service rate to install it. So a customer would have to program many controllers to ever see a return on investment. To continue on with the software issue in another scenario: when we make a major mechanical change to the machine we have to update the software. This would be like if you decided to change out the manual transmission in your car for an automatic. When this happens the dealership has to contact Deere to have new software created. This has to be done at the engineering level. Exactly how this process is done I'm not sure. But for a customer to have this level of access to software I would imagine it being similar to Microsoft giving you the uncompiled source code for office. Its [''sic''] just not going to happen.
+
+Another common complaint that is true is the lack of independent repair shops. To my knowledge there are no true legitimate businesses operating as independent repair shops in my area. This meaning they have some sort of store front, business cards, file taxes as a business, etc. Unlike cars where you have options besides the dealer like Pep Boys, Midas, Jiffy Lube, any thousands of other small independent repair shops this does not exist for agriculture. They like to blame this on the fact that these shops don't have access to the dealer level software. This is true but I'm not sure this is entirely the reason. This is because I was born in 1973 and grew up on a farm a decade before the first computer was put on a tractor and even then there were no independent repair shops for agriculture in my area. Or anywhere that I am aware of. Now maybe there is or was one somewhere but I feel like they have to be rare. I am very curious to find out if one does or did exists [''sic''] that is specialized in agriculture repair. If you got your farm machine repaired then or even now outside the dealership it was done so by a shadetree mechanic or a moonlighter. If you are not familiar with the terms a shade tree mechanic is someone who works out of their home typically with little to no formal education or training. Kind of like a hobbyist. A moonlighter is someone who works for a dealership during the day and works on their own time at night by the "moonlight" for cash. Now you might be able to get an automotive shop to do a simple repair like charge the air conditioning or a truck repair place to repair a hydraulic hose. But not many places outside the dealership have ever existed for major repair that I am aware of. This probably has a lot to do with demand. I would be surprised to find out there are not more Apple products in the state of New York than John Deere tractors with computers in the country. Not many people own a $300,000 tractor. Opening a tractor repair shop would be a very risky business even with availability to software. Availability to hardware is not an issue. Most of the tools we use are purchase [''sic''] from tool dealers like Snap-On, Matco, Mac, Craftsman, etc. The tools that are only available to dealers we are happy to sell to customers if they are willing to pay for it. We sell a specialized wrench used to change starters on old tractors all the time. In some circumstances we even borrow them out to customers. However if someone wanted to purchase the full line of specialty tools the dealership owns they would have to invest hundreds of thousands of dollars. This just isn't practical in most cases. So this isn't a problem I see changing because of right to repair since this issue is also caused by several other factors. Also the factory warranty for any component related to emissions is five years. So not many new tractors would even go to these shops for engine repair since the dealership will fix it for free. And just to be transparent and clear only the emission system is under warranty for 5 years. The rest of the machine is typically only covered for 1 or 2 years depending on the model.
+
+I have heard people complain about the lack of parts availability. This does not come from the dealer or corporate. We will sell you every part to make a brand new tractor from parts if you would like. We can also get many OEM parts dating back to before 1960. The common ones we stock. I think what they might be referring to is aftermarket parts. I don't know how much control Deere has on aftermarket part availability. Once again I think supply has a lot to do with it. With being so few machines there just isn't much of a market for it. The only major company I am aware of for aftermarket parts is A&amp;I products. There are a few other smaller ones but I don't know of any that deal with controllers. Also Deere hardly makes any of their own electronics. It is all outsourced to companies like Delco, Bosch, Lucas, Phoenix, Delphi, and others. So even electronic components inside of these devices I would think would be largely up to them to supply. And I know some of them are available because there is an independent company called Ag Express that specializes in agriculture electronic component repair and harnessing. Now maybe there is more going on behind the scenes I am unaware of stopping production of aftermarket parts for electronics but I don't know right to repair is going to fix it. As a side note you may want to try and contact Ag Express out of Sulphur Springs Indiana www.agexpress.com. They may be able to give you a lot more detail on the electronic repair side of things outside of the dealership than I could.
+
+Probably the largest real issue that could be fixed by right to repair is lack of third party diagnostic equipment. This was one of the big ones is [''sic''] the automotive industry. If you want to communicate with the machine you must purchase software from Deere. There is no other vendor that supplies a tool that will commentate [''sic''] with Deere equipment. If there was I would own it even having full time access to the dealer level software. Reason being redundancy. When someone comes out with a software update something isn't going to work right, almost guaranteed. In automotive this information had to be made available to other manufacturers. That's how for under $100 you can buy the cheap little code readers at your local auto parts store and not go to the dealership to read the code. These cheap little readers are very limited in what they can do. The professional grade fully functional versions of these are considerably more. I just asked my tool dealer what the top of the line one would cost. He replied with $11,695 for the device and $1499 for a one year subscription. This is a Snap-On brand with a model name of Zeus. For comparison the software from the dealership costs $2340 [''sic''] a year's subscription and you supply your own computer. If you don't want to download it the USB to install it is $35 and the cable to connect to a tractor is $1376.93. The software can run off a web browser on line, however I have the fully installed version on my computer so it works offline. It takes up over 140 GB on my drive. It contains almost every technical manual publication ever made by Deere. It takes a little bit of computer power to efficiently run. So the factory option is still probably more affordable at a total of $3751.93 plus the computer to run it than what the third party option would be at over $13,00 [''sic''] initial investment. But even at $3751 it would be hard to justify for an individual to own the program themselves. My dealership charges $105/hour for my time. So a customer would need me to work on a problem using the software for over 35 hours that first year to get a ROI and 22 hours every following year to cover the price of the subscription. I don't see this very likely. I do spend over 35 hours on customer machines but very rarely that much time diagnosing with the software.
+
+I could go on but it is getting very late and I feel I am making too many typos and grammatical errors. I will continue this another time.
+
+I have no problem with you using this information just so it is not being manipulated, twisted, distorted, edited, or used out of context to change its intended meaning. I am happy to assist however I can. Keep in mind though that I am not in any position of authority to make any definitive claims on the factual correctness of any of this. This is all information I have gathered over my years of training and experience along with educated assumptions. If there is a specific point or topic you would like verified I can try my best to find material at my disposal to validate it. Also if anyone presents information to you proving anything I said false please forward it to me. I like to be correct [''sic''] when I'm wrong so as to not spread inaccurate information and to educate myself.
+
+I will continue this another time explaining where I feel much of the farmers frustration comes from and why they incorrectly feel Right to Repair will fix it.
+&lt;/blockquote&gt;
+
+==See also==
+
+*[[John Deere]]
+*[[John Deere dealerships are lobbying against right to repair]]
+
+==References==
+&lt;references /&gt;
+[[Category:Right to repair]]
+[[Category:John Deere]]</text>
+      <sha1>je1ucy6fow117n31y96gn2eih06pt43</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>John Deere fails to uphold right to repair agreement</title>
+    <ns>0</ns>
+    <id>18</id>
+    <revision>
+      <id>43</id>
+      <parentid>42</parentid>
+      <timestamp>2025-03-27T19:43:12Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>42</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2793" sha1="cj5nik1l82r3f5v5p5g8nwcll6gzkcx" xml:space="preserve">In 2018, [[John Deere|'''John Deere''']] entered a voluntary agreement to provide manuals, training, and diagnostic software for tractors available to purchase by January 1, 2021. However, the company does not appear to have fulfilled this commitment, nor does it seem to have plans to do so in the near future.&lt;ref&gt;{{Cite web|url=https://www.extremetech.com/electronics/320183-john-deere-fails-to-uphold-right-to-repair-agreement-signed-in-2018|publisher=Extreme Tech|date=23 Feb 2021|author=Joel Hruska|title=John Deere Fails to Uphold Right to Repair Agreement Signed in 2018|language=en|format=article}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |author=Louis Rossmann |date=25 Feb 2021 |title=John Deere screws over farmers by weaseling out of agreement |url=https://www.youtube.com/watch?v=ZHfE_k1a0xQ |publisher=YouTube |language=en |format=video |ref=Rossmann-video-1}}&lt;/ref&gt;
+
+==Repair agreement==
+The agreement was made between the Equipment Dealers Association (EDA) and John Deere, amidst ongoing controversy over the concessions made by the EDA at that time. Additionally, the California Farm Bureau reached an agreement with the EDA to formalize these concessions within the agreement.&lt;ref name=":1"&gt;{{Cite web|url=https://www.vice.com/en/article/california-farm-bureau-john-deere-tractor-hacking-right-to-repair/|publisher=Vice Media|author=Jason Koebler|date=11 September 2018|format=article|language=en|title=Farmer Lobbying Group Sells Out Farmers, Helps Enshrine John Deere’s Tractor Repair Monopoly}}&lt;/ref&gt;
+
+These concessions are outlined by the EDA in the "Proposed Amendments to Right to Repair/Fair Repair Legislation".&lt;ref&gt;{{Cite web |author=Louis Rossmann |date=13 Feb 2021 |title=An important message from Louis Rossmann |url=https://www.youtube.com/watch?v=P1jS9V9ckRE |publisher=YouTube |language=en |format=video |ref=Rossmann-video-2}}
+&lt;/ref&gt; According to the EDA, "If anything, it is more restrictive, because it enshrines what the Farm Bureau of California now believes farmers are not supposed to do with their tractors, which includes modifying the embedded software."&lt;ref name=":1" /&gt;
+
+If manufacturers such as John Deere provided farmers with access to software keys, farmers would be able to break free from their reliance on dealers and perform critical repairs themselves.&lt;ref name=":0"&gt;{{Cite web|url=https://pirg.org/resources/deere-in-the-headlights-3/|publisher=PIRG|title=Deere in the Headlights: How software that farmers can't access has become necessary to tractor repair|format=article|language=en|date=5 Feb 2021}}&lt;/ref&gt; However, industry groups argue that doing so would also allow farmers to bypass emissions and safety controls.&lt;ref name=":0" /&gt;
+
+==References==
+&lt;references /&gt;
+[[Category:John Deere]]
+[[Category:Incidents]]
+[[Category:Articles based on videos]]</text>
+      <sha1>cj5nik1l82r3f5v5p5g8nwcll6gzkcx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>John Deere security flaws exposed sensitive customer information</title>
+    <ns>0</ns>
+    <id>19</id>
+    <revision>
+      <id>45</id>
+      <parentid>44</parentid>
+      <timestamp>2025-03-27T19:43:12Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>44</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4610" sha1="n6zbi9idej31qkvknmuufd7inu4l7yi" xml:space="preserve">A number of security flaws in the software [[John Deere]] provided could have allowed hackers to find and download the personal data of all owners of the company’s farming vehicles and equipment. John Deere downplayed the impact while simultaneously increasing their security practices, as security jobs opened and they started to partner up with security researchers.
+
+==Security flaws and the reporting process==
+A security researcher with the alias Sick Codes found severe vulnerabilities in John Deere's software.&lt;ref name=":0"&gt;{{Cite web|url=https://www.vice.com/en/article/bugs-allowed-hackers-to-dox-all-john-deere-owners/|publisher=Vice Media|title=Bugs Allowed Hackers to Dox John Deere Tractor Owners|author=Lorenzo Franceschi-Bicchierai|date=22 April 2021|language=en|format=article}}&lt;/ref&gt; Although John Deere confirmed the existence of the vulnerabilities, they downplayed their impact by stating it was remediated and it did not give "access to customer accounts, dealer accounts, or sensitive personal information."&lt;ref name=":0" /&gt; This was not true according to the security researcher, because on newer farm equipment, the vehicle or equipment owner’s name, their physical address, the equipment’s unique ID, and its Vehicle Identification Number can be seen.&lt;ref name=":0" /&gt;
+
+Besides the security flaws, another major part of the controversy was about the way John Deere handled the reporting of security flaws. The researcher claimed it was researched with a developer account, and the current terms and conditions&lt;ref&gt;{{Cite web|url=https://www.deere.com/en/forms/corporate/it-security-consulting/|archive-url=https://web.archive.org/web/20210424021348/https://www.deere.com/en/forms/corporate/it-security-consulting/|archive-date=24 Apr 2021|url-status=dead|title=Global Security Request form with terms on personal data and privacy|publisher=John Deere|language=en}}&lt;/ref&gt; for disclosing were followed, but were removed after the incident, among other issues like the previously mentioned downplaying of the impact.&lt;ref name=":1"&gt;{{Cite web |author=Louis Rossmann |date=22 Apr 2021 |title=John Deere security flaw exposed address of every customer &amp; more! |url=https://www.youtube.com/watch?v=hqablgjQ02g |publisher=YouTube |language=en |format=video |ref=Rossmann-video-1}}&lt;/ref&gt;
+
+===John Deere's response===
+In the immediate aftermath of the incident, John Deere posted a spate of job openings for embedded cyber security engineers to “drive embedded software cybersecurity requirements and security features development” as well as “develop threat models using industry best practices.&lt;ref&gt;{{Cite web|url=https://www.forbes.com/sites/paulfroberts/2021/04/14/184-years-in-ag-giant-john-deere-awaits-its-first-software-vulnerability/|publisher=Forbes|title=184 Years In: Ag Giant John Deere Awaits Its First Software Vulnerability|author=Paul F. Roberts|date=14 Apr 2021|format=article}}&lt;/ref&gt; Also, soon after the incident, John Deere wrote, "This week's forecast: one to three inches of nonsense", which can be interpreted as denying that the recent security flaws were severe.&lt;ref name=":2"&gt;{{Cite web |author=Louis Rossmann |date=25 Apr 2021 |title=John Deere instigates hackers, gets hacked again |url=https://www.youtube.com/watch?v=rB_SleNKBus |publisher=YouTube |language=en |format=video |ref=Rossmann-video-2}}&lt;/ref&gt; John Deere addressed it by stating "We investigated immediately, and the misconfigurations were fixed right away. The important take away here is that our customers' sensitive personal or business information, including financial and agronomic data, was never accessed, which is a point that didn’t come through in the article."&lt;ref&gt;{{Cite web|url=https://www.agriculture.com/news/technology/john-deere-addresses-the-risks-of-living-in-a-digital-world|title=John Deere Addresses the Ongoing Risks of Living in a Digital World|author=Laurie Bedord|date=23 Apr 2021|language=en|format=article|publisher=Successful Farming}}&lt;/ref&gt; However, their claims seem to be not true, because the researcher claims they could access the data.&lt;ref name=":0" /&gt;&lt;ref name=":1" /&gt;&lt;ref name=":2" /&gt;
+
+Quite a bit later in 2024, John Deere has also partnered up with HackerOne to enhance collaborative relationships with security researchers.&lt;ref&gt;{{Cite web|url=https://www.deere.com/en/our-company/digital-security/hackerone-program/|format=press release|publisher=John Deere|title=Deere Bolsters Information Security With HackerOne Program}}&lt;/ref&gt;
+
+==References==
+&lt;references /&gt;
+[[Category:John Deere]]
+[[Category:Incidents]]
+[[Category:Articles based on videos]]</text>
+      <sha1>n6zbi9idej31qkvknmuufd7inu4l7yi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Google Pixel</title>
+    <ns>0</ns>
+    <id>20</id>
+    <revision>
+      <id>47</id>
+      <parentid>46</parentid>
+      <timestamp>2025-03-27T19:43:12Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>46</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4076" sha1="ktxoxdjcdrsydyhwdcts11l27m43uq8" xml:space="preserve">{{InfoboxProductLine
+| Title = {{PAGENAME}}
+| Release Year = 2013
+| Product Type = Smartphone
+| In Production = Yes
+| Official Website = [https://pixel.google.com/ pixel.google.com]
+| Logo = Google Pixel logo.svg
+}}
+
+'''{{PAGENAME}}''' is a consumer electronic device that Google develops and equips with specialized versions of Android or ChromeOS.
+
+==Consumer impact summary==
+
+A battery-limiting update was pushed automatically without user consent, and users cannot opt-out through normal means. Google removed access to previous firmware versions, effectively limiting users' ability to restore their devices to full functionality.
+
+To receive compensation for the issue, users have to share sensitive personal information, including social security numbers and bank details, with Payoneer, a third-party payment processor. This forces users to choose between their privacy and receiving compensation for their degraded device.
+
+The compensation options favor users choosing to remain within the Google ecosystem ($100 store credit for new Pixel phones, or $50 through Payoneer with fees and privacy concerns).&lt;ref name=":0"&gt;https://support.google.com/pixelphone/answer/15701861
+
+Mirror, via the Wayback Machine: https://web.archive.org/web/20250107002112/https://support.google.com/pixelphone/answer/15701861
+
+Other mirror via archive.ph https://archive.ph/zoooR
+&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Request a repair, payment, or future discount code |url=https://support.google.com/pixelphone/workflow/15642495 |url-status=live |archive-url=https://web.archive.org/web/20250107002104/https://support.google.com/pixelphone/workflow/15642495 |archive-date=7 Jan 2025 |access-date=25 Mar 2025 |website=[[Google]]}}&lt;/ref&gt;&lt;ref name=":1"&gt;{{Cite web |last=Davis |first=Wes |date=8 Jan 2025 |title=Google’s new Pixel 4A update is going to lower battery life for some owners |url=https://www.theverge.com/2025/1/7/24338566/google-pixel-4a-battery-stability-replacement-reduced-capacity |url-status=live |access-date=25 Mar 2025 |website=The Verge}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |title=Annual account fee |url=https://payoneer.custhelp.com/app/answers/detail/a_id/43738/~/annual-account-fee |url-status=live |access-date=25 Mar 2025 |website=[[Payoneer]]}}&lt;/ref&gt;&lt;ref name=":2"&gt;{{Cite web |title=I have replaced battery in a local shop not supported by Google |url=https://www.reddit.com/r/Pixel4a/comments/1i1e4ds/i_have_replaced_battery_in_a_local_shop_not/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;
+
+Google's support team claimed that certain repairs were unsuccessful because they were performed outside of authorized service centers.&lt;ref&gt;{{Cite web |title=Replaced the battery, but still the warning. |url=https://www.reddit.com/r/Pixel4a/comments/1i19hxf/replaced_the_battery_but_still_the_warning/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;&lt;ref name=":22"&gt;{{Cite web |title=I have replaced battery in a local shop not supported by Google |url=https://www.reddit.com/r/Pixel4a/comments/1i1e4ds/i_have_replaced_battery_in_a_local_shop_not/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;
+
+==Incidents==
+This is a list of all consumer protection incidents related to this product line. Any incidents not mentioned here can be found in the [[:Category:{{PAGENAME}}|{{PAGENAME}} category]].
+&lt;!--*''[[Example incident one]]'' (''date''): ''Short summary of the incident (could be the same as the summary preceding the article).''
+*''[[Example incident two]]'' (''date''):--&gt;
+
+Incidents affecting all of the company's products can be found in the company article: [[Google]]
+
+==Products==
+This is a list of the products with articles on this wiki.
+*[[Pixel 4a]] (2020-08-03): An update was pushed, without users' consent, to limit the device's battery capacity and charging speed in an attempt to "improve the stability of their battery's performance".
+
+&lt;!--==See also==
+''Link to relevant theme articles or product lines with similar incidents.''
+--&gt;
+==References==
+{{reflist}}
+
+[[Category:Google Pixel Smartphones]]</text>
+      <sha1>ktxoxdjcdrsydyhwdcts11l27m43uq8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pixel 4a</title>
+    <ns>0</ns>
+    <id>21</id>
+    <revision>
+      <id>49</id>
+      <parentid>48</parentid>
+      <timestamp>2025-03-27T19:43:12Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>48</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="307" sha1="5npa7jlas37f4v9ph26kltfbguh0oci" xml:space="preserve">An exhaustive list of Google Pixel products and incidents can be found at the [[:Category:Google Pixel 4a|Pixel 4a]] category page. More incidents that apply to this device can be found at [[Google Pixel]].
+
+==Incidents==
+[[Pixel 4a Battery Performance Program]]
+
+==References==
+[[Category:Google Pixel 4a]]</text>
+      <sha1>5npa7jlas37f4v9ph26kltfbguh0oci</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pixel 4a Battery Performance Program</title>
+    <ns>0</ns>
+    <id>22</id>
+    <revision>
+      <id>51</id>
+      <parentid>50</parentid>
+      <timestamp>2025-03-27T19:43:13Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>50</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18086" sha1="h7jntcklfe11sabj6r6594xf5iyxeb7" xml:space="preserve">
+The Google Pixel 4a is an Android smartphone designed, developed and marketed by [[Google]]. It was released on August 20, 2020, and reached its end of support on August 5, 2023.&lt;ref&gt;{{Cite web |title=Pixel 4a end of life date |url=https://endoflife.date/pixel |url-status=live |access-date=25 Mar 2025 |website=endoflife.date}}&lt;/ref&gt; On January 6, 2025, Google announced its Pixel 4a Battery Performance Program to users:&lt;blockquote&gt;"Google has determined that certain Pixel 4a phones require a software update to improve the stability of their battery's performance. An automatic update to Android 13 will roll out to all Pixel 4a devices starting January 8, 2025. For some devices ("Impacted Devices"), '''the software update reduces available battery capacity and impacts charging performance.''' [...] users of these Impacted Devices are eligible for an appeasement from Google."''&lt;ref name=":0"&gt;https://support.google.com/pixelphone/answer/15701861
+
+Mirror, via the Wayback Machine: https://web.archive.org/web/20250107002112/https://support.google.com/pixelphone/answer/15701861
+
+Other mirror via archive.ph https://archive.ph/zoooR&lt;/ref&gt;''&lt;ref&gt;{{Cite web |date=6 Jan 2025 |title=Pixel 4a Battery Performance Program |url=https://support.google.com/pixelphone/answer/15701861 |url-status=deviated |archive-url=https://web.archive.org/web/20250107002112/https://support.google.com/pixelphone/answer/15701861 |archive-date=7 Jan 2025 |access-date=25 Mar 2025 |website=[[Google]]}}&lt;/ref&gt;
+
+Google pixel needs certain battery replacements for 2025&lt;/blockquote&gt;
+
+==Compensation&lt;!-- Written in present tense, as this situation is ongoing as of January 18, 2025. --&gt;==
+
+===Request form sent out to users===
+Google has asked users to provide the IMEI (International Mobile Equipment Identity) number of their Pixel 4a to determine whether their device is an "Impacted Device."&lt;ref&gt;{{Cite web |title=Request a repair, payment, or future discount code |url=https://support.google.com/pixelphone/workflow/15642495 |url-status=live |archive-url=https://web.archive.org/web/20250107002104/https://support.google.com/pixelphone/workflow/15642495 |archive-date=7 Jan 2025 |access-date=25 Mar 2025 |website=[[Google]]}}&lt;/ref&gt;&lt;ref name=":1"&gt;{{Cite web |last=Davis |first=Wes |date=8 Jan 2025 |title=Google’s new Pixel 4A update is going to lower battery life for some owners |url=https://www.theverge.com/2025/1/7/24338566/google-pixel-4a-battery-stability-replacement-reduced-capacity |url-status=live |access-date=25 Mar 2025 |website=The Verge}}&lt;/ref&gt; If the user's device is an "Impacted Device," they may choose one of the following:
+
+*'''Free battery replacement''' (only available in: United States, Canada, United Kingdom, Germany, Singapore, and India)
+*'''$100 USD''' (or local equivalent) '''discount code applicable towards the purchase of another Pixel phone''' on the Google Store (unavailable in certain countries)
+*'''$50 USD''' (or local equivalent)&lt;ref name=":0" /&gt;
+
+Compensation will be unavailable after January 6, 2026.&lt;ref name=":0" /&gt;
+
+===Payment-processing issues===
+The $50 USD compensation option requires users to process payment through [[wikipedia:Payoneer|Payoneer]], which has many issues:
+*Users must provide sensitive personal information including social security numbers and bank details
+*A $3 USD processing fee is deducted from the compensation
+*An annual account fee of $29.95 USD is charged if the account balance does not exceed $2,000 USD in transactions within 12 months&lt;ref&gt;{{Cite web |title=Annual account fee |url=https://payoneer.custhelp.com/app/answers/detail/a_id/43738/~/annual-account-fee |url-status=live |access-date=25 Mar 2025 |website=[[Payoneer]]}}&lt;/ref&gt;
+*Users report being advised to immediately delete their Payoneer account after receiving compensation to avoid fees&lt;ref name=":2"&gt;{{Cite web |title=I have replaced battery in a local shop not supported by Google |url=https://www.reddit.com/r/Pixel4a/comments/1i1e4ds/i_have_replaced_battery_in_a_local_shop_not/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;
+
+===Store-credit limitations===
+The $100 USD Google Store credit option has restrictions:
+*Must be used on full-price devices in most regions
+*Available only for Pixel phone purchases&lt;ref name=":0" /&gt;
+*Cannot be used in conjunction with trade-in offers
+*Users cannot change their compensation choice after selecting this option&lt;ref name=":3"&gt;{{Cite web |title=$100 Google Store voucher code cannot be combined with sale price apparently? |url=https://www.reddit.com/r/Pixel4a/comments/1i2zz4g/100_google_store_voucher_code_cannot_be_combined/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;
+
+===Editing of initial announcement===
+By January 15, 2025 the following edit had been inserted into the original January 6 announcement:&lt;blockquote&gt;"'''Note:''' Carefully select your appeasement option as after you choose, you can't change it. You may have statutory rights available to you under laws of the country where you purchased the device. If available to you, you may alternatively make a claim pursuant to those."&lt;ref&gt;January 7, 2025, via the Wayback Machine: https://web.archive.org/web/20250107002112/https://support.google.com/pixelphone/answer/15701861
+
+January 15, 2025, via the Wayback Machine: https://web.archive.org/web/20250115045948/https://support.google.com/pixelphone/answer/15701861&lt;/ref&gt;&lt;/blockquote&gt;
+
+==Aftermath of software update==
+Users with "Impacted Devices" who have received the update have reported severely decreased battery capacity &amp; other performance issues.
+
+===Battery-performance issues===
+Users have reported several issues following the update:
+*Erratic battery percentage readings, including sudden jumps in charge levels
+*Battery percentage remaining static despite continuous use
+*Reduced charging speeds
+*Permanent exclamation mark appearing in battery indicator
+*Forced battery percentage display
+*Severely reduced battery life, even with recently replaced batteries&lt;ref name=":4"&gt;{{Cite web |title=I change my battery a month BEFORE the upgrade, but after, I got the ! mark ... any tips ? |url=https://www.reddit.com/r/Pixel4a/comments/1i2xm7c/i_change_my_battery_a_month_before_the_upgrade/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;
+
+===Battery-replacement complications===
+Many users have reported that replacing the battery, either before or after the update, doesn't fix the performance limitations:
+*Devices with new batteries still show warning indicators
+*Performance remains capped even with official Google batteries
+*Users who replaced batteries before the update experienced the same limitations as those with original batteries&lt;ref name=":4" /&gt;
+*Google support has indicated this may be due to repairs being performed outside of authorized service centers&lt;ref&gt;{{Cite web |title=Replaced the battery, but still the warning. |url=https://www.reddit.com/r/Pixel4a/comments/1i19hxf/replaced_the_battery_but_still_the_warning/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;&lt;ref name=":2" /&gt;
+
+In a Reddit poll posted on the r/Pixel4a subreddit, 170 out 212 respondents stated that their device had been identified as an "Impacted Device" by Google.&lt;ref&gt;{{Cite web |title=Pixel 4a battery update: Google says "some" phones will be negatively affected. Let's see for ourselves what percentage is "some" |url=https://www.reddit.com/r/Pixel4a/comments/1hvmggd/pixel_4a_battery_update_google_says_some_phones/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;
+
+====Technical evidence of battery changes====
+Hector Martin has analyzed the software update of the Pixel 4a. He determined that the battery profiles had changed such that "LSN" batteries (e.g. "Lishen"?) have a significantly lower charge limit.&lt;ref&gt;{{Cite web |last=Martin |first=Hector |title=So there's a bunch of noise going around a sneaky forced Google Pixel 4a update that seems to cripple batteries... and this is quite interesting. |url=https://social.treehouse.systems/@marcan/113914172433692339 |url-status=dead |archive-url=https://web.archive.org/web/20250204103910/https://social.treehouse.systems/@marcan/113914172433692339 |archive-date=4 Feb 2025 |access-date=25 Mar 2025 |website=Mastodon}}&lt;/ref&gt; Presumably this means that battery replacements will only restore battery performance if the battery is replaced with an "ATL" battery ("Amperex Technology Limited"). It is possible to differentiate between the manufactures by looking at the serial number on the battery. 8230015901 is ATL and 8230020501 is LSN. Note that these refer to the companies manufacturing the cells, not the batteries, so the brand name is not printed on the battery itself.
+
+==Possible technical rationale==
+While Google has not provided detailed technical explanations for the update, there are several known factors about lithium-ion battery aging that could potentially justify such measures:
+
+===Aging lithium-ion batteries===
+Lithium-ion batteries face degradation as they age:
+*Loss of active lithium ions through repeated charge cycles
+*Growth of the Solid Electrolyte Interphase (SEI) layer
+*Physical expansion &amp; contraction stress during charging cycles
+*Potential for dendrite formation in aged cells
+*Increased internal resistance over time&lt;ref&gt;{{Cite web |last=Chu |first=Tien-Fu |last2=Rajendran |first2=Raja |last3=Kuznetsova |first3=Iren |last4=Wang |first4=Gou-Jen |date=31 Mar 2020 |title=High-power, non-enzymatic glucose biofuel cell based on a nano/micro hybrid-structured Au anode |url=https://www.sciencedirect.com/science/article/abs/pii/S0378775320301476 |url-status=live |access-date=22 Mar 2025 |website=ScienceDirect}}&lt;/ref&gt;
+
+===Safety considerations===
+Several factors specific to the Pixel 4a situation could indicate that this was a battery safety concern:
+*The device was released in August 2020; many units are approaching 4.5 years of use
+*The mandatory nature of the update suggests safety implications rather than performance optimization
+*The use of specialized shipping containers marked for "Damaged/Defective Lithium Ion Battery(s)" parallels procedures used for known hazardous devices&lt;ref&gt;{{Cite web |title=Certainly Seems Battery Defect-Related (vs Planned Obsolescence) |url=https://www.reddit.com/r/Pixel4a/comments/1hxyp6z/certainly_seems_battery_defectrelated_vs_planned/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;&lt;ref&gt;[https://www.cultofmac.com/wp-content/uploads/2016/10/Note-7-return-kit.png Shipping container picture]&lt;/ref&gt;
+
+*The update seems to target specific device serial numbers rather than all units; suggesting a manufacturing batch issue&lt;ref name=":1" /&gt;
+
+===Precedent in mobile phones===
+Similar battery-related interventions have occurred previously; Apple's 2017 iPhone throttling was done to prevent unexpected shutdowns in devices with degraded batteries.
+
+===Potential manufacturing variables===
+Several factors could explain why only certain devices are affected:
+*Different battery suppliers or manufacturing batches
+*Variations in battery cell chemistry or construction
+*Manufacturing date ranges coinciding with specific material supplies
+*Quality control variations between production runs
+
+These technical considerations suggest the update may be a preventative measure against potential battery safety issues, rather than planned obsolescence. However, Google's limited transparency about the specific technical justification has left users unable to verify this interpretation.&lt;ref name=":5"&gt;{{Cite web |last=Purdy |first=Kevin |date=7 Jan 2025 |title=Google Pixel 4a gets an unexpected update: Lower battery life |url=https://arstechnica.com/gadgets/2025/01/good-news-bad-news-pixel-4a-is-getting-an-update-but-it-reduces-battery-life/ |url-status=live |access-date=25 Mar 2025 |website=ArsTechnica}}&lt;/ref&gt;
+
+==Criticism by community==
+The following concerns have been raised regarding the Pixel 4a Battery Performance Program:
+
+#This update is an automatic update '''users can not opt''' '''out''' of.
+#*While the update can be circumvented, it requires technical knowledge of Android phones, which an average user does not have.
+#Google's communication on what the problem with "Impacted Devices" is and how the update seeks to remedy it has been vague.&lt;ref name=":5" /&gt;
+#*As Google has not publicly commented on the issue, users have been left to speculate on what the intent behind the update could be.
+#Google Support has been giving out misleading or incorrect information'''.'''
+#*Google Support initially stated that the $100 USD coupon code could not be used in combination with other sales. This has turned out to be false. This information may have affected the compensation option customers chose.&lt;ref name=":3" /&gt;&lt;ref&gt;{{Cite web |title=The Pixel discount DOES stack with the sale! |url=https://www.reddit.com/r/Pixel4a/comments/1i6ei4x/the_pixel_discount_does_stack_with_the_sale/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;
+#At least two users have reported Google Support telling them that their Pixel 4a's trade-in price would be lowered after the update's installation.&lt;ref&gt;{{Cite web |title=Does anyone know if they'll give full cashback for Pixel 4a after update |url=https://www.reddit.com/r/Pixel4a/comments/1i43nz3/does_anyone_know_if_theyll_give_full_cashback_for/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;
+#Google's use of Payoneer makes it impossible for people to receive the $50 that Google offered as an option. The most someone can receive is $47 if they share personal financial information with an unknown-to-them company including their social security number, and promptly cancel the Payoneer service to avoid additional fees.
+
+==Restoring battery functionality==
+
+===Replacing the battery===
+[[#Technical evidence of battery changes|Initial reverse engineering efforts]] suggest that you can identify if your battery is bad by looking at the serial number. If you're going to replace the battery outside of Google's program with another OEM battery, look for one with the serial number "8230015901". Make sure it does NOT have the bad serial number, "8230020501".
+
+The serial number is printed on the battery, as marked in the following image:
+
+[[File:Pixel 4a battery serial.jpg|500px]]
+
+You may also be able to run the following command over [https://www.xda-developers.com/install-adb-windows-macos-linux/ adb shell] to retrieve the serial number:&lt;ref&gt;{{Cite web |date=30 Jan 2025 |title=Battery update analysis and way to detect affected battery |url=https://xdaforums.com/t/battery-update-analysis-and-way-to-detect-affected-battery.4716132/ |url-status=live |access-date=25 Mar 2025 |website=XDA Forums}}&lt;/ref&gt;
+
+ adb shell cat /sys/class/power_supply/battery/serial_number
+
+===Blocking the update or flashing older firmware===
+'''Warning:''' please consider the [[Pixel 4a Battery Performance Program#Safety considerations|battery safety concerns]] before reverting or ignoring updates. Users must evaluate battery health at own risk.
+
+Following the criticism, the community was quick to find workarounds to retain or restore previous battery capacity. Users can stop the update by blocking DNS requests to Google's OTA servers (''ota.googlezip.net, ota-cache1.googlezip.net, ota-cache2.googlezip.net'') via a DNS filtering application such as NextDNS, RethinkDNS, or AdAway&lt;ref&gt;{{Cite web |title=THE ONLY WORKING SOLUTION to stop the forced battery update - this works even if the update is currently downloading, or has already been downloaded and it's waiting for a restart to apply it |url=https://www.reddit.com/r/Pixel4a/comments/1i0zih0/the_only_working_solution_to_stop_the_forced/ |url-status=live |access-date=25 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt;. Users can delete an already downloaded (and not yet installed) update: ''Settings -&gt; Apps -&gt; All Apps -&gt; Google Play Services -&gt; Storage and cache -&gt; Manage Space'' and from there on delete all data through the "'''Clear all data'''" button. If the phone has already installed the Jan 2025 update, users can manually flash the previous firmware to restore functionality&lt;ref&gt;{{Cite web |date=17 Jan 2025 |title=How to: Undo the January 2025 update without losing data (unlocked devices only). |url=https://xdaforums.com/t/how-to-undo-the-january-2025-update-without-losing-data-unlocked-devices-only.4713980/ |url-status=live |access-date=25 Mar 2025 |website=XDA Forums}}&lt;/ref&gt;. Flashing to the previous firmware requires unlocking the bootloader&lt;ref&gt;{{Cite web |date=25 Aug 2020 |title=[GUIDE] Unlock/Root/Safetynet for Pixel 4a |url=https://xdaforums.com/t/guide-unlock-root-safetynet-for-pixel-4a.4153773/ |url-status=live |access-date=25 Mar 2025 |website=XDA Forums}}&lt;/ref&gt;, and a copy of the previous firmware from November 2023 (sunfish-tq3a.230805.001.s1-factory-82902ea9)&lt;ref&gt;{{Cite web |date=6 Jan 2025 |title=Changes coming to your Pixel 4a |url=https://xdaforums.com/t/changes-coming-to-your-pixel-4a.4712085/ |url-status=live |access-date=25 Mar 2025 |website=XDA Forums}}&lt;/ref&gt;.
+
+Google has removed all official images for the pixel 4a except the jan 2025 update, effectively removing official images as an option for downgrades &lt;ref&gt;{{Cite web |title=Factory Images for Nexus and Pixel Devices |url=https://developers.google.com/android/images#sunfish |url-status=live |access-date=25 Mar 2025 |website=Google Play Services}}&lt;/ref&gt;.
+
+===Flashing a custom firmware===
+'''Warning:''' please consider the [[Pixel 4a Battery Performance Program#Safety considerations|battery safety concerns]] before ignoring the battery update. Users must evaluate battery health at own risk.
+
+Another option is flashing a custom firmware ("ROM") onto the device, such as [[wikipedia:LineageOS|LineageOS]], [[wikipedia:CalyxOS|CalyxOS]], or [[wikipedia:GrapheneOS|GrapheneOS]]. Custom ROMs have not adopted the closed source kernel changes that reduce the battery's capacity.
+
+==References==
+&lt;references /&gt;
+
+[[Category:Incidents]]
+[[Category:Google Pixel 4a]]</text>
+      <sha1>h7jntcklfe11sabj6r6594xf5iyxeb7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>HP Instant Ink</title>
+    <ns>0</ns>
+    <id>23</id>
+    <revision>
+      <id>53</id>
+      <parentid>52</parentid>
+      <timestamp>2025-03-27T19:43:13Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>52</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9023" sha1="ijxg3d7q656hgf7099yh4xwj8papczz" xml:space="preserve">{{InfoboxProductLine
+| Title = HP Instant Ink
+| Release Year = 2013
+| Product Type = Subscription Service
+| In Production = Yes
+| Official Website = [https://instantink.hpconnected.com HP Instant Ink]
+| Logo = Hp-ii-logo.webp
+}}'''HP Instant Ink''' is a subscription service launched by [[HP Inc.]] for its printers in late 2013.&lt;ref&gt;{{Cite web |date=24 Sep 2013 |title=HP launches new Instant Ink programme |url=https://www.therecycler.com/posts/hp-launches-new-instant-ink-programme/ |url-status=dead |archive-url=https://web.archive.org/web/20220503181925/https://www.therecycler.com/posts/hp-launches-new-instant-ink-programme/ |archive-date=3 May 2022 |access-date=26 Mar 2023 |website=The Recycler}}&lt;/ref&gt; Consumers with compatible printers can choose from five different plans based on their usage volume and receive a set amount of ink each month to cover that usage. The monthly price includes the relevant ink or toner, delivery, and recycling of used cartridges.
+
+In 2024, HP began offering paper as part of the monthly plans, for an additional fee. This was rolled out to countries including the US, the UK, metropolitan France, and Germany.&lt;ref&gt;{{Cite web |title=Never run out of paper again! |url=https://instantink.hpconnected.com/us/en/l/v2/paper |url-status=live |archive-url=https://archive.is/yFWIQ |archive-date=29 Jan 2025 |access-date=26 Mar 2025 |website=[[HP]]}}&lt;/ref&gt;
+
+Also in 2024 [[HP All-In Plan]], a new printer-lease program was announced. This program expanded from just cartridges to include a printer that, depending on the tier of subscription, limited the number of pages that could be printed, effectively removing the ability to use third-party cartridges.&lt;ref&gt;{{Cite web |title=Enjoy hassle-free printing with the HP All-In Plan |url=https://www.hp.com/us-en/all-in-plan/printers.html |url-status=live |access-date=26 Mar 2025 |website=[[HP]]}}&lt;/ref&gt; The program at the time of writing offers three different printers, each with various printing plans based on the number of pages to be printed, at different prices.
+
+==Consumer impact summary==
+Use of a subscription service for ink/toner cartridges and/or printers allows HP to maintain post-sale control of a product the consumer used to purchase and own outright. Such practices limit autonomy and freedom of consumer to use the products they pay for as they see fit.&lt;ref&gt; See section on limitation of printer usability&lt;/ref&gt; Further using a subscription service means the consumer uses these products under specific terms that can change at any time&lt;ref name="TOS"&gt;{{Cite web |last= |date=Jan 2024 |title=Instant Ink Terms of Service for Consumer &amp; Business Customers |url=https://instantink.hpconnected.com/us/en/terms |url-status=live |access-date=26 Mar 2025 |website=[[HP]]}}&lt;/ref&gt; leaving them without recourse in many cases. 
+
+Of note is also the limitation to use specific brands of ink extending market control of the manufacturer and locking the consumer to an ecosystem entirely under their control. 
+
+==Incidents==
+Incidents affecting the entire product line can be found in the company article: [[HP Inc.]]
+
+===Cost savings and Pricing===
+As of January 2025, the pricing for each tier of the service for customers in the US was as follows:
+
+&lt;div style="display: flex;justify-content: space-around;"&gt;
+
+{| class="wikitable"
+! colspan="6" |HP Instant Ink
+|-
+|
+!Light
+!Occasional
+!Moderate
+!Frequent
+!Business
+|-
+!'''Pages / Month'''
+|10
+|50
+|100
+|300
+|700
+|-
+!'''$US / Month'''
+|1.49
+|4.99
+|6.99
+|13.99
+|27.99
+|-
+! colspan="6" |Paper Plan
+|-
+!'''+$US / Month'''
+|0.79
+|1.99
+|3.49
+|5.99
+|10.99
+|-
+!'''Total'''
+|2.28
+|6.98
+|10.48
+|19.98
+|38.98
+|}
+&lt;/div&gt;
+
+HP claims that "most customers save on ink and many save up to 50% compared to buying traditional ink cartridges."&lt;ref&gt;{{Cite web |title=HP Instant Ink FAQs |url=https://www.hp.com/us-en/printers/instant-ink/faq.html#faq |url-status=live |access-date=26 Mar 2025 |website=[[HP]]}}&lt;/ref&gt; The cost savings are based on the monthly subscription cost of the 700-pages-per-month "Business" plan of the program, and the results are compared to the cost per page to print ISO/IEC 24711 pages on A4 paper in color.
+
+The printers used in the study that led to these findings in the 2022 and 2023 reports&lt;ref&gt;[https://keypointintelligence.com/HPInstantInk Keypoint Intelligence Study]&lt;/ref&gt; were all HP branded, and the ink or toner was Original Equipment Manufacturer (OEM) (i.e. not using third-party inks), as HP notes in their FAQ sections. Comparisons were not made with the XL cartridges, which are cheaper per unit of ink.
+
+HP Chief Financial Officer Marie Meyers has also publicly stated that HP sees a 20% uplift on the value of a consumer (i.e. a consumer spends 20% more with HP) when they are locked into an ink and paper subscription model vs. a traditional transactional pricing model.&lt;ref&gt;{{Cite web |last=Kunert |first=Paul |date=4 Dec 2023 |title=HP exec says quiet part out loud when it comes to locking in print customers |url=https://www.theregister.com/2023/12/04/hp_printer_lockin/ |url-status=live |access-date=26 Mar 2025 |website=The Register}}&lt;/ref&gt;
+
+===Cancellation or alteration of plans===
+
+HP Instant Ink can be canceled at any time according to the terms of service&lt;ref name="TOS" /&gt; with billing stopping at the end of the month. Upon cancellation, all outstanding debts are collected.
+
+The HP All-in program can be canceled for free if done within 30 days of enrolling, and the printer is returned within 10 days of cancellation. However, if the subscription has been maintained for longer than 30 days and less than 24 months, there are additional fees to cancel (as per the FAQ on Jan 13).
+
+At the time of writing, the Basic printer starts at $6.99 per month ($83.88 per year), and cancellation after 30 days but before 12 months will cost $120 in fees. Before 24 months, it would cost $60 in fees. That is 143% and 71% of the per-year cost of this plan, respectively.
+
+===HP+ trial activation and limitation of printer usability===
+HP+ is a free six-month trial of HP Instant Ink that comes with a new printer. It is optional, but it is extremely easy for a user to activate HP+ during installation.&lt;ref&gt;{{Cite web |last=Stone |first=M. David |date=9 Sep 2021 |title=HP Instant Ink vs. HP Plus vs. HP Smart: Which Ink Program Saves You the Most? |url=https://www.pcmag.com/how-to/hp-instant-ink-vs-hp-plus-vs-hp-smart-which-ink-program-saves-you-the-most |url-status=live |access-date=26 Mar 2025 |website=PCMag}}&lt;/ref&gt; After activating HP+, the printer is permanently flashed with updated firmware, which causes the printer to only accept genuine HP-branded consumables.&lt;ref&gt;https://www-dodrukarki-pl.translate.goog/blog/dlaczego-drukarki-z-serii-hp-nie-obsluguja-zamiennikow?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=pl&amp;_x_tr_pto=wapp&lt;/ref&gt;
+
+All HP printer models ending with an "e" (for example ''HP OfficeJet 8035e'') support activating HP+.&lt;ref&gt;{{Cite web |date=9 May 2023 |title=HP+ printers models ending with the letter "e" does not recognize compatible cartridges |url=https://support.shopperplus.com/en/support/solutions/articles/9000227500-hp-printers-models-ending-with-the-letter-e-does-not-recognize-compatible-cartridges |url-status=live |access-date=26 Mar 2025 |website=Shopper+}}&lt;/ref&gt; This has the potential to devalue used HP printers in this class, as the previous owner of the printer may have activated HP+, rendering the printer incompatible with cheaper non-OEM replacement ink cartridges or toner.
+
+==Lawsuit==
+
+On July 6, 2021, a [[class action|class-action lawsuit]] was filed against HP.&lt;ref&gt;[https://www.classaction.org/media/barnert-v-hp-inc.pdf Barnert v HP Inc.] Case File via classaction.org&lt;/ref&gt;
+
+The main allegations made in the suit were:
+
+*HP will block you from using cartridges or ink purchased outside of the program, a fact they do not disclose.
+*Cartridges and toners are not always sent on time.
+*Sometimes cartridges are faulty on arrival.
+*Prepaid return mailers are not always supplied.
+*Upon cancellation, you cannot use the remainder of your ink.
+
+In February 2023, HP settled the complaints, and the parties have filed for dismissal.&lt;ref&gt;[https://www.therecycler.com/posts/hp-settles-instant-ink-complaint/ HP settles Instant Ink Complaint]&lt;/ref&gt;
+
+==Workarounds==
+It is possible on some HP cartridge models and their respective printers to replace the DRM chip of an incompatible cartridge with one from a compatible OEM cartridge. This possible because many HP cartridge models share the exact same physical dimensions despite the difference in name. This also allows for the use of less expensive, third-party cartridges or refillable cartridges in printers that may not have had them available for purchase otherwise.
+
+''[[HP Ink Cartridge ID Chip Swap Guide|Read the full guide here.]]''
+
+==See also==
+*[[HP Inc.]]
+*[[Canon Ink DRM]]
+*[[Right to own]]
+*[[Subscription service]]
+
+==References==
+
+[[Category:Products]]
+[[Category:Lawsuits]]
+[[Category:Subscription-based services]]
+&lt;references /&gt;</text>
+      <sha1>ijxg3d7q656hgf7099yh4xwj8papczz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>HP Inc.</title>
+    <ns>0</ns>
+    <id>24</id>
+    <revision>
+      <id>55</id>
+      <parentid>54</parentid>
+      <timestamp>2025-03-27T19:43:13Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>54</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6281" sha1="qerfhpcqbwd5l0ir27esnmpcpcpo3kf" xml:space="preserve">{{StubNotice}}
+
+{{InfoboxCompany
+| Name = HP Inc.
+| Type = Public
+| Founded = 1939
+| Industry = Information Technology
+| Official Website = https://hp.com/
+| Logo = HP.png
+}}
+
+'''{{wplink|HP Inc.}}''' is an American multinational information technology company formed in 2015 as a successor to the {{wplink|Hewlett-Packard}} company founded in 1939 by {{wplink|Bill Hewlett}} and {{wplink|David Packard}}.
+
+==HP sub-brands==
+{| class="wikitable"
+|+
+!Sub-brand&lt;ref&gt;{{Cite web |title=Brand Central |url=https://www.hp.com/us-en/hp-information/brandcentral.html |url-status=live |website=[[HP Inc.]]}}&lt;/ref&gt;
+!Description
+!Created/Acquired
+|-
+|OMEN
+|High-end focused laptops and desktops lineup, former VoodooPC
+|2013
+|-
+|[[HyperX]]
+|High-end gaming peripherals
+|2021
+|-
+|Z by HP
+|Professional workstations and laptops
+|2009
+|-
+|HP Wolf Security
+|Security service to lock in and add anti-virus to HP laptops for remote offices&lt;ref&gt;{{Cite web |title=HP Wolf Security |url=https://www.hp.com/us-en/security/endpoint-security-solutions.html |url-status=live |website=[[HP Inc.]]}}&lt;/ref&gt;
+|2021
+|-
+|HP Anyware
+|Service to create a seamless experience for teams to interact with their digital workspaces from virtually anywhere
+|2021
+|-
+|Fitstation by HP
+|Partnership to create personalized tech products like footwear, in 2024 HP took the Fitstation insole platform off the market.&lt;ref&gt;{{Cite web |last=Sher |first=Davide |date=18 May 2024 |title=HP silently took the Fitstation insole platform off the market |url=https://www.voxelmatters.com/hp-silently-took-the-fitstation-insole-platform-off-the-market/ |access-date=15 Mar 2025 |website=VoxelMatters}}&lt;/ref&gt;
+|2017
+|}
+&lt;nowiki&gt;*&lt;/nowiki&gt; HP Anyware was acquired in 2021 along with [[Teradici]].&lt;ref&gt;{{Cite web |date=27 Jul 2021 |title=HP Inc. to Acquire Teradici |url=https://www.hp.com/us-en/newsroom/press-releases/2021/hp-inc-to-acquire-teradici.html |url-status=live |access-date=15 Mar 2025 |website=[[HP]]}}&lt;/ref&gt;
+
+==Consumer impact summary==
+HP has implemented several controversial policies and practices that negatively impact consumers:
+
+*forcing customers to wait 15 minutes on support calls
+*some printers requiring ink cartridges to be sufficiently filled to use scanning and faxing features, and scanning often mandating an HP account and app, sometimes even an internet connection.
+*firmware updates bricking devices
+*Instant Ink subscription service and Dynamic Security system, that respectively lock cartridges behind a subscriprion and restrict the use of aftermarket ones
+
+==Controversies==
+
+===HP adds 15 minutes to all customer service phone calls===
+{{Main|HP adds 15 minutes to all customer service phone calls}}
+In February 2025, HP Inc. instituted a policy to artificially force all consumer PC &amp; print customers to wait a minimum of 15 minutes when calling support. This policy pushes the callers towards the cheaper online support channels, an operation which HP Inc. calls influencing "customers to increase their adoption of digital self-solve".&lt;ref&gt;{{Cite web |last=Kunert |first=Paul |date=20 Feb 2025 |title=HP deliberately adds 15 minutes waiting time for telephone support calls |url=https://www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes/ |url-status=live |access-date=15 Mar 2025 |website=The Register}}&lt;/ref&gt; 
+
+===Ink required to scan and fax===
+{{Main|HP Printers Ink Requirements Controversy}}
+To use the scanning and faxing feature on some HP all-in-one printers, all cartridges must not be too low on ink.
+
+===Account required to scan===
+To use the scanning feature on some HP printers, both the HP app and a HP account are required, at times even an internet connection is also required.{{citation needed}}
+
+An alternative would be to use Windows' in-built scan feature (albeit rudimentary, it should suffice for basic scanning) or 3rd party software / program such as [https://www.naps2.com/ NAPS2] (a free and open source software). 
+
+===Firmware updates stop HP printers from working (Errors 79 and 49)===
+An over-the-air update for some HP printer products (DeskJets and LaserJets) with network capabilities caused errors 79 and 49 to be shown on the user interface of these devices, softlocking the printers. In some instances, these faulty updates were not avoidable, because the "update" prompt had to be accepted to access the printer again. First reports of this showed up in public around October 2022.&lt;ref&gt;{{Cite web |last=Born |first=Günter |date=17 Nov 2022 |access-date=15 Mar 2025 |title=Okt. 2022 Firmware-Update macht HP-Drucker mit Error 49 oder 79 unbrauchbar |url=https://www.borncity.com/blog/2022/11/17/okt-2022-firmware-update-macht-hp-drucker-mit-service-error-49-unbrauchbar/ |website=Borns IT- und Windows-Blog |language=de}}&lt;/ref&gt;
+&lt;ref&gt;{{Cite web |last=guenni |date=17 Nov 2022 |access-date=15 Mar 2025 |title=Oct. 2022 Firmware update bricks HP printer with Error 49 or 79 |url=https://borncity.com/win/2022/11/17/oct-2022-firmware-update-bricks-hp-printer-with-error-49-or-79/ |website=Born's Tech and Windows World}}&lt;/ref&gt;
+In some cases, the devices could be recovered,&lt;ref&gt;{{Cite web |date=15 Nov 2022 |title=Color LaserJet Pro MFP-M281fdw shows 49 Service Error after firmware update from 20th October |url=https://h30434.www3.hp.com/t5/Printing-Errors-or-Lights-Stuck-Print-Jobs/Color-LaserJet-Pro-MFP-M281fdw-shows-49-Service-Error-after/m-p/8540292/highlight/true#M962703 |url-status=live |access-date=15 Mar 2025 |website=[[HP]]}}&lt;/ref&gt; but for an unknown amount of users, no official nor unofficial fix was applicable. This effectively lead to bricked devices that had to be replaced, often times but not always, right after the warranty period had ended.
+
+==Products/Services==
+===HP Instant Ink===
+{{Main|HP Instant Ink}}
+
+HP Instant Ink refers to a subscription service for certain printers in which recipients may receive a set amount of HP Ink Cartridges each month. It has recently come into controversy for changing into a program with various limiting features in 2024.  
+
+===HP Dynamic Security===
+{{Main|HP Dynamic Security}}
+
+HP Dynamic Security refers to a system in some HP printers to restrict the use of aftermarket ink cartridges, ensuring only original cartridges can be used.
+
+=References=
+{{Reflist}}
+[[Category:HP Inc.]]</text>
+      <sha1>qerfhpcqbwd5l0ir27esnmpcpcpo3kf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>HP adds 15 minutes to all customer service phone calls</title>
+    <ns>0</ns>
+    <id>25</id>
+    <revision>
+      <id>57</id>
+      <parentid>56</parentid>
+      <timestamp>2025-03-27T19:43:14Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>56</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5916" sha1="tkz40um12a4s06r4otyzq37cmbrg0gc" xml:space="preserve">In February 2025, [[HP Inc.]] instituted a policy to artificially tell all consumer PC &amp; print customers they will have to wait a minimum of 15 minutes when calling support. This was designed to discourage customers from using phone support, but did not actually artificially inflate wait times.
+
+==Background==
+HP's actions must be understood in context with their other business practices. Normally, answering the phone would not be that bad, even if a customer is frustrated with a broken device. However, HP has several anti-consumer policies that exist for no reason other than to make money: the company has a documented history of deliberately implementing these policies. 
+
+*HP's printer business model relies heavily on recurring revenue from ink subscriptions and cartridge sales rather than hardware profits&lt;ref name="instant_ink"&gt;{{cite web |url=https://wiki.rossmanngroup.com/wiki/HP_Instant_Ink |title=HP Instant Ink |publisher=Consumer Action Taskforce Wiki |access-date=2025-02-22}}&lt;/ref&gt;
+*The company uses various technological measures like Dynamic Security to prevent customers from using third-party ink cartridges&lt;ref name="dynamic_security"&gt;{{cite web |url=https://wiki.rossmanngroup.com/wiki/HP_Dynamic_Security |title=HP Dynamic Security |publisher=Consumer Action Taskforce Wiki |access-date=2025-02-22}}&lt;/ref&gt;
+*Their all-in-one printers restrict functionality like scanning when ink levels are low, forcing additional cartridge purchases&lt;ref name="ink_requirements"&gt;{{cite web |url=https://wiki.rossmanngroup.com/wiki/HP_Printers_Ink_Requirements_Controversy |title=HP Printers Ink Requirements Controversy |publisher=Consumer Action Taskforce Wiki |access-date=2025-02-22}}&lt;/ref&gt;
+
+In this context, the phone support delay appears to be another method of channelling customers toward HP's preferred digital support options, which mitigate the company's exposure to speaking to angry customers, and answer for these policies. As acknowledged in internal documents, the policy was explicitly designed to "generate warranty cost efficiencies" and increase "digital adoption" by making phone support deliberately inconvenient.&lt;ref name="register1"&gt;{{cite web |author=Kunert |first=Paul |date=2025-02-20 |title=HP deliberately adds 15 minutes waiting time for telephone support calls |url=https://www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes/ |url-status=live |access-date=2025-02-22 |publisher=The Register |ref=Kunert2025-1}}&lt;/ref&gt; The company's Chief Financial Officer Marie Myers has previously stated that customers spend 20% more when locked into HP's digital ecosystem compared to traditional transaction models.&lt;ref name="register2"&gt;{{cite web |last=Kunert |first=Paul |date=2023-12-04 |title=HP exec says quiet part out loud when it comes to locking in print customers |url=https://www.theregister.com/2023/12/04/hp_printer_lockin/ |url-status=live |access-date=2025-02-22 |publisher=The Register}}&lt;/ref&gt;
+
+==Artificial wait time implemented==
+On February 18, 2025, HP implemented a mandatory 15-minute wait time for anyone calling their telephone support centers in the UK, Ireland, France, Germany, and Italy.&lt;ref name="register1" /&gt; The system was designed to:
+
+*Play an initial message warning of ''"high call volumes"'' &amp; a 15-minute wait
+*Repeat this message at the 5th, 10th, and 13th minute of waiting
+*Direct customers to online support options throughout the wait
+*Track metrics on how many customers abandoned phone calls in favor of digital channels&lt;ref name="register1" /&gt;
+
+Internal HP communications obtained by ''The Register'' revealed that this was not due to actual high call volumes, but was instead an intentional policy to "influence customers to increase their adoption of digital self-solve."&lt;ref name="register1" /&gt;
+
+==HP's response==
+At first, HP declined to comment publicly on the implementation of this policy. However, after public exposure by ''The Register'' on February 20, 2025, &amp; significant backlash from both customers &amp; internal staff who were forced to deal with customers who were angry with the artificial 15 minute delay, HP reversed the policy on February 21, 2025.&lt;ref name="register3"&gt;{{cite web |author=Kunert |first=Paul |date=2025-02-21 |title=HP ditches 15-minute wait time policy due to 'feedback' |url=https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/ |url-status=live |access-date=2025-02-22 |publisher=The Register |ref=Kunert2025-2}}&lt;/ref&gt;
+
+In their statement announcing the reversal, HP claimed the initiative was ''"intended to provide more digital options with the goal of reducing time to resolve inquiries"'' and acknowledged that ''"speaking to live customer service agents in a timely fashion is paramount."''&lt;ref name="register3" /&gt;
+
+==Internal response==
+Internal sources at HP reported significant dissatisfaction with the policy among staff members. An insider in HP's European operations told ''The Register'' that "Many within HP are pretty unhappy [about] the measures being taken and the fact those making decisions don't have to deal with the customers who their decisions impact."&lt;ref name="register1" /&gt;
+
+==Consumer impact==
+The policy represented several aspects of modern consumer exploitation:
+
+*Deliberate degradation of service quality to try and change consumer behavior
+*Use of false pretenses (claiming "high call volumes" for artificial delays)
+*Forcing customers toward automated systems that limit their ability to negotiate solutions
+*Creating artificial barriers to access warranty and support services
+
+The rapid reversal of the policy after public exposure shows how companies may abandon anti-consumer practices when faced with public scrutiny, even if they initially deemed them acceptable internal business practices.
+
+==References==
+{{reflist}}
+
+[[Category:HP]]
+[[Category:Incidents]]
+[[Category:Customer service]]
+[[Category:2025 in computing]]</text>
+      <sha1>tkz40um12a4s06r4otyzq37cmbrg0gc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>HP Printers Ink Requirements Controversy</title>
+    <ns>0</ns>
+    <id>26</id>
+    <revision>
+      <id>59</id>
+      <parentid>58</parentid>
+      <timestamp>2025-03-27T19:43:14Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>58</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7688" sha1="5jmxu1p1niyftzay9t9t345ftnt7wyr" xml:space="preserve">[[HP]] produces all-in-one printers, which are marketed as a complete solution for printing, scanning documents, and sending faxes. However, these printers enter an error state when the ink level in one of the cartridges is too low, disabling all functionalities—including scanning and faxing—even though these features do not require ink.&lt;ref name=":0"&gt;{{Cite web |last=Harding |first=Scharon |date=15 Aug 2023 |title=Requiring ink to scan a document—yet another insult from the printer industry |url=https://arstechnica.com/gadgets/2023/08/the-printers-that-require-ink-to-scan-and-fax/ |url-status=live |access-date=27 Mar 2025 |website=ArsTechnica}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |date=18 Feb 2022 |title=can't scan due to low ink. I shouldn't need ink to scan a document. Is there a work around for this? |url=https://h30434.www3.hp.com/t5/Scanning-Faxing-Copying/can-t-scan-due-to-low-ink-I-shouldn-t-need-ink-to-scan-a/td-p/8308292 |url-status=live |access-date=27 Mar 2025 |website=[[HP]]}}&lt;/ref&gt; HP has faced legal actions&lt;ref name=":1"&gt;{{Cite web |last=Shaak |first=Erin |date=1 Jul 2022 |title=Design Flaw? HP Printers Won’t Scan, Fax When Ink Is Low, Class Action Alleges |url=https://www.classaction.org/blog/design-flaw-hp-printers-wont-scan-fax-when-ink-is-low-class-action-alleges |url-status=live |access-date=27 Mar 2025 |website=ClassAction.org}}&lt;/ref&gt;&lt;ref&gt;https://regmedia.co.uk/2023/08/11/freund-hp-judge-order.pdf&lt;/ref&gt; because it sells its products as all-in-one solutions but does not clearly disclose that ink is necessary to use any of the functionalities.
+==Background==
+Printer manufacturers often sell their printer hardware at a loss, knowing they will profit significantly from subsequent ink cartridge sales. 
+
+==Requiring ink for scanning and faxing==
+The core issue centers on HP's intentional design choice to disable all printer functionality when ink levels become low. Specifically:
+
+*Printers enter an error state when any single ink cartridge runs low
+*Scanning and faxing capabilities are completely disabled despite not requiring ink
+*HP did not disclose this limitation in marketing materials&lt;ref name=":1" /&gt;
+*Each replacement ink cartridge costs approximately $30&lt;ref name=":1" /&gt;
+
+===HP's response===
+HP initially declined to comment publicly on the issue, citing pending litigation.&lt;ref&gt;{{Cite web |last=Hamilton |first=David |date=15 Aug 2023 |title=HP fails to derail claims that it bricks scanners on multifunction printers when ink runs low |url=https://apnews.com/article/hp-printers-scanner-disabled-low-ink-9d8a0e3b5b49bb408467f7f75735ab0a |url-status=live |access-date=27 Mar 2025 |website=APNews}}&lt;/ref&gt;
+
+==Lawsuits==
+The case against HP states that this is a design flaw, and points to the advertising not disclosing it and instead calling the printers "convenient because you don’t have to buy a separate device for each task".&lt;ref&gt;https://www.classaction.org/media/freund-et-al-v-hp-inc.pdf&lt;/ref&gt;
+[[File:HP support forum printer-scanner not scanning without ink.png|alt=user asks on HP support forum why their scanner will not properly scan without ink|thumb|user asks on HP support forum why their scanner will not properly scan without ink &lt;ref&gt;https://web.archive.org/web/20230811234030/https://h30434.www3.hp.com/t5/Scanning-Faxing-Copying/Scanning-without-a-working-ink-cartridge/td-p/6777739&lt;/ref&gt;]]
+[[File:HP support rep says that the printer needs ink to work, ignoring the fact that the customer is asking about the SCANNER portion of the printer-scanner combo.png|alt=HP support rep says that the printer needs ink to work, ignoring the fact that the customer is asking about the SCANNER portion of the printer/scanner combo|thumb|HP support rep says that the printer needs ink to work, ignoring the fact that the customer is asking about the SCANNER portion of the printer/scanner combo &lt;ref&gt;https://web.archive.org/web/20230811234030/https://h30434.www3.hp.com/t5/Scanning-Faxing-Copying/Scanning-without-a-working-ink-cartridge/td-p/6777739&lt;/ref&gt;]]
+
+==HP's official support response==
+
+In the now-archived official HP support forums&lt;ref&gt;[[:File:Scanning without a working ink cartridge - HP Support Community - 6777739.pdf]]&lt;/ref&gt;, users were trying to scan documents; but they had low or damaged ink cartridges. HP's official representatives consistently confirmed that their printers are intentionally designed to prevent scanning when ink is low or missing.
+
+When users asked how to bypass error messages to perform scanning functions that technically do not require ink, HP support agents responded with statements such as:
+
+*"HP Printer is designed in such a way that with the empty cartridge or without the cartridge printer will not function."&lt;ref&gt;https://web.archive.org/web/20230811234030/https://h30434.www3.hp.com/t5/Scanning-Faxing-Copying/Scanning-without-a-working-ink-cartridge/td-p/6777739&lt;/ref&gt;
+
+In one representative exchange from 2018, a user with a damaged black ink cartridge asked: "Is there a way to scan without having to purchase a new cartridge?" After they tried various workarounds suggested by HP support, another user with the same issue reported they remained "unable to bypass this error message" &amp; explained they "urgently need to scan some documents" despite not needing to print.
+
+HP's support agent reiterated that bypassing this requirement was impossible, directing users only to purchase replacement cartridges regardless of whether printing functionality was needed.&lt;ref&gt;https://web.archive.org/web/20230811234030/https://h30434.www3.hp.com/t5/Scanning-Faxing-Copying/Scanning-without-a-working-ink-cartridge/td-p/6777739&lt;/ref&gt;
+
+The support forum documentation confirms that HP's approach is a deliberate design choice rather than a technical limitation, as the scanning hardware does not use ink to function.
+
+They use the words "Printer is designed in such a way that with the empty cartridge printer will not function" with double meaning. This is technically a printer/scanner combo device: and a printer technically needs ink to work. They are not saying that the SCANNER will not work without ink, but by calling it a "printer" rather than a "printer/scanner" combo, they are avoiding saying the obviously contentious part out loud, while remaining factually correct in describing the customer's plight. 
+
+===Canon===
+[[Canon]] faced similar charges, but they settled privately.&lt;ref&gt;{{Cite web |last=Hollister |first=Sean |date=15 Aug 2023 |title=Canon is getting away with printers that won’t scan sans ink — but HP might pay |url=https://www.theverge.com/2023/8/11/23067867/canon-hp-class-action-lawsuit-scan-without-ink-settlement |url-status=live |access-date=27 Mar 2025 |website=The Verge}}&lt;/ref&gt; Canon's requires all ink tanks to be installed on certain all-in-one printer, and support instead prompts consumers to disable the function that detects ink levels if they want to scan with empty ink tanks.&lt;ref name=":0" /&gt;
+
+==Consumer response==
+Consumers state that not only the ink levels are required, but that there are other practices regarding the ink levels.&lt;ref&gt;{{Cite web |title=HP and anti-consumer practices just found this in one of the YouTube comment sections, this is outrageous. |url=https://www.reddit.com/r/printers/comments/1bd4ho3/hp_and_anticonsumer_practices_just_found_this_in/ |url-status=live |access-date=27 Mar 2025 |website=[[Reddit]]}}&lt;/ref&gt; These range from cartridge [[DRM]] to ink sensors which are too sensitive, meaning they report empty ink too early with still ink present, causing waste with serious environmental concerns and additional consumer cost.
+
+==References==
+{{reflist}}
+
+[[Category:HP Inc.]]
+[[Category:Lawsuits]]</text>
+      <sha1>5jmxu1p1niyftzay9t9t345ftnt7wyr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>HP Dynamic Security</title>
+    <ns>0</ns>
+    <id>27</id>
+    <revision>
+      <id>61</id>
+      <parentid>60</parentid>
+      <timestamp>2025-03-27T19:43:14Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>60</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9079" sha1="3npluemnqj0hds03zwenly10iys7g4q" xml:space="preserve">'''Dynamic Security''' is a technology implemented by [[HP Inc.|HP]] in some of their printers to restrict the use of aftermarket cartridges. This technology ensures that only original cartridges can be used, and it operates through two main mechanisms:&lt;ref&gt;{{Cite web |date=13 Oct 2022 |title=What is Dynamic Security? How Does it Impact You? |url=https://www.scc-inc.com/Newsroom/What-is-Dynamic-Security-How-Does-it-Impact-You |url-status=live |access-date=15 Mar 2025 |website=[[Static Control]]}}&lt;/ref&gt;
+
+#'''Cartridge Policy''': This feature ensures that only HP original cartridges are compatible with the printer. The ability to use non-HP cartridges is effectively disabled unless Dynamic Security is turned off.
+#'''Cartridge Protection''': This feature permanently associates cartridges with the specific printer they are first installed in. Once a cartridge is linked to a printer, it cannot be refilled when it runs out of ink, or reused in another printer. Even swapping chips from an empty original cartridge to a new aftermarket one will not make it functional.
+
+==Potential security threats==
+HP claims that when using an aftermarket cartridge, the customer is exposed to quality and potential security risks, compromising the printing experience.&lt;ref&gt;{{Cite web |last=Bhardwaj |first=Vishal |date=23 Jan 2024 |title=HP cites threat of viruses from non-HP printer cartridges to justify blocking their use, experts sceptical |url=https://www.notebookcheck.net/HP-cites-threat-of-viruses-from-non-HP-printer-cartridges-to-justify-blocking-their-use-experts-sceptical.795726.0.html |url-status=live |access-date=15 Mar 2025 |website=[[NotebookCheck]]}}&lt;/ref&gt; To go into more detail on the security part, HP CEO [[wikipedia:Enrique_Lores|Enrique Lores]] has explained that Dynamic Security aims to protect customer from viruses that could be injected into third party cartridges, and used to gain persistent access and full control of the printer. However, this type of attack has no real-world evidence to support it, as such an incident has never been documented. Experts argue that the risk of such an attack occurring is practically non-existent. It is worth noting that these security concerns only exist because HP's official cartridges contain chips, designed to verify authenticity and estimate ink levels. These chips are not essential for the printer to function properly. However, the ink level estimation feature is used to [[HP Printers Ink Requirements Controversy|restrict certain functionalities]], such as scanning, or faxing, when the one of four ink levels are too low.&lt;ref&gt;{{Cite web |date=18 Feb 2022 |title=can't scan due to low ink. I shouldn't need ink to scan a document. Is there a work around for this? |url=https://h30434.www3.hp.com/t5/Scanning-Faxing-Copying/can-t-scan-due-to-low-ink-I-shouldn-t-need-ink-to-scan-a/td-p/8308292 |url-status=live |access-date=15 Mar 2025 |website=[[HP]]}}&lt;/ref&gt;
+
+==March 2025 Dynamic Security Firmware Update Issue==
+In March 2025, a firmware updated resulted in many people's HP LaserJet MFP M234dw/dwe printers not printing when firmware version 20250209 was pushed to these printers. Unlike previous Dynamic Security updates which targeted ''aftermarket'' cartridges, this update caused printers to reject even genuine HP toner cartridges (both 134X &amp; 134A models) with "Error 11" (Toner Supply Memory Problem).&lt;ref name=":0"&gt;{{Cite web |date=8 Mar 2025 |title=Error Code 11 - M234DWE - Genuine Toner suddenly stopped working. Unable to clear error |url=https://h30434.www3.hp.com/t5/Printing-Errors-or-Lights-Stuck-Print-Jobs/Error-Code-11-M234DWE-Genuine-Toner-suddenly-stopped-working/m-p/9334587#M1034030 |url-status=live |access-date=15 Mar 2025 |website=[[HP]]}}&lt;/ref&gt;&lt;ref&gt;https://h30434.www3.hp.com/t5/forums/forumtopicprintpage/board-id/PostPrint/message-id/1034030/print-single-message/false/page/1&lt;/ref&gt;
+
+Users who had been printing with no issues before now had their printers displaying Error 11, with the web interface showing "Toner Supply Memory problem." Many users said that replacing cartridges with brand new HP-branded toner did not resolve the issue, making their printer unusable. One user said, ''"I have a $90 toner cartridge installed that has printed less than 50 of the 2400 pages it is rated for."&lt;ref name=":0" /&gt;''&lt;ref&gt;https://h30434.www3.hp.com/t5/forums/forumtopicprintpage/board-id/PostPrint/message-id/1034030/print-single-message/false/page/5&lt;/ref&gt;
+
+An HP Support Agent acknowledged the issue was related to Dynamic Security, stating: ''"The Error 11 (Toner Supply Memory Problem) on your HP LaserJet MFP M234dw after a recent firmware update is likely due to HP's Dynamic Security feature, which can block older or non-genuine cartridges—even if they worked fine before."''&lt;ref&gt;{{Cite web |date=5 Mar 2025 |title=Laserjet m234DW Error 11 |url=https://h30434.www3.hp.com/t5/Printing-Errors-or-Lights-Stuck-Print-Jobs/Laserjet-m234DW-Error-11/m-p/9332462#M1033828 |url-status=live |access-date=15 Mar 2025 |website=[[HP]]}}&lt;/ref&gt;&lt;ref&gt;https://h30434.www3.hp.com/t5/forums/forumtopicprintpage/board-id/PostPrint/message-id/1033828/print-single-message/false/page/1&lt;/ref&gt; The agent suggested cleaning contacts, downgrading firmware (if possible), or checking for newer firmware releases.
+[[File:HP support admits backlash results in new firmware.png|alt=An HP support representative admitting out loud that HP releases new firmware after backlash from consumers, implying that he is used to complaints stemming from HP's business practices.|thumb|An HP support representative admitting out loud that HP releases new firmware after backlash from consumers, implying that he is used to complaints stemming from HP's business practices.&lt;ref&gt;{{Cite web |title=Laserget m234DW Error 11 - HP Support Community |url=https://h30434.www3.hp.com/t5/forums/forumtopicprintpage/board-id/PostPrint/message-id/1033828/print-single-message/false/page/1 |access-date=2025-03-11}}&lt;/ref&gt;]]
+Remarkably, the agent appears to be aware of HP's practices. When an HP support representative was asked about the issue on their community forums, they suggested that users wait for HP to potentially release a new firmware ''"after backlash from customers"''&lt;ref&gt;https://h30434.www3.hp.com/t5/forums/forumtopicprintpage/board-id/PostPrint/message-id/1033828/print-single-message/false/page/1&lt;/ref&gt; - acknowledging that customer complaints would be necessary before the company would address the problem they had created. 
+
+Attempts by users to fix the issue through what HP support suggested on their forum didn't work. Some users who attempted to downgrade firmware wound up with even worse problems, with one reporting their printer displayed error code 49 and became ''"100% inaccessible via the EWS."''&lt;ref&gt;https://h30434.www3.hp.com/t5/forums/forumtopicprintpage/board-id/PostPrint/message-id/1034030/print-single-message/false/page/2&lt;/ref&gt;
+
+Several users reported that when contacting HP support, they were told "the problem is with the printer and not the firmware" &amp; offered vouchers toward new HP products rather than a solution to fix their existing printers.&lt;ref&gt;https://h30434.www3.hp.com/t5/forums/forumtopicprintpage/board-id/PostPrint/message-id/1033828/print-single-message/false/page/1&lt;/ref&gt; One user characterized this as ''"first HP breaks my printer with a malicious firmware and then forces me to buy a new one with a voucher. This is the scam of the century!"''
+
+This incident highlights a significant risk of Dynamic Security: customers using OEM HP cartridges can still have their devices remotely bricked through firmware updates. Several users in the support forums reported switching to other printer brands as a result of this experience.
+
+==How to disable Dynamic Security==
+There are some printer models where Dynamic Security can easily be turned off:&lt;ref&gt;{{Cite web |title=How to Disable HP Cartridge Protection: Print Without Restrictions |url=https://www.compandsave.com/how-to-disable-hp-cartridge-protection |url-status=live |access-date=15 Mar 2025 |website=[[CompAndSave]]}}&lt;/ref&gt;
+====1. Printers Manufactured Before December 1, 2016====
+
+*HP Officejet Pro 6970, 7740, 8210, 8700
+*HP Officejet 6950
+*HP PageWide 300, 400, 500
+
+====2. All Printers, Regardless of Manufacturing Date====
+
+*HP OfficeJet 6810, 6820
+*HP OfficeJet Pro 6230, 6830, 8610, 8620, 8630, 8640, 8660
+*HP X451dn/dw, X476dn/dw, X551dw, X576dw
+
+To do that, you can follow [https://www.compandsave.com/how-to-disable-hp-cartridge-protection this] guide.
+
+==References==
+&lt;references /&gt;
+
+*CAN Article regarding Class Action Lawsuit: https://clg.org/Class-Action/List-of-Class-Actions/HP-All-in-One-Printer-and-Third-Party-Ink-Cartridge-Incompatibility-Canadian-Class-Action
+*US Article regarding Class Action Lawsuit: https://www.courthousenews.com/class-action-against-hp-over-all-in-one-printers-survives-motion-to-dismiss/
+*CLASS ACTION: https://www.courthousenews.com/wp-content/uploads/2023/08/hp-all-in-one-amended-complaint.pdf
+
+[[Category:HP Inc.]]
+[[Category:Anti-Consumer Practices]]</text>
+      <sha1>3npluemnqj0hds03zwenly10iys7g4q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sample Individual</title>
+    <ns>0</ns>
+    <id>28</id>
+    <revision>
+      <id>63</id>
+      <parentid>62</parentid>
+      <timestamp>2025-03-27T19:43:14Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>62</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4865" sha1="7flvleg8ay77tgggkndchs6yorniw7q" xml:space="preserve">'''Sauron''' was a prominent figure in the Second Age who gained significant attention for his role in a widespread ring distribution scheme that raised major consumer protection concerns. As the CEO and founder of Mordor Technologies, he was directly responsible for the development, marketing, and distribution of the Rings of Power product line, which became notorious for its deceptive terms of service and privacy violations.
+== Professional Background ==
+Sauron served as chief lieutenant at Angband Industries before founding Mordor Technologies in SA 1000&lt;ref&gt;Elrond, P. (SA 3442). "The Corporate History of Mordor Technologies." ''Rivendell Business Review'', 12(3), 45-67.&lt;/ref&gt;. Under his leadership, Mordor Technologies developed sophisticated ring-based technology that was marketed as enhancing user capabilities and extending life. The company became known for its aggressive expansion strategy and controversial data collection practices.
+== Stance on Consumer Rights ==
+Sauron publicly positioned himself as an advocate for technological advancement and user empowerment. In a Second Age press conference, he stated, "Our rings are gifts to all peoples, freely given to enhance their lives."&lt;ref&gt;"Transcript: Mordor Technologies Ring Distribution Announcement." (SA 1600). ''Gondor Times''.&lt;/ref&gt; However, internal documents later revealed that this messaging deliberately obscured the extensive data collection and control mechanisms built into the products.
+== Major Consumer Protection Incidents ==
+=== Ring Distribution Scheme (SA 1600-1700) ===
+Sauron orchestrated what would become known as the "Rings of Power" incident, one of the most significant cases of systematic consumer exploitation in Middle-earth history. The scheme involved several key components:
+
+'''Deceptive Marketing''': Products were marketed as "gifts" while containing hidden terms of service that granted Mordor Technologies extensive control over users&lt;ref&gt;White Council Investigation Committee. (SA 3442). "Final Report on the Rings of Power Incident."&lt;/ref&gt;.&lt;/br&gt;
+'''Remote Control Capabilities''': The One Ring system, later discovered, allowed Mordor Technologies to remotely monitor and control all distributed rings without user consent&lt;ref&gt;Gandalf, G. (SA 3018). "Analysis of One Ring Control Systems." ''Journal of Magical Consumer Protection'', 89(2).&lt;/ref&gt;.&lt;/br&gt;
+'''Data Collection''': Extensive personal information was gathered through the rings, including user location, thoughts, and activities, without adequate disclosure&lt;ref&gt;Galadriel et al. (SA 3441). "Privacy Implications of Ring-Based Technology."&lt;/ref&gt;.&lt;/br&gt;
+
+=== Terms of Service Controversy (SA 1697) ===
+Investigation by the White Council revealed that ring recipients were bound by undisclosed terms that effectively granted Mordor Technologies complete control over users. The Council's report noted that the terms were "deliberately obscured and impossible for average consumers to understand or resist."&lt;ref&gt;White Council Consumer Protection Division. (SA 1697). "Terms of Service Analysis: Rings of Power."&lt;/ref&gt;
+=== Privacy Violations ===
+The extent of privacy violations became apparent when it was discovered that all ring users were subject to continuous surveillance through what Mordor Technologies termed "The Great Eye" monitoring system&lt;ref&gt;"The Great Eye: Technical Documentation." (SA 1700). Internal Mordor Technologies document, leaked SA 3018.&lt;/ref&gt;. This system collected user data including:
+
+* Real-time location tracking
+* Personal thoughts and intentions
+* Social connections and activities
+* Behavioral patterns
+
+== Regulatory Response ==
+The White Council launched multiple investigations into Mordor Technologies' practices, culminating in the Last Alliance regulatory action of SA 3441&lt;ref&gt;Last Alliance Regulatory Framework. (SA 3441).&lt;/ref&gt;. This led to:
+
+* Mandatory disclosure requirements for ring-based technology
+* New restrictions on remote control capabilities
+* Demolition of the centralized control servers at Barad-Dûr
+* Enhanced privacy protections for consumers
+
+== Current Status ==
+Following the Last Alliance action, Sauron was removed from his position at Mordor Technologies. While he is no longer directly involved in consumer technology, his ring distribution scheme has had lasting implications for consumer protection law and continues to be cited in cases involving hidden terms of service and unauthorized data collection.
+== Impact on Consumer Protection ==
+Sauron's activities led to significant changes in Middle-earth consumer protection law, including:
+
+* The Third Age Consumer Rights Act
+* The White Council Privacy Protection Framework
+* Enhanced disclosure requirements for enchanted items&lt;ref&gt;Council of Elrond. (TA 1). "Consumer Protection Reform Act."&lt;/ref&gt;
+
+== References ==
+
+[[Category:Individuals]]
+[[Category:Example Pages]]</text>
+      <sha1>7flvleg8ay77tgggkndchs6yorniw7q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amazon PhotosPlus discontinuation</title>
+    <ns>0</ns>
+    <id>29</id>
+    <revision>
+      <id>65</id>
+      <parentid>64</parentid>
+      <timestamp>2025-03-27T19:43:15Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>64</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4153" sha1="6j0jeni8zclfq0e2lh8a7lgx0g71nfz" xml:space="preserve">[[Category:Service Siphoning]]
+[[Amazon PhotosPlus]] was a [[subscription-based service]] that offered users the ability to display their chosen photos on their devices as the "primary content." Additionally, it provided 25 GB of [[Amazon Photos]] storage, and cost $2 per month. Announced in October 2023,&lt;ref&gt;[https://www.pocket-lint.com/what-is-amazon-photosplus/ What is Amazon PhotosPlus]&lt;/ref&gt; [[Amazon]] sent an email informing its users that it was discontinuing the service,&lt;ref&gt;[https://www.threads.net/@wheelsee/post/C-58LrqSbYW?xmt=AQGzdSySswLxRPEtQdHvzY0PMn5k0eXCG2lzMqmc0irZoIQ Email sent to all PhotosPlus users informing them of the cancellation of the service]&lt;/ref&gt; cancelling it on September 12, 2024. This event has been described as having features which match the definition of a [[retroactively amended purchase]].&lt;ref name="foo"&gt;[https://www.theverge.com/2023/9/22/23885332/amazon-echo-show-8-photos-edition-digital-frame-price-fee Amazon Echo Show 8]&lt;/ref&gt;
+
+==Background==
+The Amazon Echo Show 8 was a Digital Frame, which launched at $149.99. For $10 more, customers could get the Amazon Echo Show 8 Photos Edition, which included 6 months of PhotosPlus and the ability to display photos as the "primary" content. Amazon spokesperson Courtney Ramirez&lt;ref name="foo" /&gt; confirmed that "Occasionally, Alexa will provide content suggestions based on a customer's interest. However, photos will remain the primary content."
+
+===Features===
+The Photos Edition with a PhotosPlus subscription offered several specific features that made it stand out:
+*Photos would rotate every 30 seconds indefinitely
+*Photos remained primary content without switching to advertisements
+*25 GB of Amazon Photos storage included with the subscription
+*The ability to remotely add new photos to the device
+
+==Discontinuation of service less than a year after release ==
+In March 2024, Amazon discontinued the sale of the Echo Show 8 Photos Edition hardware.&lt;ref&gt;[https://www.theverge.com/2024/8/21/24225149/amazon-ends-photosplus-subscription-echo-show-8-photos-edition The Verge: Amazon cancels the Echo Show 8 Photos Edition's main feature]&lt;/ref&gt; Five months later, in August 2024, Amazon announced the end of the PhotosPlus subscription service. 
+
+[[File:Amazon_PhotosPlus_Discontinuation_Notice_2024.jpg|thumb|300px|Amazon's email notification to PhotosPlus customers announcing the service discontinuation, sent August 2024.]]
+
+After Amazon cancelled the PhotosPlus service, the Amazon Echo Show 8 Photos Edition became functionally identical to the standard Amazon Echo Show 8,&lt;ref&gt;[https://www.howtogeek.com/amazon-cancels-photosplus-subscription/ Effects of cancellation of the PhotosPlus Service on Amazon Echo Show 8 Photos Edition customers]&lt;/ref&gt; with users forced to view advertisements and promotional content after three hours of photo display.
+
+==Customer response==
+The discontinuation caused substantial customer backlash,&lt;ref&gt;[https://www.reddit.com/r/amazonecho/comments/1ex6ar4/amazon_discontinuing_the_photos_part_of_the_echo/ Reddit discussion of PhotosPlus discontinuation]&lt;/ref&gt; particularly because:
+*Customers had paid a premium ($10) for hardware that would lose its primary distinguishing feature of avoiding ads
+*The product lifecycle had lasted less than one year
+*No refunds or compensation were offered for the hardware premium
+*No alternative was provided for viewers wanting to avoid ads on their photo display
+
+===Workarounds===
+After discontinuation, Amazon suggested two alternatives for photo display, neither of which replicated the original functionality:
+*Using the standard photo frame feature by saying, "Alexa, start Photo Frame"
+*Accessing photos through Settings &gt; Clock &amp; Photo Display
+
+While users kept access to their 25 GB of Amazon Photos storage, the devices defaulted to showing ads and promotions after three hours of photo display, which removed the primary reason customers had chosen the Photos Edition variant. 
+
+==References==
+
+
+[[Category:Amazon]]
+[[Category:Incidents]]
+[[Category:Discontinued products]]
+[[Category:Discontinued subscription services]]
+[[Category:Articles based on videos]]</text>
+      <sha1>6j0jeni8zclfq0e2lh8a7lgx0g71nfz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amazon</title>
+    <ns>0</ns>
+    <id>30</id>
+    <revision>
+      <id>67</id>
+      <parentid>66</parentid>
+      <timestamp>2025-03-27T19:43:15Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>66</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9993" sha1="9j29v7a2afwagar1pe0vg0trwm9aaxb" xml:space="preserve">{{StubNotice}}
+
+{{InfoboxCompany
+| Name = Amazon
+| Type = Public
+| Founded = 1994
+| Industry = Technology
+| Official Website = https://amazon.com/
+| Logo = Amazon.png
+}}
+
+[[wikipedia:Amazon_(company)|'''Amazon.com, Inc.''']] is a global leader in e-commerce, cloud computing, and digital streaming, founded in 1994 by Jeff Bezos. Originally launched as an online bookstore, Amazon quickly expanded into a marketplace offering a wide range of products, including electronics, clothing, household goods, and groceries. Today, it is one of the largest companies in the world, with a dominant presence in retail, technology, and logistics.
+
+In addition to its e-commerce platform, Amazon is a major player in cloud computing through Amazon Web Services (AWS), which provides cloud infrastructure and services to businesses globally. The company also offers a variety of digital services, such as Amazon Prime, which provides streaming video and music, and Alexa, its voice-activated virtual assistant. Amazon has also developed consumer products like the Kindle e-reader, Fire tablets, and Echo smart speakers.
+
+Amazon has faced significant scrutiny and criticism, particularly concerning its treatment of workers, marketplace practices, data privacy issues, and its impact on small businesses. It has been involved in various regulatory and legal challenges related to anti-competitive behavior, safety, and consumer protection, with calls for increased oversight on its business operations.
+
+==Consumer impact summary==
+{{Placeholder box|Overview of concerns that arise from the company's conduct regarding (if applicable):
+* User Freedom
+* User Privacy
+* Business Model
+* Market Control}}
+$2
+
+==Controversies==
+Amazon has been involved in numerous controversies, from dangerous products to anti-competitive practices. Below is a comprehensive listing of every relevant controversy documented here on this wiki: &lt;!-- Need a better preamble here --&gt;&lt;!-- I added a bit to hopefully improve the preamble. (shingo)  --&gt;
+{| class="wikitable sortable"
+|+
+!Controversy
+!Year
+!Background info
+!Aftermath
+!Related article
+!Related video(s)
+|-
+|Amazon removing ability to download Kindle books
+|2025
+|Starting on February 26, 2025, Amazon removed a feature from its website allowing users to download purchased books to a computer and then copy them manually to a Kindle over USB.
+|Starting February 26, 2025, the ‘Download &amp; Transfer via USB’ option will no longer be available.
+|[[Amazon Kindle removes download feature of purchased books]]
+|[https://www.youtube.com/watch?v=KMoCzeGnIss '''Amazon are changing the way you own your Kindle books - you have 10 days to react''']
+&lt;ref group="Video References"&gt;https://www.youtube.com/watch?v=XfcoUdWCB9M&lt;/ref&gt;
+|-
+|Amazon sells lethal litterboxes
+|2024
+|Amazon sold litterboxes that were designed in a unsafe way that led to the deaths of multiple cats, and posed a danger to young children.
+|Original product was delisted, yet many other variants of the same product exist on the site.
+|
+|&lt;ref group="Video References"&gt;https://youtube.com/watch?v=p6Y19nSPvC4&lt;/ref&gt;
+|-
+|Amazon adds ads to premium subscription
+|2023 – Present
+|Amazon added advertisements to previously ad free subscriptions for Prime Video and Echo Show frames.
+|Continues to occur.
+|
+|&lt;ref group="Video References"&gt;https://youtube.com/watch?v=RSi6g5-xUaY&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=ua_QL9YysHQ&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=VLFpU9aqtXc&lt;/ref&gt;
+|-
+|Amazon allows fraudulent listings
+|2014 – Present
+|
+|Fraudulent listings continue to be added, some removed.
+|[[Amazon allows fraudulent product page after manual review! Deep dive on Amazons support of scams]]
+|&lt;ref group="Video References"&gt;https://youtube.com/watch?v=qZCMislL6_I&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=7trdHLtsFKM&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=B90_SNNbcoU&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=DiKflg8Uko4&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=y83BS_mK9GE&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=Rhb0ID9z4aE&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=XZNn2mO3dNQ&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=C0YNLWdj9sQ&lt;/ref&gt;
+|-
+|Amazon allows sellers to bribe customers for better ratings
+|2016 – Present
+|Amazon sellers give customers gift cards in exchange for positive product reviews; Amazon does nothing to stop this.
+|Continues to occur.
+|[[Amazon's history of seller bribery]]
+|&lt;ref group="Video References"&gt;https://youtube.com/watch?v=eS698R-bxuc&lt;/ref&gt;
+|-
+|Amazon has bad marketplace algorithms
+|2023 – Present
+|
+|Algorithms still seem to be nonbeneficial.
+|
+|&lt;ref group="Video References"&gt;https://youtube.com/watch?v=tAaSXz8CBMc&lt;/ref&gt;
+|-
+|Amazon trashes refurbished market
+|2022–2023
+|
+|Unknown
+|
+|&lt;ref group="Video References"&gt;https://youtube.com/watch?v=h3qgbvq2SWs&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=qzUXmeaZsIQ&lt;/ref&gt;
+|-
+|Amazon cancels associate account after recent negative media coverage, with a different reason
+|2023
+|
+|Unknown
+|
+|&lt;ref group="Video References"&gt;https://youtube.com/watch?v=Kcohq313q00&lt;/ref&gt;
+|-
+|Amazon wrongfully suspends account of home owner
+|2023
+|A home owner was locked out of their Amazon account for nearly a week, after a delivery driver from Amazon misheard an automated message from their Eufy doorbell.
+|Account reinstated.
+|[[Amazon locks home owner out of Amazon account over allegation by Amazon delivery driver|Amazon locks home owner out of amazon account over allegation by amazon delivery driver]]
+|&lt;ref group="Video References"&gt;https://youtube.com/watch?v=SyEgD-5GK9c&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=NfiIXooD77s&lt;/ref&gt;
+|-
+|Amazon engages in anticompetitive behavior
+|2021–2022
+|
+|Unknown
+|
+|&lt;ref group="Video References"&gt;https://youtube.com/watch?v=YBJoSGWdP0Y&lt;/ref&gt; &lt;ref group="Video References"&gt;https://youtube.com/watch?v=XCLx4mVJ4gk&lt;/ref&gt;
+|-
+|Amazon sells fake electrical fuses
+|2024&lt;!-- Year may be wrong, just following the video release year --&gt;
+|Fuses are being sold that do not blow when supplied more power than it is intended to handle, which is a major safety risk.
+|These fuses are still being sold to this day.
+|[[Amazon allows fraudulent product page after manual review! Deep dive on Amazons support of scams]]
+|&lt;ref group="Video References"&gt;https://www.youtube.com/watch?v=B90_SNNbcoU&lt;/ref&gt;
+|-
+|Amazon PhotosPlus discontinuation
+|2024
+|
+|Since September 2024, it is no longer possible to use the Amazon Echo Show 8 as a digital frame without advertisements.
+|[[Amazon PhotosPlus Discontinuation]]
+|
+|-
+|Amazon uses [[dark patterns]] for its premium subscription
+|2023 – Present
+|Systematically designing the cancelling steps to be complicated and long; using tricks to kidnap users into the subscription.&lt;ref&gt;{{cite web |date=2023-06-21 |title=FTC Takes Action Against Amazon for Enrolling Consumers in Amazon Prime Without Consent and Sabotaging Their Attempts to Cancel |url=https://www.ftc.gov/news-events/news/press-releases/2023/06/ftc-takes-action-against-amazon-enrolling-consumers-amazon-prime-without-consent-sabotaging-their |archive-url=https://web.archive.org/web/20250129015417/https://www.ftc.gov/news-events/news/press-releases/2023/06/ftc-takes-action-against-amazon-enrolling-consumers-amazon-prime-without-consent-sabotaging-their |archive-date=2025-01-29 |website=Federal Trade Commission |url-status=live}}&lt;/ref&gt; See "Project Illiad".
+|Continues to occur.
+|
+|
+|-
+|Amazon removes option to lend Kindle e-books
+|2022
+|E-books marked with "lending enabled" could be lent to other Kindle users for a period of time during which the title is unavailable to the sender.
+|Since August 2022, it is not possible to borrow Kindle books.
+|
+|[https://www.youtube.com/watch?v=hAvFmnuZZMI '''Amazon Discontinues Lending Kindle e-Books''']
+|-
+|Amazon removes option not to send voice recordings from Echo devices
+|2025
+|In March 2025, Echo customers with the option "Do Not Send Voice Recordings" enabled received an e-mail that local processing will no longer be supported on their device.&lt;ref&gt;{{Cite web |date=2025-03-18 |title=TechLinked – Microsoft’s Big Oopsie – Echo voice recordings, Gemini watermarks |url=https://youtu.be/DhXH83O6pXc?t=268 |access-date=2025-03-18 |website=YouTube – TechLinked}}&lt;/ref&gt;
+|
+|[[Amazon Echo changes terms of voice usage]]
+|
+|}
+
+==Products==&lt;!-- Considering the sheer amount of products Amazon has, we should consider the table format --&gt;
+
+===Amazon Kindle (2007 – Present)===
+Amazon has progressively removed options for products purchased through the Kindle, effectively changing the meaning of purchases and ownership. It first removed the ability of users to lend e-books to one another, and later removed the ability to download purchased e-books to a computer.
+
+===Amazon PhotosPlus (2023–2024)===
+Amazon sold physical devices that could displaying photos stored in its Amazon Photos cloud storage through its PhotosPlus service. Less than one year later, it cancelled the service, which [[Retroactively amended purchase|changed the functionality]] of the devices, including showing advertisements every few hours.
+
+===Amazon Prime (2005 – Present)===
+Amazon uses [[dark patterns]] for its subscription services, including tricking users into subscribing and making it very complicated to cancel.
+
+===Amazon Echo (2014 – Present)===
+
+===Amazon Alexa (2013 – Present)===
+
+==See also==
+{{Placeholder box|Link to relevant theme articles or companies with similar incidents.}}
+
+==All Louis Rossmann videos covering Amazon==
+&lt;!-- These references should be updated to either: A. Use the title of the video B. Summarize the video --&gt;
+
+&lt;references group="Video References" /&gt;
+
+==References==
+{{reflist}}
+[[Category:Amazon]]
+[[Category:Articles in need of additional work]]</text>
+      <sha1>9j29v7a2afwagar1pe0vg0trwm9aaxb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Reflist</title>
+    <ns>10</ns>
+    <id>31</id>
+    <revision>
+      <id>69</id>
+      <parentid>68</parentid>
+      <timestamp>2025-03-27T19:43:15Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>68</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="388" sha1="8toe5559nb9gcdipmizm2fdjzhfq1wz" xml:space="preserve">&lt;includeonly&gt;&lt;div class="references-list"&gt;&lt;references /&gt;&lt;/div&gt;&lt;/includeonly&gt;&lt;noinclude&gt;
+== Template:Reflist ==
+This template displays references. Use &lt;code&gt;&lt;nowiki&gt;{{reflist}}&lt;/nowiki&gt;&lt;/code&gt; where you want to show your references.
+
+Example usage:
+&lt;pre&gt;
+This is a statement&lt;ref&gt;Source: Example, 2024&lt;/ref&gt;
+
+== References ==
+{{reflist}}
+&lt;/pre&gt;
+
+[[Category:Citation templates]]
+&lt;/noinclude&gt;</text>
+      <sha1>8toe5559nb9gcdipmizm2fdjzhfq1wz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Cite web</title>
+    <ns>10</ns>
+    <id>32</id>
+    <revision>
+      <id>71</id>
+      <parentid>70</parentid>
+      <timestamp>2025-03-27T19:43:15Z</timestamp>
+      <contributor>
+        <username>Wikiuser</username>
+        <id>1</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision imported: test importing some pages to experiment</comment>
+      <origin>70</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="154" sha1="k8memtxr05anxc4qe9mq1loy9odzhep" xml:space="preserve">&lt;includeonly&gt;{{#invoke:citation/CS1|citation
+|CitationClass=web
+}}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{documentation}}
+[[Category:Citation templates]]
+&lt;/noinclude&gt;</text>
+      <sha1>k8memtxr05anxc4qe9mq1loy9odzhep</sha1>
+    </revision>
+  </page>
+</mediawiki>

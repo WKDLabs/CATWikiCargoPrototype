@@ -1,6 +1,0 @@
-[submodule "volumes/mediawiki/extensions/Cargo"]
-	path = volumes/mediawiki/extensions/Cargo
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cargo
-[submodule "volumes/mediawiki/extensions/VisualEditor"]
-	path = volumes/mediawiki/extensions/VisualEditor
-	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualEditor

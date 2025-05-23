@@ -1,0 +1,59 @@
+services:
+#  mediawiki:
+#    image: mediawiki:latest
+#    container_name: mediawiki
+#    env_file:
+#      - .env
+#    ports:
+##      - "80:80"
+#      - "8080:80"
+#    depends_on:
+#      mariadb:
+#        condition: service_healthy
+#
+#    environment:
+#      - MEDIAWIKI_DB_TYPE=mysql
+#      - MEDIAWIKI_DB_HOST=${MEDIAWIKI_DB_HOST}
+#      - MEDIAWIKI_DB_PORT=${MEDIAWIKI_DB_PORT}
+#      - MEDIAWIKI_DB_NAME=${MEDIAWIKI_DB_NAME}
+#      - MEDIAWIKI_DB_USER=${MEDIAWIKI_DB_USER}
+#      - MEDIAWIKI_DB_PASSWORD=${MEDIAWIKI_DB_PASSWORD}
+##    volumes:
+##      - ./volumes/mediawiki/extensions:/var/www/html/extensions
+##      - ./volumes/mediawiki/LocalSettings.php:/var/www/html/LocalSettings.php
+##      - ./volumes/mediawiki/backup.xml:/var/www/html/default_pages.xml
+#    networks:
+#      - wiki-net
+#    restart: unless-stopped
+
+  mariadb:
+    build:
+      context: db_image
+    env_file:
+      - .env
+    environment:
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+      - MYSQL_DATABASE=${MYSQL_DATABASE}
+      - MYSQL_USER=${MYSQL_USER}
+      - MYSQL_PASSWORD=${MYSQL_PASSWORD}
+#    volumes:
+#      - ./volumes/mariadb/data:/var/lib/mysql
+#      - db_data:/var/lib/mysql
+    ports:
+      - 3306:3306
+    networks:
+      - wiki-net
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "-u", "root", "-p${MYSQL_ROOT_PASSWORD}"]
+      interval: 10s
+      timeout: 5s
+      start_period: 30s
+      retries: 5
+
+networks:
+  wiki-net:
+    driver: bridge
+
+volumes:
+  db_data:
