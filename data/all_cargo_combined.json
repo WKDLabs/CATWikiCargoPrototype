@@ -314,7 +314,7 @@
       "Description": "Cloud-based subscription for Insta360 cameras that offers camera replacement and warranty perks."
     },
     {
-      "PageName": "NetLimiter Licence from one-time-purchase to Subscription",
+      "PageName": "NetLimiter",
       "PageID": "5047",
       "ArticleType": "Product",
       "Category": "",
@@ -359,6 +359,15 @@
       "Company": "Google",
       "Website": "https://store.google.com/us/product/pixel_watch_3",
       "Description": ""
+    },
+    {
+      "PageName": "Qardio",
+      "PageID": "5054",
+      "ArticleType": "Product",
+      "Category": "Software, Hardware",
+      "Company": "Qardio",
+      "Website": "https://www.qardio.com/",
+      "Description": "An application used to connect to Qardio devices, requiring access to the now defunct servers."
     }
   ]
 }
