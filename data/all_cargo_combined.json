@@ -207,6 +207,16 @@
       "Description": ""
     },
     {
+      "PageName": "Cyberpunk 2077 now unplayable without new EULA consent",
+      "PageID": "5062",
+      "Type": "Terms of Service",
+      "ArticleType": "Service",
+      "Company": "CD Projekt Red",
+      "Product": "Cyberpunk 2077",
+      "ProductLine": "",
+      "Description": "Latest Cyberpunk 2077 patch blocks access to the game if new you don't accept the changes to the EULA."
+    },
+    {
       "PageName": "Disney wrongful-death lawsuit",
       "PageID": "220",
       "Type": "Terms of Service",
@@ -333,6 +343,15 @@
     }
   ],
   "ProductLine": [
+    {
+      "PageName": "Deerrun walking pads & treadmills startup",
+      "PageID": "5058",
+      "ArticleType": "Product",
+      "Category": "Hardware",
+      "Company": "Deerrun",
+      "Website": "https://deerruntreadmill.com/",
+      "Description": ""
+    },
     {
       "PageName": "Forced User Agreement on Jetbrains IntelliJ software",
       "PageID": "4984",
