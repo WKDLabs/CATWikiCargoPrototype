@@ -333,6 +333,15 @@
       "Description": "NetLimiter is a tool to monitor and control network traffic per-program."
     },
     {
+      "PageName": "PayPal Honey",
+      "PageID": "230",
+      "ArticleType": "Service",
+      "Category": "Browser extension",
+      "Company": "PayPal",
+      "Website": "https://www.joinhoney.com",
+      "Description": "Founded in 2012, Honey offers coupons on online storefronts for users. In 2024, it was reported Honey stole affiliate commissions and mislead users."
+    },
+    {
       "PageName": "Sony's WF-1000XM4 earbuds",
       "PageID": "438",
       "ArticleType": "Product",
@@ -340,6 +349,15 @@
       "Company": "Sony",
       "Website": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000m4-Black",
       "Description": "Users have reported rapid battery drain and overheating in one earbud following firmware update v1.4.2, occasionally resulting in battery failure or casing damage."
+    },
+    {
+      "PageName": "Spotify Car Thing",
+      "PageID": "1364",
+      "ArticleType": "Product",
+      "Category": "Media player",
+      "Company": "Spotify",
+      "Website": "https://web.archive.org/web/20250127021601/https://carthing.spotify.com/",
+      "Description": "A physical application extension of the Spotify mobile app for older cars. In 2024, Spotify discontinued support, which rendered all devices unusable."
     }
   ],
   "ProductLine": [
