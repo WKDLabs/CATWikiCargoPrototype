@@ -33,6 +33,14 @@
       "Description": ""
     },
     {
+      "PageName": "Autel - Otofix",
+      "PageID": "5067",
+      "Type": "",
+      "Industry": "",
+      "Website": "https://autel.com/",
+      "Description": "Autel and subbrand Otofix - Automotive Diagnostic tools"
+    },
+    {
       "PageName": "Autodesk",
       "PageID": "755",
       "Type": "Public",
@@ -73,6 +81,22 @@
       "Description": "DKB is Germany's second biggest direct bank."
     },
     {
+      "PageName": "Duolingo",
+      "PageID": "1144",
+      "Type": "Public",
+      "Industry": "Education, Software",
+      "Website": "https://duolingo.com",
+      "Description": "A language learning app with a mission to make learning \"universally available\". In the 2020s, paywalled content and data breaches affected users."
+    },
+    {
+      "PageName": "Fal (AI company)",
+      "PageID": "5066",
+      "Type": "",
+      "Industry": "Information Technology",
+      "Website": "https://fal.ai",
+      "Description": "Generative AI media platform primarily for developers."
+    },
+    {
       "PageName": "Ford",
       "PageID": "146",
       "Type": "Public",
@@ -87,14 +111,6 @@
       "Industry": "Technology",
       "Website": "https://www.google.com/",
       "Description": ""
-    },
-    {
-      "PageName": "Iberia",
-      "PageID": "5033",
-      "Type": "Private",
-      "Industry": "Transport, Airline",
-      "Website": "https://www.iberia.com/,https://www.iberia.es/,https://www.iberia.de/",
-      "Description": "Flag-carrier airline of Spain"
     },
     {
       "PageName": "Imgur",
@@ -145,6 +161,14 @@
       "Description": "Photo sharing website founded in 2009 where users can \"pin\" various images to their profile and add them to collections."
     },
     {
+      "PageName": "Rovio",
+      "PageID": "1486",
+      "Type": "Subsidiary",
+      "Industry": "Entertainment, Video game",
+      "Website": "https://rovio.com",
+      "Description": "Finnish mobile game developer known for the ''Angry Birds'' series. In the 2020s, the original games were delisted and puts users through arbitration."
+    },
+    {
       "PageName": "Snapchat",
       "PageID": "2440",
       "Type": "Public",
@@ -177,12 +201,20 @@
       "Description": ""
     },
     {
+      "PageName": "Trump Mobile",
+      "PageID": "4629",
+      "Type": "Subsidiary",
+      "Industry": "Telecommunications",
+      "Website": "https://trumpmobile.com/",
+      "Description": "MVNO founded by the Trump Organization. Soon after the launch, issues with signing up, false advertising, and double charges emerged."
+    },
+    {
       "PageName": "Wemo",
       "PageID": "2168",
       "Type": "Subsidiary",
       "Industry": "Home automation",
       "Website": "https://www.belkin.com/products/wemo-smart-home/",
-      "Description": ""
+      "Description": "American smart home and accessory manufacturer. In 2025, announced non-Homekit devices will cease to function."
     }
   ],
   "Incident": [
@@ -225,6 +257,16 @@
       "Product": "Disney+",
       "ProductLine": "",
       "Description": "TBD"
+    },
+    {
+      "PageName": "EA requires open beta players of battlefield 6 to change their motherboard bios settings",
+      "PageID": "5068",
+      "Type": "",
+      "ArticleType": "Product",
+      "Company": "EA",
+      "Product": "Battlefield 6",
+      "ProductLine": "",
+      "Description": ""
     },
     {
       "PageName": "Echelon fitness firmware lockout",
@@ -279,15 +321,6 @@
   ],
   "Product": [
     {
-      "PageName": "CakewalkSonarPlatinum",
-      "PageID": "5035",
-      "ArticleType": "Product",
-      "Category": "Music Production Software",
-      "Company": "Cakewalk, Gibson, Bandlab",
-      "Website": "https://www.cakewalk.com/,https://legacy.cakewalk.com/",
-      "Description": "Cakewalk's flagship Digital Audio Workstation (DAW) for music production."
-    },
-    {
       "PageName": "Disney+",
       "PageID": "2938",
       "ArticleType": "Service",
@@ -304,15 +337,6 @@
       "Company": "DJI",
       "Website": "https://www.dji.com/it/osmo-action-5-pro",
       "Description": ""
-    },
-    {
-      "PageName": "Insipiron 15 7579 Overview - Faults and Issues",
-      "PageID": "5039",
-      "ArticleType": "Product",
-      "Category": "Laptop, Ultrabook, 2-in-1",
-      "Company": "Dell",
-      "Website": "https://www.dell.com/support/product-details/product/inspiron-15-7579-2-in-1-laptop",
-      "Description": "The Dell Inspiron 15 7579 is a versatile 2-in-1 laptop that combines performance with portability. However, it faces certain faults and issues."
     },
     {
       "PageName": "Insta360+",
@@ -358,6 +382,15 @@
       "Company": "Spotify",
       "Website": "https://web.archive.org/web/20250127021601/https://carthing.spotify.com/",
       "Description": "A physical application extension of the Spotify mobile app for older cars. In 2024, Spotify discontinued support, which rendered all devices unusable."
+    },
+    {
+      "PageName": "Steam",
+      "PageID": "190",
+      "ArticleType": "Service",
+      "Category": "Digital storefront, Video games",
+      "Company": "Microsoft, Sony, Nintendo, Epic Games",
+      "Website": "https://store.steampowered.com",
+      "Description": "Online storefront for PC games. Users who \"purchase\" games own a revocable license, which in return mislead buyers. Data breaches and lawsuits follow."
     }
   ],
   "ProductLine": [
