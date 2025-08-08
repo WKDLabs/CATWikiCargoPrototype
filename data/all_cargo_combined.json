@@ -279,6 +279,16 @@
       "Description": "Echelon pushed firmware updates blocking third-party apps, requiring server authentication & breaking QZ compatibility for users"
     },
     {
+      "PageName": "Good2Go mobile network phases out 3G network, Merges with LuckyMobile - You lose prepaid card balance.",
+      "PageID": "5074",
+      "Type": "Cellphone Network",
+      "ArticleType": "Service",
+      "Company": "Good2Go, LuckyMobile",
+      "Product": "",
+      "ProductLine": "",
+      "Description": "Good2Go is a cellphone network company who prides itself on selling no contract prepaid sim cards. Calls will only cost per minute plus the 911 fees."
+    },
+    {
       "PageName": "Samsung EULA change reverse engineering",
       "PageID": "5044",
       "Type": "Terms of Service",
