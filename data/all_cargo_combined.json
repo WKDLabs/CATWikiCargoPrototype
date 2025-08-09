@@ -219,6 +219,16 @@
   ],
   "Incident": [
     {
+      "PageName": "Amazon altering the content of purchased ebooks",
+      "PageID": "5080",
+      "Type": "Digital restrictions",
+      "ArticleType": "Service",
+      "Company": "Amazon",
+      "Product": "Amazon Kindle",
+      "ProductLine": "Amazon Kindle",
+      "Description": "Amazon automatically allows publishers to make substantial editorial changes to users' purchased books"
+    },
+    {
       "PageName": "Brother ink lockout & quality sabotage",
       "PageID": "2552",
       "Type": "Digital restrictions,Firmware lockout",
@@ -307,6 +317,16 @@
       "Product": "Samsung Galaxy S22 series",
       "ProductLine": "Samsung Galaxy S",
       "Description": "samsung sued over samsung throttling on purpose"
+    },
+    {
+      "PageName": "Schneider Electric Reflashes WIser Home Energy Monitor with New Firmware with Less Functionality",
+      "PageID": "5082",
+      "Type": "Firmware Downgrade",
+      "ArticleType": "Product",
+      "Company": "Schneider Electric, Sense",
+      "Product": "Wiser Home Energy Monitor",
+      "ProductLine": "Wiser Home Energy Monitor",
+      "Description": "Schneider Electric is flashing all the Wiser Home Energy Monitors to their own firmware, they used to be Sense devices. Firmware removes functionality"
     },
     {
       "PageName": "Unable to opt out of an arbitration agreement for a Gotham Steel",
