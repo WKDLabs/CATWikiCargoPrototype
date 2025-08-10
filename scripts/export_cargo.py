@@ -1,8 +1,6 @@
 
 # https://consumerrights.wiki/Special:CargoTables
 
-# https://consumerrights.wiki/Template:CompanyCargo
-
 import argparse
 import csv
 import json
@@ -28,8 +26,6 @@ params = {
 res = session.get(url=api_url, params=params)
 token = res.json()["query"]["tokens"]["logintoken"]
 
-print(f"Token={token}")
-
 # Authenticate
 auth_data = {
     "action": "login",
@@ -42,10 +38,10 @@ res = session.post(url=api_url, data=auth_data)
 
 
 TABLE_FIELDS = {
-    "Company": ["_pageName=PageName", "_pageID=PageID", "Type", "Industry", "Website", "Description" ],
-    "Incident": ["_pageName=PageName", "_pageID=PageID",  "Type", "ArticleType", "Company", "Product", "ProductLine", "Description" ],
-    "Product": ["_pageName=PageName", "_pageID=PageID", "ArticleType", "Category", "Company",  "Website", "Description"],
-    "ProductLine": [ "_pageName=PageName", "_pageID=PageID", "ArticleType",  "Category","Company",  "Website",  "Description"],
+    "Company": ["_pageName=PageName", "_pageID=PageID", "Description", "Industry", "ParentCompany", "Type", "Website" ],
+    "Incident": ["_pageName=PageName", "_pageID=PageID", "Company", "StartDate", "EndDate", "Status", "ProductLine", "Product", "Type", "Description" ],
+    "Product": ["_pageName=PageName", "_pageID=PageID", "Category", "Company", "Description", "ProductLine", "Website"],
+    "ProductLine": [ "_pageName=PageName", "_pageID=PageID", "Category", "Company", "Description", "Website"],
 }
 
 PAGE_SIZE = 500  # Max limit per MediaWiki request
