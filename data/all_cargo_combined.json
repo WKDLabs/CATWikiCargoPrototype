@@ -57,6 +57,14 @@
       "Description": "IoT camera manufacturer acquired by Amazon in 2017. Since 2020, the cameras require a subscription for cloud storage and other necessary features."
     },
     {
+      "PageName": "ByteDance",
+      "PageID": "5162",
+      "Type": "Private",
+      "Industry": "Software",
+      "Website": "https://bytedance.com",
+      "Description": ""
+    },
+    {
       "PageName": "Chase Bank",
       "PageID": "284",
       "Type": "Subsidiary",
@@ -121,6 +129,22 @@
       "Description": "Imgur is a media company and image sharing platform - originally founded by Alan Schaaf, it is now bought and owned by MediaLab AI, Inc."
     },
     {
+      "PageName": "Intuit",
+      "PageID": "5107",
+      "Type": "Public",
+      "Industry": "Financial Services",
+      "Website": "[https://www.intuit.com/ intuit.com]",
+      "Description": ""
+    },
+    {
+      "PageName": "Logitech",
+      "PageID": "5111",
+      "Type": "Public",
+      "Industry": "Electronics, Technology",
+      "Website": "https://www.logitech.com",
+      "Description": "Logitech is a Swiss company that manufactures computer peripherals, audio accessories, and other electronic devices."
+    },
+    {
       "PageName": "Mercedes Benz",
       "PageID": "2148",
       "Type": "Subsidiary",
@@ -159,6 +183,14 @@
       "Industry": "Social media service",
       "Website": "https://pinterest.com/",
       "Description": "Photo sharing website founded in 2009 where users can \"pin\" various images to their profile and add them to collections."
+    },
+    {
+      "PageName": "Proton",
+      "PageID": "5141",
+      "Type": "Private",
+      "Industry": "Technology, Telecommunications, Computer hardware",
+      "Website": "https://proton.me",
+      "Description": "Proton is a privacy-focused tech company.  Their main services include Proton Mail, Proton VPN and Proton Pass."
     },
     {
       "PageName": "Rovio",
@@ -207,6 +239,14 @@
       "Industry": "Telecommunications",
       "Website": "https://trumpmobile.com/",
       "Description": "MVNO founded by the Trump Organization. Soon after the launch, issues with signing up, false advertising, and double charges emerged."
+    },
+    {
+      "PageName": "Uk.chicntech",
+      "PageID": "5115",
+      "Type": "Private",
+      "Industry": "Automotive, Technology, Electronics, Computer hardware, Kitchenware, Textiles",
+      "Website": "https://uk.chicntech.com/",
+      "Description": "UK Chicntech is an online retailer of various consumer products, including bedding, small kitchen supplies, and car accessories."
     },
     {
       "PageName": "Wemo",
@@ -259,6 +299,16 @@
       "Description": "TBD"
     },
     {
+      "PageName": "DRM Software Outage Prevents Video Game From Even Being Playable",
+      "PageID": "5106",
+      "Type": "Third Party, Terms of Service",
+      "ArticleType": "Product",
+      "Company": "Denuvo",
+      "Product": "Steam",
+      "ProductLine": "PC, Video Games",
+      "Description": "DRM software that's bundled into major video game releases on PC are rendered unplayable when online check-in servers are down or player has no Wi-Fi."
+    },
+    {
       "PageName": "EA requires open beta players of battlefield 6 to change their motherboard bios settings",
       "PageID": "5068",
       "Type": "",
@@ -277,6 +327,16 @@
       "Product": "exercise equipment",
       "ProductLine": "echelon exercie equipment",
       "Description": "Echelon pushed firmware updates blocking third-party apps, requiring server authentication & breaking QZ compatibility for users"
+    },
+    {
+      "PageName": "Garmin Navionics Acquisition",
+      "PageID": "5121",
+      "Type": "Digital restrictions",
+      "ArticleType": "Product",
+      "Company": "Garmin, Navionics",
+      "Product": "Navionics App and web viewer",
+      "ProductLine": "Navionics Digital Charts",
+      "Description": "Numerous anti consumer practices. Reneging on lifetime chart purchases and converting to subscriptions with massive price increases."
     },
     {
       "PageName": "Good2Go Mobile (Canada) phases out 3G network, Merges with LuckyMobile",
@@ -329,6 +389,16 @@
       "Description": ""
     },
     {
+      "PageName": "UK Online Safety Act",
+      "PageID": "5177",
+      "Type": "Digital restrictions",
+      "ArticleType": "Legislation",
+      "Company": "",
+      "Product": "",
+      "ProductLine": "",
+      "Description": "on 26 October 2023 the UK online safety act passed became law this act restricts the freedom of the UK users of the internet and increases censorship"
+    },
+    {
       "PageName": "Unable to opt out of an arbitration agreement for a Gotham Steel",
       "PageID": "5001",
       "Type": "Terms of Service",
@@ -347,6 +417,26 @@
       "Product": "Onn 4K Box, Onn 4K Pro, Onn HD Stick, Chromecast 4K, Chromecast HD",
       "ProductLine": "Onn",
       "Description": "Walmart refuses to replace bricked Onn devices after a forced Android update bricked devices, with devices over a year old being ineligible for refund"
+    },
+    {
+      "PageName": "Whistle pet tracker shutdown IoT fail",
+      "PageID": "5159",
+      "Type": "Planned Obsolescence, Service Termination",
+      "ArticleType": "Incident",
+      "Company": "Tractive, Mars Petcare, Whistle Labs",
+      "Product": "",
+      "ProductLine": "Pet tracking devices",
+      "Description": "Whistle pet trackers will cease functioning on August 31, 2025, following Tractive's acquisition of the company from Mars Petcare"
+    },
+    {
+      "PageName": "Youtubes Requirement for Government ID",
+      "PageID": "5171",
+      "Type": "Digital restrictions",
+      "ArticleType": "Service",
+      "Company": "",
+      "Product": "Youtube",
+      "ProductLine": "Youtube",
+      "Description": "Youtube is requiring Users to give their government id to verify that they are adults, otherwise Users will be locked out of content."
     }
   ],
   "Product": [
@@ -366,6 +456,15 @@
       "Category": "Cameras",
       "Company": "DJI",
       "Website": "https://www.dji.com/it/osmo-action-5-pro",
+      "Description": ""
+    },
+    {
+      "PageName": "GrapheneOS",
+      "PageID": "5172",
+      "ArticleType": "Product",
+      "Category": "Operating System",
+      "Company": "",
+      "Website": "[https://www.grapheneos.org/ grapheneos.org]",
       "Description": ""
     },
     {
@@ -405,6 +504,15 @@
       "Description": "Users have reported rapid battery drain and overheating in one earbud following firmware update v1.4.2, occasionally resulting in battery failure or casing damage."
     },
     {
+      "PageName": "Spore (game)",
+      "PageID": "5116",
+      "ArticleType": "",
+      "Category": "Video Games",
+      "Company": "EA",
+      "Website": "https://www.spore.com/",
+      "Description": ""
+    },
+    {
       "PageName": "Spotify Car Thing",
       "PageID": "1364",
       "ArticleType": "Product",
@@ -421,6 +529,15 @@
       "Company": "Microsoft, Sony, Nintendo, Epic Games",
       "Website": "https://store.steampowered.com",
       "Description": "Online storefront for PC games. Users who \"purchase\" games own a revocable license, which in return mislead buyers. Data breaches and lawsuits follow."
+    },
+    {
+      "PageName": "SURI Sustainable Electric Toothbrush",
+      "PageID": "5168",
+      "ArticleType": "Product",
+      "Category": "",
+      "Company": "SURI",
+      "Website": "https://www.trysuri.com/",
+      "Description": "A sustainable electric toothbrush."
     }
   ],
   "ProductLine": [
