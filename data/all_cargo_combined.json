@@ -49,6 +49,14 @@
       "Description": ""
     },
     {
+      "PageName": "Bitly",
+      "PageID": "5183",
+      "Type": "",
+      "Industry": "Software, Information Technology, Technology",
+      "Website": "https://bitly.com/",
+      "Description": "Bitly is a private technology company offering link management and QR code services, including qr-code-generator.com."
+    },
+    {
       "PageName": "Blink",
       "PageID": "1969",
       "Type": "Subsidiary",
@@ -71,6 +79,14 @@
       "Industry": "Banking",
       "Website": "https://chase.com",
       "Description": ""
+    },
+    {
+      "PageName": "Costco",
+      "PageID": "5334",
+      "Type": "Public",
+      "Industry": "Retail",
+      "Website": "https://www.costco.com/",
+      "Description": "Costco is a retail corporation."
     },
     {
       "PageName": "Daikin",
@@ -103,6 +119,14 @@
       "Industry": "Information Technology",
       "Website": "https://fal.ai",
       "Description": "Generative AI media platform primarily for developers."
+    },
+    {
+      "PageName": "Flo",
+      "PageID": "5342",
+      "Type": "Private",
+      "Industry": "Health",
+      "Website": "[https://www.flo.health/ flo.health]",
+      "Description": ""
     },
     {
       "PageName": "Ford",
@@ -174,6 +198,30 @@
       "Type": "Public",
       "Industry": "Automotive",
       "Website": "https://www.nissan-global.com/",
+      "Description": ""
+    },
+    {
+      "PageName": "OpenAI",
+      "PageID": "5234",
+      "Type": "Private",
+      "Industry": "Artificial Intelligence, Technology",
+      "Website": "https://openai.com/",
+      "Description": "OpenAI is an AI focused megacorporation that owns ChatGPT."
+    },
+    {
+      "PageName": "Pearson Inc",
+      "PageID": "5180",
+      "Type": "",
+      "Industry": "",
+      "Website": "https://plc.pearson.com/",
+      "Description": "Pearson is an education company that has a variety of subsidiaries that do everything from publishing educational books to providing IT exams."
+    },
+    {
+      "PageName": "PepsiCo",
+      "PageID": "5346",
+      "Type": "Public",
+      "Industry": "Beverages, Food Processing",
+      "Website": "https://www.pepsico.com/",
       "Description": ""
     },
     {
@@ -255,6 +303,14 @@
       "Industry": "Home automation",
       "Website": "https://www.belkin.com/products/wemo-smart-home/",
       "Description": "American smart home and accessory manufacturer. In 2025, announced non-Homekit devices will cease to function."
+    },
+    {
+      "PageName": "Xbox",
+      "PageID": "5332",
+      "Type": "Subsidiary",
+      "Industry": "Video game",
+      "Website": "https://www.xbox.com",
+      "Description": "Xbox is a gaming company created in 2001 by Microsoft for a line of gaming consoles."
     }
   ],
   "Incident": [
@@ -267,16 +323,6 @@
       "Product": "Amazon Kindle",
       "ProductLine": "Amazon Kindle",
       "Description": "Amazon automatically allows publishers to make substantial editorial changes to users' purchased books"
-    },
-    {
-      "PageName": "Brother ink lockout & quality sabotage",
-      "PageID": "2552",
-      "Type": "Digital restrictions,Firmware lockout",
-      "ArticleType": "Product",
-      "Company": "Brother Industries Ltd.",
-      "Product": "",
-      "ProductLine": "",
-      "Description": "Brother pushed firmware updates that degrade non-OEM toner's print quality - forcing consumers to buy more expensive genuine Brother toner"
     },
     {
       "PageName": "Brother printer dcp 3550 cdw cartridges failure",
@@ -329,6 +375,16 @@
       "Description": "Echelon pushed firmware updates blocking third-party apps, requiring server authentication & breaking QZ compatibility for users"
     },
     {
+      "PageName": "FTC sues PepsiCo for rigging Soft Drink Competition",
+      "PageID": "5348",
+      "Type": "Price Discrimination",
+      "ArticleType": "Product",
+      "Company": "Federal Trade Commission, PepsiCo",
+      "Product": "Pepsi, Pepsi Zero Sugar",
+      "ProductLine": "Pepsi",
+      "Description": "PepsiCo gives unfair advantage to customer retailer while raising prices for competitors. FTC alleges price discrimination."
+    },
+    {
       "PageName": "Garmin Navionics Acquisition",
       "PageID": "5121",
       "Type": "Digital restrictions",
@@ -347,6 +403,26 @@
       "Product": "",
       "ProductLine": "",
       "Description": "Good2Go Mobile is a cellphone network company who prides itself on selling no contract prepaid sim cards. Calls will only cost per minute plus the 911 fees."
+    },
+    {
+      "PageName": "Nintendo 3rd party dock restrictions",
+      "PageID": "5336",
+      "Type": "Third Party, Firmware lockout",
+      "ArticleType": "Product",
+      "Company": "Nintendo, Antank, Genki",
+      "Product": "Nintendo switch, Nintendo Switch 2",
+      "ProductLine": "Nintendo Switch",
+      "Description": "Nintendo has placed an encryption method on the bottom USB C Port of the Switch 2 in order to make it harder for 3rd party docks to be manufactured."
+    },
+    {
+      "PageName": "QR-Code-Generator.com “free” QR code lockout",
+      "PageID": "5181",
+      "Type": "Terms of Service",
+      "ArticleType": "Product",
+      "Company": "Bitly",
+      "Product": "qr-code-generator.com",
+      "ProductLine": "qr-code-generator.com",
+      "Description": "Bitly’s QR-Code-Generator.com markets “free” QR codes that later break unless users pay, causing losses for printed materials."
     },
     {
       "PageName": "Samsung EULA change reverse engineering",
@@ -379,6 +455,16 @@
       "Description": "Schneider Electric is flashing all the Wiser Home Energy Monitors to their own firmware, they used to be Sense devices. Firmware removes functionality"
     },
     {
+      "PageName": "T-Mobile secretly recording the screens of users via T-Life app",
+      "PageID": "5335",
+      "Type": "Privacy",
+      "ArticleType": "Service",
+      "Company": "T-Mobile",
+      "Product": "T-Life",
+      "ProductLine": "",
+      "Description": "In May 2025 T-Mobile's app \"T-Life\" rolled out a feature with screen recording that was on by default, unbeknownst to customers."
+    },
+    {
       "PageName": "Tesla shuts down car on the middle of the highway over legal dispute with the owner",
       "PageID": "5090",
       "Type": "",
@@ -409,6 +495,16 @@
       "Description": "The arbitration agreement for Gotham Steel does not allow consumers to opt out."
     },
     {
+      "PageName": "User:Schang1146/Test",
+      "PageID": "5340",
+      "Type": "Firmware lockout",
+      "ArticleType": "Product",
+      "Company": "Walmart",
+      "Product": "Onn 4K Box, Onn 4K Pro, Onn HD Stick, Chromecast 4K, Chromecast HD",
+      "ProductLine": "Onn",
+      "Description": "Walmart refuses to replace bricked Onn devices after a forced Android update bricked devices, with devices over a year old being ineligible for refund"
+    },
+    {
       "PageName": "Walmart's refusal to replace bricked Onn devices after forced update",
       "PageID": "5008",
       "Type": "Firmware lockout",
@@ -435,8 +531,8 @@
       "ArticleType": "Service",
       "Company": "",
       "Product": "Youtube",
-      "ProductLine": "Youtube",
-      "Description": "Youtube is requiring Users to give their government id to verify that they are adults, otherwise Users will be locked out of content."
+      "ProductLine": "YouTube",
+      "Description": "YouTube is requiring Users to give their government id to verify that they are adults, otherwise Users will be locked out of content."
     }
   ],
   "Product": [
@@ -475,6 +571,15 @@
       "Company": "Insta360",
       "Website": "https://store.insta360.com/product/insta360plus",
       "Description": "Cloud-based subscription for Insta360 cameras that offers camera replacement and warranty perks."
+    },
+    {
+      "PageName": "Itch.io",
+      "PageID": "5156",
+      "ArticleType": "Service",
+      "Category": "Digital storefront, Video games",
+      "Company": "",
+      "Website": "https://itch.io",
+      "Description": "Online digital distributor mainly for games."
     },
     {
       "PageName": "NetLimiter",
@@ -538,6 +643,15 @@
       "Company": "SURI",
       "Website": "https://www.trysuri.com/",
       "Description": "A sustainable electric toothbrush."
+    },
+    {
+      "PageName": "TikTok",
+      "PageID": "5155",
+      "ArticleType": "Service",
+      "Category": "Social media",
+      "Company": "[[ByteDance]]",
+      "Website": "https://tiktok.com",
+      "Description": "Social media platform famous for popularizing short-form content."
     }
   ],
   "ProductLine": [
@@ -558,6 +672,15 @@
       "Company": "Jetbrains",
       "Website": "https://www.jetbrains.com/",
       "Description": "Jetbrains Developer Tools is a set of IDEs designed for major programming languages."
+    },
+    {
+      "PageName": "GE Refrigerator water filter DRM",
+      "PageID": "5325",
+      "ArticleType": "Product",
+      "Category": "Hardware",
+      "Company": "GE",
+      "Website": "",
+      "Description": "Refrigerators that use DRM lockouts to enforce purchasing manufacturer's expensive water filters."
     },
     {
       "PageName": "Google Pixel",
