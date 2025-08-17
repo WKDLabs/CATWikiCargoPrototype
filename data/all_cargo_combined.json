@@ -17,6 +17,14 @@
       "Description": "Advanced Micro Devices or AMD is an American technology company that sells CPUs and GPUs for both commercial and enterprise use."
     },
     {
+      "PageName": "Anthropic",
+      "PageID": "5530",
+      "Type": "Private",
+      "Industry": "Artificial Intelligence",
+      "Website": "https://anthropic.com",
+      "Description": "American AI startup founded in 2021 commonly known for their family of LLMs named Claude."
+    },
+    {
       "PageName": "Apple",
       "PageID": "148",
       "Type": "Public",
@@ -81,6 +89,14 @@
       "Description": ""
     },
     {
+      "PageName": "Champion Power Equipment",
+      "PageID": "5582",
+      "Type": "Private",
+      "Industry": "",
+      "Website": "https://www.championpowerequipment.com",
+      "Description": "Manufacturer of power equipment mostly generators based on a 4-cycle combustion engine platform"
+    },
+    {
       "PageName": "Chase Bank",
       "PageID": "284",
       "Type": "Subsidiary",
@@ -95,6 +111,14 @@
       "Industry": "Retail",
       "Website": "https://www.costco.com/",
       "Description": "Costco is a retail corporation."
+    },
+    {
+      "PageName": "Cox Communications",
+      "PageID": "5552",
+      "Type": "Subsidiary",
+      "Industry": "Telecommunications",
+      "Website": "https://www.cox.com/",
+      "Description": "Cox Communications is an Atlanta-based American telecommunications company which provides internet, TV, and phone services."
     },
     {
       "PageName": "Daikin",
@@ -145,12 +169,28 @@
       "Description": ""
     },
     {
+      "PageName": "General Motors (OnStar)",
+      "PageID": "5500",
+      "Type": "Public",
+      "Industry": "Automotive, Technology, Information Technology",
+      "Website": "https://www.gm.com, https://www.onstar.com",
+      "Description": "A multinational corporation that designs, manufactures, and markets vehicles and offers in-vehicle safety, security, and information services."
+    },
+    {
       "PageName": "Google",
       "PageID": "183",
       "Type": "Subsidiary",
       "Industry": "Technology",
       "Website": "https://www.google.com/",
       "Description": ""
+    },
+    {
+      "PageName": "Huawei",
+      "PageID": "5586",
+      "Type": "",
+      "Industry": "Telecommunications",
+      "Website": "https://www.huawei.com/",
+      "Description": "Huawei Shenzhen Technology Corporation"
     },
     {
       "PageName": "Imgur",
@@ -225,12 +265,28 @@
       "Description": ""
     },
     {
+      "PageName": "Newag",
+      "PageID": "232",
+      "Type": "Public",
+      "Industry": "Railway",
+      "Website": "https://www.newag.pl/",
+      "Description": "The company produces locomotives and electric multiple unit powered rolling stocks."
+    },
+    {
       "PageName": "Nissan",
       "PageID": "979",
       "Type": "Public",
       "Industry": "Automotive",
       "Website": "https://www.nissan-global.com/",
       "Description": ""
+    },
+    {
+      "PageName": "OnePlus",
+      "PageID": "5544",
+      "Type": "Private",
+      "Industry": "Electronics",
+      "Website": "https://oneplus.com",
+      "Description": "OnePlus, is a Chinese consumer electronics manufacturer headquartered in Shenzhen, Guangdong, China."
     },
     {
       "PageName": "OpenAI",
@@ -273,6 +329,14 @@
       "Description": "Proton is a privacy-focused tech company.  Their main services include Proton Mail, Proton VPN and Proton Pass."
     },
     {
+      "PageName": "Reckon",
+      "PageID": "5486",
+      "Type": "Public",
+      "Industry": "Software",
+      "Website": "https://www.reckon.com/,https://www.reckon.com.au/",
+      "Description": "Leech company which steals your perpetual software licenses"
+    },
+    {
       "PageName": "Rovio",
       "PageID": "1486",
       "Type": "Subsidiary",
@@ -287,6 +351,22 @@
       "Industry": "Social media service",
       "Website": "https://snapchat.com/",
       "Description": "Messaging app founded in 2011 that popularized streaks, disappearing messages, and images called \"snaps\"."
+    },
+    {
+      "PageName": "SoundCloud",
+      "PageID": "5538",
+      "Type": "Private",
+      "Industry": "Entertainment",
+      "Website": "https://soundcloud.com/",
+      "Description": "Music streaming service."
+    },
+    {
+      "PageName": "Target",
+      "PageID": "5561",
+      "Type": "Public",
+      "Industry": "Retail",
+      "Website": "https://www.target.com/",
+      "Description": "Target is an American retail chain. It is one of the largest retail chains in America."
     },
     {
       "PageName": "Tea Dating Advice",
@@ -313,52 +393,12 @@
       "Description": "Temu is a fast fashion company which is known for offering low-priced goods shipped directly from China."
     },
     {
-      "PageName": "Toyota",
-      "PageID": "513",
-      "Type": "Public",
-      "Industry": "Automotive",
-      "Website": "https://toyota.com/",
+      "PageName": "The Economist",
+      "PageID": "1918",
+      "Type": "Private",
+      "Industry": "Newspapers",
+      "Website": "https://www.economist.com/",
       "Description": ""
-    },
-    {
-      "PageName": "Trump Mobile",
-      "PageID": "4629",
-      "Type": "Subsidiary",
-      "Industry": "Telecommunications",
-      "Website": "https://trumpmobile.com/",
-      "Description": "MVNO founded by the Trump Organization. Soon after the launch, issues with signing up, false advertising, and double charges emerged."
-    },
-    {
-      "PageName": "Uk.chicntech",
-      "PageID": "5115",
-      "Type": "Private",
-      "Industry": "Automotive, Technology, Electronics, Computer hardware, Kitchenware, Textiles",
-      "Website": "https://uk.chicntech.com/",
-      "Description": "UK Chicntech is an online retailer of various consumer products, including bedding, small kitchen supplies, and car accessories."
-    },
-    {
-      "PageName": "Wemo",
-      "PageID": "2168",
-      "Type": "Subsidiary",
-      "Industry": "Home automation",
-      "Website": "https://www.belkin.com/products/wemo-smart-home/",
-      "Description": "American smart home and accessory manufacturer. In 2025, announced non-Homekit devices will cease to function."
-    },
-    {
-      "PageName": "Whoop",
-      "PageID": "5456",
-      "Type": "Private",
-      "Industry": "Electronics",
-      "Website": "https://www.whoop.com/us/en/",
-      "Description": "Whoop is a subscription health wearable company."
-    },
-    {
-      "PageName": "Xbox",
-      "PageID": "5332",
-      "Type": "Subsidiary",
-      "Industry": "Video game",
-      "Website": "https://www.xbox.com",
-      "Description": "Xbox is a gaming company created in 2001 by Microsoft for a line of gaming consoles."
     }
   ],
   "Incident": [
@@ -393,6 +433,26 @@
       "Description": "Amazon automatically allows publishers to make substantial editorial changes to users' purchased books"
     },
     {
+      "PageName": "Anker ToS has a Release for any harm caused by their products or services",
+      "PageID": "5511",
+      "Type": "Terms of Service",
+      "ArticleType": "Service",
+      "Company": "Anker, Soundcore, Eufy",
+      "Product": "Soundcore App",
+      "ProductLine": "Forced User Agreement on Anker Products",
+      "Description": "Anker has a release in their ToS forcing you to agree to release them from any legal action"
+    },
+    {
+      "PageName": "Anthem Server Shutdown",
+      "PageID": "5522",
+      "Type": "Service Termination",
+      "ArticleType": "Product",
+      "Company": "Electronic Arts, BioWare",
+      "Product": "Anthem (game)",
+      "ProductLine": "",
+      "Description": "EA plans to shut down Anthem's always-online servers on January 12, 2026, rendering the game completely unplayable for all owners."
+    },
+    {
       "PageName": "Bitly QR Code Preview Page Advertising",
       "PageID": "5442",
       "Type": "Terms of Service",
@@ -417,7 +477,7 @@
       "PageID": "5474",
       "Type": "Cloud lockout",
       "ArticleType": "Product",
-      "Company": "CF Moto",
+      "Company": "CFMoto",
       "Product": "CFMOTO Ride",
       "ProductLine": "Motorcycles",
       "Description": "CFMoto have moved to a subscription model for there CFMOTO ride app, this includes changing users for features they use to receive with their purchase"
@@ -523,6 +583,16 @@
       "Description": "On 26 October 2023, the UK Online Safety Act passed and became law. This act restricts the freedom of UK users of the internet and increases censorship."
     },
     {
+      "PageName": "LaLiga forces Spanish ISPs to mass-block Cloudflare IPs during Soccer Games",
+      "PageID": "5587",
+      "Type": "Digital restrictions, IP Blocking",
+      "ArticleType": "Service",
+      "Company": "LaLiga, Cloudflare",
+      "Product": "",
+      "ProductLine": "Internet Access",
+      "Description": "A Spanish court allowed LaLiga to mandate mass IP blocks, mostly Cloudflare, which serves millions of legitimate websites via shared IPs."
+    },
+    {
       "PageName": "Miku Charges Subscription for Previously Free Features",
       "PageID": "5470",
       "Type": "Digital restrictions, Terms of Service, Cloud lockout",
@@ -551,6 +621,16 @@
       "Product": "Nitro PDF",
       "ProductLine": "Nitro PDF",
       "Description": "Nitro Software, Inc. is remotely deactivating perpetual paid licenses."
+    },
+    {
+      "PageName": "Oculus (Meta) Go Dysfunctional Setup",
+      "PageID": "5596",
+      "Type": "Digital restrictions",
+      "ArticleType": "Product",
+      "Company": "Meta",
+      "Product": "Oculus Go",
+      "ProductLine": "Oculus Go",
+      "Description": "The Oculus Go headsets require the use of the an app to first setup the headset. As of 2025/4 the setup is broken so cant use the headset"
     },
     {
       "PageName": "QR-Code-Generator.com “free” QR code lockout",
@@ -583,6 +663,16 @@
       "Description": "Samsung Frame TVs suddenly told users after an update they would require a subscription to display a slideshow on their TV"
     },
     {
+      "PageName": "Samsung Galaxy Z Fold 3's camera gets artificially blocked after unlocking the bootloader",
+      "PageID": "5531",
+      "Type": "Firmware lockout",
+      "ArticleType": "Product",
+      "Company": "Samsung",
+      "Product": "Samsung Galaxy Z Fold 3",
+      "ProductLine": "Galaxy Z series",
+      "Description": "Front and rear cameras on the Galaxy Z Fold 3 get artifically disabled when the user unlocks the bootloader."
+    },
+    {
       "PageName": "Samsung sued over S22 performance throttle",
       "PageID": "4967",
       "Type": "Digital restrictions",
@@ -601,6 +691,26 @@
       "Product": "Wiser Home Energy Monitor",
       "ProductLine": "Wiser Home Energy Monitor",
       "Description": "Schneider Electric is flashing all the Wiser Home Energy Monitors to their own firmware, they used to be Sense devices. Firmware removes functionality"
+    },
+    {
+      "PageName": "SumUp Blocks Users' Card Readers",
+      "PageID": "5529",
+      "Type": "Repairability",
+      "ArticleType": "Product",
+      "Company": "SumUp",
+      "Product": "SumUp Solo, SumUp 3G+, SumUp Air, SumUp Solo Lite",
+      "ProductLine": "",
+      "Description": "SumUp blocks their Card Readers after purchase, refusing to let their own customers' repair them, under the \"prevent manipulation/tampering\" premise."
+    },
+    {
+      "PageName": "T Mobile T Life Screen Recording",
+      "PageID": "5543",
+      "Type": "Cellphone Network, Privacy",
+      "ArticleType": "Service",
+      "Company": "T Mobile",
+      "Product": "T Life App",
+      "ProductLine": "T Mobile Phone Plan",
+      "Description": "T Mobile secretly added a screen recording feature into the T Life app that is automatically enabled."
     },
     {
       "PageName": "T-Mobile secretly recording the screens of users via T-Life app",
@@ -623,6 +733,16 @@
       "Description": "The arbitration agreement for Gotham Steel does not allow consumers to opt out."
     },
     {
+      "PageName": "User:FoulerTripod363/ User testing for mandatory paid subscription into Tado Smart Thermostat app",
+      "PageID": "5519",
+      "Type": "",
+      "ArticleType": "",
+      "Company": "",
+      "Product": "",
+      "ProductLine": "",
+      "Description": ""
+    },
+    {
       "PageName": "User:Schang1146/Test",
       "PageID": "5340",
       "Type": "Firmware lockout",
@@ -633,14 +753,14 @@
       "Description": "Walmart refuses to replace bricked Onn devices after a forced Android update bricked devices, with devices over a year old being ineligible for refund"
     },
     {
-      "PageName": "Vital Proteins Collagen Peptides - Hidden Arbitration Clause Under the Lid",
-      "PageID": "5462",
-      "Type": "Hidden Arbitration Clause",
-      "ArticleType": "Product",
-      "Company": "Vital Proteins",
-      "Product": "Vital Proteins Collagen Peptides, Unflavored",
-      "ProductLine": "Collagen Peptides",
-      "Description": "Vital Proteins hides a forced arbitration clause under the inner lid, revealed only after purchase and breaking the seal."
+      "PageName": "Verizon gives newer plans with less features at a higher price",
+      "PageID": "5514",
+      "Type": "Cellphone Network, Price Discrimination",
+      "ArticleType": "Service",
+      "Company": "Verizon",
+      "Product": "Mobile service, MyPlan",
+      "ProductLine": "MyPlan, Bundles, Unlimited plans",
+      "Description": "Verizon has been pushing their customers to get myPlan Unlimited plans, which delete features included in previous plans while being higher in price"
     },
     {
       "PageName": "Vizio fined by the FTC for collecting and selling user data without consumer consent",
@@ -704,6 +824,24 @@
       "Description": "Bandicam is a screen-recording software created by Bandicam Company in 2009."
     },
     {
+      "PageName": "Bluedriver app update now requires creating an account to be able to use the scan tool to scan vehicle trouble codes",
+      "PageID": "5535",
+      "ArticleType": "",
+      "Category": "consumer tool",
+      "Company": "bluedriver",
+      "Website": "",
+      "Description": "OBD2 scan tool for reading check engine codes"
+    },
+    {
+      "PageName": "Denon HEOS Speakers",
+      "PageID": "5574",
+      "ArticleType": "Product",
+      "Category": "Audio Device",
+      "Company": "Denon",
+      "Website": "",
+      "Description": "Smart speakers which can be controlled over local network. Can play from internet sources or aux in, bluetooth or local airplay."
+    },
+    {
       "PageName": "Disney+",
       "PageID": "2938",
       "ArticleType": "Service",
@@ -729,6 +867,15 @@
       "Company": "",
       "Website": "https://duckduckgo.com/",
       "Description": "Privacy-focused browser"
+    },
+    {
+      "PageName": "Flair Airline Deception and/or Misleading Seating Practices",
+      "PageID": "5485",
+      "ArticleType": "Service",
+      "Category": "Service Ancillaries",
+      "Company": "Flair Airlines",
+      "Website": "https://www.flyflair.com/",
+      "Description": "Deceptive and/or Misleading seat selection menu provided by Flair Airlines during the flight booking process."
     },
     {
       "PageName": "Google Pixel Buds Pro 2",
@@ -783,6 +930,15 @@
       "Company": "",
       "Website": "https://www.netlimiter.com/",
       "Description": "NetLimiter is a tool to monitor and control network traffic per-program."
+    },
+    {
+      "PageName": "Nintendo eShop",
+      "PageID": "5583",
+      "ArticleType": "Service",
+      "Category": "Video Games, Software",
+      "Company": "Nintendo",
+      "Website": "https://www.nintendo.com/us/store/",
+      "Description": "Nintendo eShop is the online store for Nintendo's 3DS, Wii U, and Switch consoles."
     },
     {
       "PageName": "PayPal Honey",
@@ -902,6 +1058,15 @@
       "Company": "Jetbrains",
       "Website": "https://www.jetbrains.com/",
       "Description": "Jetbrains Developer Tools is a set of IDEs designed for major programming languages."
+    },
+    {
+      "PageName": "Fujifilm Instax Cameras",
+      "PageID": "5513",
+      "ArticleType": "Product",
+      "Category": "Hardware, Software",
+      "Company": "Fujifilm",
+      "Website": "https://instax.com/",
+      "Description": "Instant print cameras, film camera"
     },
     {
       "PageName": "Game Pass Core",
