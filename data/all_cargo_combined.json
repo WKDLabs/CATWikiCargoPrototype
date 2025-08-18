@@ -1,6 +1,14 @@
 {
   "Company": [
     {
+      "PageName": "3CX",
+      "PageID": "4861",
+      "Type": "Private",
+      "Industry": "Telecommunication",
+      "Website": "https://www.3cx.com/",
+      "Description": ""
+    },
+    {
       "PageName": "Amazon",
       "PageID": "181",
       "Type": "Public",
@@ -153,6 +161,22 @@
       "Description": "Generative AI media platform primarily for developers."
     },
     {
+      "PageName": "Fandom",
+      "PageID": "5661",
+      "Type": "Private",
+      "Industry": "Entertainment",
+      "Website": "https://www.fandom.com/",
+      "Description": "Fandom, formerly known as Wikia, is a platform for hosting information and social media about movies, video games, books, and TV series."
+    },
+    {
+      "PageName": "Figma",
+      "PageID": "5491",
+      "Type": "Public",
+      "Industry": "Software",
+      "Website": "https://figma.com/",
+      "Description": ""
+    },
+    {
       "PageName": "Flo",
       "PageID": "5342",
       "Type": "Private",
@@ -207,6 +231,14 @@
       "Industry": "Financial Services",
       "Website": "[https://www.intuit.com/ intuit.com]",
       "Description": ""
+    },
+    {
+      "PageName": "Lincare Holdings Inc.",
+      "PageID": "5641",
+      "Type": "Subsidiary",
+      "Industry": "Health",
+      "Website": "https://www.lincare.com/",
+      "Description": "Lincare is the largest distributor of respiratory homecare equipment in the United States, along with many other medical devices."
     },
     {
       "PageName": "Logitech",
@@ -361,44 +393,12 @@
       "Description": "Music streaming service."
     },
     {
-      "PageName": "Target",
-      "PageID": "5561",
-      "Type": "Public",
-      "Industry": "Retail",
-      "Website": "https://www.target.com/",
-      "Description": "Target is an American retail chain. It is one of the largest retail chains in America."
-    },
-    {
-      "PageName": "Tea Dating Advice",
-      "PageID": "5027",
+      "PageName": "StarForce Technologies",
+      "PageID": "5602",
       "Type": "Private",
-      "Industry": "Social media service",
-      "Website": "https://www.teaforwomen.com/",
-      "Description": "An app founded in 2023 that allows women to share information about and review local men regarding dating. The app requires identity verification for users."
-    },
-    {
-      "PageName": "Telecom Egypt",
-      "PageID": "4983",
-      "Type": "Public (State-owned majority)",
-      "Industry": "Telecommunications",
-      "Website": "https://www.te.eg/",
-      "Description": ""
-    },
-    {
-      "PageName": "Temu",
-      "PageID": "5431",
-      "Type": "Private",
-      "Industry": "Textiles",
-      "Website": "https://www.temu.com/",
-      "Description": "Temu is a fast fashion company which is known for offering low-priced goods shipped directly from China."
-    },
-    {
-      "PageName": "The Economist",
-      "PageID": "1918",
-      "Type": "Private",
-      "Industry": "Newspapers",
-      "Website": "https://www.economist.com/",
-      "Description": ""
+      "Industry": "Software",
+      "Website": "https://www.star-force.com/,https://www.star-force.ru/",
+      "Description": "StarForce Technologies develops copy protection and digital rights management (DRM) software for games and applications."
     }
   ],
   "Incident": [
@@ -411,6 +411,16 @@
       "Product": "Wave Gen 1",
       "ProductLine": "Wave Gen 1",
       "Description": "Airthings products collect user environment data and their new app uploads everything when the previous app allowed offline use despite dark patterns"
+    },
+    {
+      "PageName": "Ajet airlines refuse to follow their own fare rules when refunding tickets",
+      "PageID": "5600",
+      "Type": "Terms of Service",
+      "ArticleType": "Service",
+      "Company": "ajet",
+      "Product": "ticket",
+      "ProductLine": "flight",
+      "Description": "Tried to refund a 573€ premium ticket before the flight according to Ajet.com fare rules, refund refused without proper reason."
     },
     {
       "PageName": "AllTrails not having a Privacy Policy",
@@ -443,7 +453,7 @@
       "Description": "Anker has a release in their ToS forcing you to agree to release them from any legal action"
     },
     {
-      "PageName": "Anthem Server Shutdown",
+      "PageName": "Anthem server shutdown",
       "PageID": "5522",
       "Type": "Service Termination",
       "ArticleType": "Product",
@@ -473,7 +483,7 @@
       "Description": ""
     },
     {
-      "PageName": "CF Moto – Change to Included Features Now Behind Paywall",
+      "PageName": "CF Moto puts previously included features behind paywall",
       "PageID": "5474",
       "Type": "Cloud lockout",
       "ArticleType": "Product",
@@ -573,6 +583,16 @@
       "Description": "Good2Go Mobile is a cellphone network company who prides itself on selling no contract prepaid sim cards. Calls will only cost per minute plus the 911 fees."
     },
     {
+      "PageName": "Google forces your device to join their \"Find Hub\" network, hard to opt out",
+      "PageID": "5620",
+      "Type": "Privacy",
+      "ArticleType": "Service",
+      "Company": "Google",
+      "Product": "",
+      "ProductLine": "",
+      "Description": "Google added some Android devices to their \"Find Hub\" network without consent, only imforming via email. Forces you to accept policy if you try to opt-out."
+    },
+    {
       "PageName": "Implementation of the UK Online Safety Act",
       "PageID": "5177",
       "Type": "Digital restrictions",
@@ -593,7 +613,17 @@
       "Description": "A Spanish court allowed LaLiga to mandate mass IP blocks, mostly Cloudflare, which serves millions of legitimate websites via shared IPs."
     },
     {
-      "PageName": "Miku Charges Subscription for Previously Free Features",
+      "PageName": "Microsoft Copilot's recall feature",
+      "PageID": "5598",
+      "Type": "Privacy",
+      "ArticleType": "Service",
+      "Company": "Microsoft",
+      "Product": "Microsoft Copilot",
+      "ProductLine": "",
+      "Description": "Microsoft Recall collects screenshots of the user's computer every few seconds to be used by Copilot, Microsoft's AI."
+    },
+    {
+      "PageName": "Miku charges subscription for previously free features",
       "PageID": "5470",
       "Type": "Digital restrictions, Terms of Service, Cloud lockout",
       "ArticleType": "Service",
@@ -601,6 +631,16 @@
       "Product": "",
       "ProductLine": "",
       "Description": "On September 15 2023, Miku revoked previously free baby monitor features, now selling them for $9.99 under care+ subscription."
+    },
+    {
+      "PageName": "Minecraft enforceing undisclosed server EULA terms",
+      "PageID": "5614",
+      "Type": "Terms of Service, Privacy",
+      "ArticleType": "Service",
+      "Company": "Microsoft",
+      "Product": "",
+      "ProductLine": "",
+      "Description": "Minecraft used non-existent ToS to take down user mods. It was about violating rule, that did not exist in public ToS."
     },
     {
       "PageName": "Nintendo 3rd party dock restrictions",
@@ -693,7 +733,7 @@
       "Description": "Schneider Electric is flashing all the Wiser Home Energy Monitors to their own firmware, they used to be Sense devices. Firmware removes functionality"
     },
     {
-      "PageName": "SumUp Blocks Users' Card Readers",
+      "PageName": "SumUp blocks card readers",
       "PageID": "5529",
       "Type": "Repairability",
       "ArticleType": "Product",
@@ -867,6 +907,15 @@
       "Company": "",
       "Website": "https://duckduckgo.com/",
       "Description": "Privacy-focused browser"
+    },
+    {
+      "PageName": "Firefox",
+      "PageID": "5662",
+      "ArticleType": "Product",
+      "Category": "Browser, Web Browser",
+      "Company": "Mozilla",
+      "Website": "https://www.firefox.com/",
+      "Description": "Firefox is a free open-source browser created and owned by Mozilla."
     },
     {
       "PageName": "Flair Airline Deception and/or Misleading Seating Practices",
@@ -1130,6 +1179,15 @@
       "Company": "Qardio",
       "Website": "https://www.qardio.com/",
       "Description": "An application used to connect to Qardio devices, requiring access to the now defunct servers."
+    },
+    {
+      "PageName": "Steelseries Aerox 3 Lightweight Gaming Mouse",
+      "PageID": "5658",
+      "ArticleType": "Product",
+      "Category": "Hardware, Software",
+      "Company": "SteelSeries",
+      "Website": "https://steelseries.com/gaming-mice/aerox-3-2022",
+      "Description": "The Steelseries Aerox 3 is a lightweight gaming mouse, designed with perforations in order to use less plastic, can be wired or wireless."
     }
   ]
 }
