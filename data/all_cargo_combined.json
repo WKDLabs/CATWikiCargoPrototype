@@ -233,6 +233,14 @@
       "Description": ""
     },
     {
+      "PageName": "Kucoin kucard",
+      "PageID": "5683",
+      "Type": "Private",
+      "Industry": "Finance, Banking, Technology, Software",
+      "Website": "https://www.kucoin.com/announcement/kucard-update-on-inactivity-fee-charges",
+      "Description": "I never created or asked for a CREDIT CARD on KUCOIN, CRYPTO, CRYPTOCURENCY, but they created me one, I dont know why and how, after that they start b"
+    },
+    {
       "PageName": "Lincare Holdings Inc.",
       "PageID": "5641",
       "Type": "Subsidiary",
@@ -391,14 +399,6 @@
       "Industry": "Entertainment",
       "Website": "https://soundcloud.com/",
       "Description": "Music streaming service."
-    },
-    {
-      "PageName": "StarForce Technologies",
-      "PageID": "5602",
-      "Type": "Private",
-      "Industry": "Software",
-      "Website": "https://www.star-force.com/,https://www.star-force.ru/",
-      "Description": "StarForce Technologies develops copy protection and digital rights management (DRM) software for games and applications."
     }
   ],
   "Incident": [
@@ -443,16 +443,6 @@
       "Description": "Amazon automatically allows publishers to make substantial editorial changes to users' purchased books"
     },
     {
-      "PageName": "Anker ToS has a Release for any harm caused by their products or services",
-      "PageID": "5511",
-      "Type": "Terms of Service",
-      "ArticleType": "Service",
-      "Company": "Anker, Soundcore, Eufy",
-      "Product": "Soundcore App",
-      "ProductLine": "Forced User Agreement on Anker Products",
-      "Description": "Anker has a release in their ToS forcing you to agree to release them from any legal action"
-    },
-    {
       "PageName": "Anthem server shutdown",
       "PageID": "5522",
       "Type": "Service Termination",
@@ -491,6 +481,16 @@
       "Product": "CFMOTO Ride",
       "ProductLine": "Motorcycles",
       "Description": "CFMoto have moved to a subscription model for there CFMOTO ride app, this includes changing users for features they use to receive with their purchase"
+    },
+    {
+      "PageName": "Crypto Cryptocurrency KuCard Transactions and Fees Inactivity Fee Charges",
+      "PageID": "5684",
+      "Type": "Third Party",
+      "ArticleType": "Service",
+      "Company": "",
+      "Product": "",
+      "ProductLine": "",
+      "Description": "NEW FEES FOR CryptoManiaks !!!"
     },
     {
       "PageName": "Dead star server shutdown",
@@ -643,6 +643,16 @@
       "Description": "Minecraft used non-existent ToS to take down user mods. It was about violating rule, that did not exist in public ToS."
     },
     {
+      "PageName": "Minecraft post-purchase ownership rights changes",
+      "PageID": "5672",
+      "Type": "Terms of Service",
+      "ArticleType": "Product",
+      "Company": "Mojang, Microsoft",
+      "Product": "Minecraft Java Edition",
+      "ProductLine": "Minecraft",
+      "Description": "A game first sold as a DRM-fee product, slowly became a license to a service."
+    },
+    {
       "PageName": "Nintendo 3rd party dock restrictions",
       "PageID": "5336",
       "Type": "Third Party, Firmware lockout",
@@ -731,6 +741,16 @@
       "Product": "Wiser Home Energy Monitor",
       "ProductLine": "Wiser Home Energy Monitor",
       "Description": "Schneider Electric is flashing all the Wiser Home Energy Monitors to their own firmware, they used to be Sense devices. Firmware removes functionality"
+    },
+    {
+      "PageName": "Starlink removes ability to pause subscriptions",
+      "PageID": "5671",
+      "Type": "Terms of Service",
+      "ArticleType": "Service",
+      "Company": "Starlink",
+      "Product": "",
+      "ProductLine": "Starlink Satellite Internet",
+      "Description": "Starlink disabled their \"Pause\" feature for their internet plans, launching an alternative \"Standby mode\" costing $5 USD/month with speeds of 500kb/s."
     },
     {
       "PageName": "SumUp blocks card readers",
@@ -854,6 +874,15 @@
     }
   ],
   "Product": [
+    {
+      "PageName": "Apple AirPower",
+      "PageID": "5688",
+      "ArticleType": "Product",
+      "Category": "",
+      "Company": "Apple",
+      "Website": "",
+      "Description": "The Apple AirPower wireless charging mat would have been able to wirelessly charge multiple devices at once, but was cancelled."
+    },
     {
       "PageName": "Bandicam",
       "PageID": "5404",
