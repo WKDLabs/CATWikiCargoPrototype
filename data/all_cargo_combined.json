@@ -97,14 +97,6 @@
       "Description": ""
     },
     {
-      "PageName": "Champion Power Equipment",
-      "PageID": "5582",
-      "Type": "Private",
-      "Industry": "",
-      "Website": "https://www.championpowerequipment.com",
-      "Description": "Manufacturer of power equipment mostly generators based on a 4-cycle combustion engine platform"
-    },
-    {
       "PageName": "Chase Bank",
       "PageID": "284",
       "Type": "Subsidiary",
@@ -127,6 +119,14 @@
       "Industry": "Telecommunications",
       "Website": "https://www.cox.com/",
       "Description": "Cox Communications is an Atlanta-based American telecommunications company which provides internet, TV, and phone services."
+    },
+    {
+      "PageName": "Crunch Fitness Subscription Cancelation Practice",
+      "PageID": "5699",
+      "Type": "",
+      "Industry": "",
+      "Website": "https://www.crunch.com/",
+      "Description": "Crunch Fitness is an American fitness club. Headquartered in New York, Crunch is composed of over 400 franchised and corporate-owned gyms."
     },
     {
       "PageName": "Daikin",
@@ -321,6 +321,14 @@
       "Description": ""
     },
     {
+      "PageName": "Okkazeo",
+      "PageID": "5725",
+      "Type": "Private",
+      "Industry": "Board Games, Second Hand",
+      "Website": "https://www.okkazeo.com/",
+      "Description": "Okkazeo allows board game players selling/buying second hand game"
+    },
+    {
       "PageName": "OnePlus",
       "PageID": "5544",
       "Type": "Private",
@@ -391,14 +399,6 @@
       "Industry": "Social media service",
       "Website": "https://snapchat.com/",
       "Description": "Messaging app founded in 2011 that popularized streaks, disappearing messages, and images called \"snaps\"."
-    },
-    {
-      "PageName": "SoundCloud",
-      "PageID": "5538",
-      "Type": "Private",
-      "Industry": "Entertainment",
-      "Website": "https://soundcloud.com/",
-      "Description": "Music streaming service."
     }
   ],
   "Incident": [
@@ -481,6 +481,16 @@
       "Product": "CFMOTO Ride",
       "ProductLine": "Motorcycles",
       "Description": "CFMoto have moved to a subscription model for there CFMOTO ride app, this includes changing users for features they use to receive with their purchase"
+    },
+    {
+      "PageName": "Crave app refuses TV's based on production date",
+      "PageID": "5711",
+      "Type": "Digital restrictions",
+      "ArticleType": "",
+      "Company": "samsung, HBO, crave",
+      "Product": "crave",
+      "ProductLine": "samsung TV, streaming service",
+      "Description": "SAMSUNG TV's manufactured before 2018 will need to upgrade their samsung TV model if they want to continue accessing the crave APP."
     },
     {
       "PageName": "Crypto Cryptocurrency KuCard Transactions and Fees Inactivity Fee Charges",
@@ -590,7 +600,7 @@
       "Company": "Google",
       "Product": "",
       "ProductLine": "",
-      "Description": "Google added some Android devices to their \"Find Hub\" network without consent, only imforming via email. Forces you to accept policy if you try to opt-out."
+      "Description": "Google added some Android devices to their \"Find Hub\" network without consent, only informing via email."
     },
     {
       "PageName": "Implementation of the UK Online Safety Act",
@@ -611,6 +621,16 @@
       "Product": "",
       "ProductLine": "Internet Access",
       "Description": "A Spanish court allowed LaLiga to mandate mass IP blocks, mostly Cloudflare, which serves millions of legitimate websites via shared IPs."
+    },
+    {
+      "PageName": "Meta AI driven erroneous permanent account suspensions",
+      "PageID": "5736",
+      "Type": "Service Termination, Digital restrictions",
+      "ArticleType": "Service",
+      "Company": "Meta",
+      "Product": "",
+      "ProductLine": "",
+      "Description": "Considerable amounts of people wrongfully permanently banned by Meta's AI content moderation. Permanent ban with no human involvement."
     },
     {
       "PageName": "Microsoft Copilot's recall feature",
@@ -783,6 +803,16 @@
       "Description": "In May 2025 T-Mobile's app \"T-Life\" rolled out a feature with screen recording that was on by default, unbeknownst to customers."
     },
     {
+      "PageName": "T-Mobile T-Life app screen recording controversy",
+      "PageID": "5717",
+      "Type": "Privacy",
+      "ArticleType": "Product",
+      "Company": "T-Mobile",
+      "Product": "T-Life App",
+      "ProductLine": "T-Mobile Smart Devices",
+      "Description": "T-Mobile T-Life app discovered to include a default-on, in-app only, screen recording feature on some devices, raising concerns about transparency and privacy."
+    },
+    {
       "PageName": "Unable to opt out of an arbitration agreement for a Gotham Steel",
       "PageID": "5001",
       "Type": "Terms of Service",
@@ -907,7 +937,7 @@
       "ArticleType": "Product",
       "Category": "Audio Device",
       "Company": "Denon",
-      "Website": "",
+      "Website": "https://www.denon.com/en-us/",
       "Description": "Smart speakers which can be controlled over local network. Can play from internet sources or aux in, bluetooth or local airplay."
     },
     {
@@ -954,6 +984,15 @@
       "Company": "Flair Airlines",
       "Website": "https://www.flyflair.com/",
       "Description": "Deceptive and/or Misleading seat selection menu provided by Flair Airlines during the flight booking process."
+    },
+    {
+      "PageName": "Free Studio (DVDVideoSoft)",
+      "PageID": "5705",
+      "ArticleType": "Product",
+      "Category": "Software",
+      "Company": "DVDVideoSoft",
+      "Website": "https://www.dvdvideosoft.com/",
+      "Description": "Suite of multimedia tools once fully free; now crippled with ads, locked features, and Premium-only functions."
     },
     {
       "PageName": "Google Pixel Buds Pro 2",
