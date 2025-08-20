@@ -3,1259 +3,1498 @@
     {
       "PageName": "3CX",
       "PageID": "4861",
-      "Type": "Private",
+      "Description": "",
       "Industry": "Telecommunication",
-      "Website": "https://www.3cx.com/",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://www.3cx.com/"
     },
     {
       "PageName": "Amazon",
       "PageID": "181",
-      "Type": "Public",
+      "Description": "",
       "Industry": "Technology",
-      "Website": "https://amazon.com/",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://amazon.com/"
     },
     {
       "PageName": "AMD",
       "PageID": "5046",
-      "Type": "Public",
+      "Description": "Advanced Micro Devices or AMD is an American technology company that sells CPUs and GPUs for both commercial and enterprise use.",
       "Industry": "Semiconductors, Computer hardware",
-      "Website": "https://www.amd.com/",
-      "Description": "Advanced Micro Devices or AMD is an American technology company that sells CPUs and GPUs for both commercial and enterprise use."
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://www.amd.com/"
     },
     {
       "PageName": "Anthropic",
       "PageID": "5530",
-      "Type": "Private",
+      "Description": "American AI startup founded in 2021 commonly known for their family of LLMs named Claude.",
       "Industry": "Artificial Intelligence",
-      "Website": "https://anthropic.com",
-      "Description": "American AI startup founded in 2021 commonly known for their family of LLMs named Claude."
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://anthropic.com"
     },
     {
       "PageName": "Apple",
       "PageID": "148",
-      "Type": "Public",
+      "Description": "",
       "Industry": "Electronics",
-      "Website": "https://apple.com/",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://apple.com/"
     },
     {
       "PageName": "AT&T",
       "PageID": "824",
-      "Type": "Public",
+      "Description": "",
       "Industry": "Telecommunications",
-      "Website": "https://att.com/",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://att.com/"
     },
     {
       "PageName": "Autel - Otofix",
       "PageID": "5067",
-      "Type": "",
+      "Description": "Autel and subbrand Otofix - Automotive Diagnostic tools",
       "Industry": "",
-      "Website": "https://autel.com/",
-      "Description": "Autel and subbrand Otofix - Automotive Diagnostic tools"
+      "ParentCompany": "",
+      "Type": "",
+      "Website": "https://autel.com/"
     },
     {
       "PageName": "Autodesk",
       "PageID": "755",
-      "Type": "Public",
+      "Description": "",
       "Industry": "Software",
-      "Website": "https://autodesk.com",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://autodesk.com"
     },
     {
       "PageName": "Bitly",
       "PageID": "5183",
-      "Type": "Private",
+      "Description": "Bitly is a private technology company offering link management and QR code services, including qr-code-generator.com.",
       "Industry": "Software, Information Technology, Technology",
-      "Website": "https://bitly.com/",
-      "Description": "Bitly is a private technology company offering link management and QR code services, including qr-code-generator.com."
+      "ParentCompany": "Spectrum Equity",
+      "Type": "Private",
+      "Website": "https://bitly.com/"
     },
     {
       "PageName": "Blink",
       "PageID": "1969",
-      "Type": "Subsidiary",
+      "Description": "IoT camera manufacturer acquired by Amazon in 2017. Since 2020, the cameras require a subscription for cloud storage and other necessary features.",
       "Industry": "Home security",
-      "Website": "https://blinkforhome.com/",
-      "Description": "IoT camera manufacturer acquired by Amazon in 2017. Since 2020, the cameras require a subscription for cloud storage and other necessary features."
+      "ParentCompany": "Amazon",
+      "Type": "Subsidiary",
+      "Website": "https://blinkforhome.com/"
     },
     {
       "PageName": "Bob's Discount Furniture",
       "PageID": "5360",
-      "Type": "Private",
+      "Description": "Bob's Discount Furniture is a U.S. based retailer offering a range of home furnishings. The company operates over 200 retail locations.",
       "Industry": "Retail",
-      "Website": "https://www.mybobs.com/",
-      "Description": "Bob's Discount Furniture is a U.S. based retailer offering a range of home furnishings. The company operates over 200 retail locations."
+      "ParentCompany": "Bain Capital",
+      "Type": "Private",
+      "Website": "https://www.mybobs.com/"
     },
     {
       "PageName": "ByteDance",
       "PageID": "5162",
-      "Type": "Private",
+      "Description": "",
       "Industry": "Software",
-      "Website": "https://bytedance.com",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://bytedance.com"
     },
     {
       "PageName": "Chase Bank",
       "PageID": "284",
-      "Type": "Subsidiary",
+      "Description": "",
       "Industry": "Banking",
-      "Website": "https://chase.com",
-      "Description": ""
+      "ParentCompany": "JPMorgan Chase",
+      "Type": "Subsidiary",
+      "Website": "https://chase.com"
     },
     {
       "PageName": "Costco",
       "PageID": "5334",
-      "Type": "Public",
+      "Description": "Costco is a retail corporation.",
       "Industry": "Retail",
-      "Website": "https://www.costco.com/",
-      "Description": "Costco is a retail corporation."
+      "ParentCompany": "Costco Wholesale Corporation",
+      "Type": "Public",
+      "Website": "https://www.costco.com/"
     },
     {
       "PageName": "Cox Communications",
       "PageID": "5552",
-      "Type": "Subsidiary",
+      "Description": "Cox Communications is an Atlanta-based American telecommunications company which provides internet, TV, and phone services.",
       "Industry": "Telecommunications",
-      "Website": "https://www.cox.com/",
-      "Description": "Cox Communications is an Atlanta-based American telecommunications company which provides internet, TV, and phone services."
+      "ParentCompany": "Cox Enterprises",
+      "Type": "Subsidiary",
+      "Website": "https://www.cox.com/"
     },
     {
       "PageName": "Crunch Fitness Subscription Cancelation Practice",
       "PageID": "5699",
-      "Type": "",
+      "Description": "Crunch Fitness is an American fitness club. Headquartered in New York, Crunch is composed of over 400 franchised and corporate-owned gyms.",
       "Industry": "",
-      "Website": "https://www.crunch.com/",
-      "Description": "Crunch Fitness is an American fitness club. Headquartered in New York, Crunch is composed of over 400 franchised and corporate-owned gyms."
+      "ParentCompany": "",
+      "Type": "",
+      "Website": "https://www.crunch.com/"
     },
     {
       "PageName": "Daikin",
       "PageID": "5010",
-      "Type": "Private",
+      "Description": "Manufacturer of air conditioning systems",
       "Industry": "Home automation, Air Conditioning",
-      "Website": "http://www.daikin.com/",
-      "Description": "Manufacturer of air conditioning systems"
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "http://www.daikin.com/"
     },
     {
       "PageName": "Deutsche Kreditbank (DKB)",
       "PageID": "5006",
-      "Type": "Public",
+      "Description": "DKB is Germany's second biggest direct bank.",
       "Industry": "Finance",
-      "Website": "https://www.dkb.de/",
-      "Description": "DKB is Germany's second biggest direct bank."
+      "ParentCompany": "Bayerische Landesbank",
+      "Type": "Public",
+      "Website": "https://www.dkb.de/"
     },
     {
       "PageName": "Duolingo",
       "PageID": "1144",
-      "Type": "Public",
+      "Description": "A language learning app with a mission to make learning \"universally available\". In the 2020s, paywalled content and data breaches affected users.",
       "Industry": "Education, Software",
-      "Website": "https://duolingo.com",
-      "Description": "A language learning app with a mission to make learning \"universally available\". In the 2020s, paywalled content and data breaches affected users."
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://duolingo.com"
     },
     {
       "PageName": "Fal (AI company)",
       "PageID": "5066",
-      "Type": "",
+      "Description": "Generative AI media platform primarily for developers.",
       "Industry": "Information Technology",
-      "Website": "https://fal.ai",
-      "Description": "Generative AI media platform primarily for developers."
+      "ParentCompany": "",
+      "Type": "",
+      "Website": "https://fal.ai"
     },
     {
       "PageName": "Fandom",
       "PageID": "5661",
-      "Type": "Private",
+      "Description": "Fandom, formerly known as Wikia, is a platform for hosting information and social media about movies, video games, books, and TV series.",
       "Industry": "Entertainment",
-      "Website": "https://www.fandom.com/",
-      "Description": "Fandom, formerly known as Wikia, is a platform for hosting information and social media about movies, video games, books, and TV series."
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://www.fandom.com/"
     },
     {
       "PageName": "Figma",
       "PageID": "5491",
-      "Type": "Public",
+      "Description": "",
       "Industry": "Software",
-      "Website": "https://figma.com/",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://figma.com/"
     },
     {
       "PageName": "Flo",
       "PageID": "5342",
-      "Type": "Private",
+      "Description": "",
       "Industry": "Health",
-      "Website": "[https://www.flo.health/ flo.health]",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "[https://www.flo.health/ flo.health]"
     },
     {
       "PageName": "Ford",
       "PageID": "146",
-      "Type": "Public",
+      "Description": "",
       "Industry": "Automotive",
-      "Website": "https://ford.com/",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://ford.com/"
     },
     {
       "PageName": "General Motors (OnStar)",
       "PageID": "5500",
-      "Type": "Public",
+      "Description": "A multinational corporation that designs, manufactures, and markets vehicles and offers in-vehicle safety, security, and information services.",
       "Industry": "Automotive, Technology, Information Technology",
-      "Website": "https://www.gm.com, https://www.onstar.com",
-      "Description": "A multinational corporation that designs, manufactures, and markets vehicles and offers in-vehicle safety, security, and information services."
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://www.gm.com, https://www.onstar.com"
     },
     {
       "PageName": "Google",
       "PageID": "183",
-      "Type": "Subsidiary",
+      "Description": "",
       "Industry": "Technology",
-      "Website": "https://www.google.com/",
-      "Description": ""
+      "ParentCompany": "Alphabet Inc.",
+      "Type": "Subsidiary",
+      "Website": "https://www.google.com/"
     },
     {
       "PageName": "Huawei",
       "PageID": "5586",
-      "Type": "",
+      "Description": "Huawei Shenzhen Technology Corporation",
       "Industry": "Telecommunications",
-      "Website": "https://www.huawei.com/",
-      "Description": "Huawei Shenzhen Technology Corporation"
+      "ParentCompany": "",
+      "Type": "",
+      "Website": "https://www.huawei.com/"
     },
     {
       "PageName": "Imgur",
       "PageID": "2580",
-      "Type": "Private",
+      "Description": "Imgur is a media company and image sharing platform - originally founded by Alan Schaaf, it is now bought and owned by MediaLab AI, Inc.",
       "Industry": "Media Hosting",
-      "Website": "https://imgur.com/",
-      "Description": "Imgur is a media company and image sharing platform - originally founded by Alan Schaaf, it is now bought and owned by MediaLab AI, Inc."
+      "ParentCompany": "MediaLab AI, Inc.",
+      "Type": "Private",
+      "Website": "https://imgur.com/"
     },
     {
       "PageName": "Intuit",
       "PageID": "5107",
-      "Type": "Public",
+      "Description": "",
       "Industry": "Financial Services",
-      "Website": "[https://www.intuit.com/ intuit.com]",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "[https://www.intuit.com/ intuit.com]"
     },
     {
       "PageName": "Kucoin kucard",
       "PageID": "5683",
-      "Type": "Private",
+      "Description": "I never created or asked for a CREDIT CARD on KUCOIN, CRYPTO, CRYPTOCURENCY, but they created me one, I dont know why and how, after that they start b",
       "Industry": "Finance, Banking, Technology, Software",
-      "Website": "https://www.kucoin.com/announcement/kucard-update-on-inactivity-fee-charges",
-      "Description": "I never created or asked for a CREDIT CARD on KUCOIN, CRYPTO, CRYPTOCURENCY, but they created me one, I dont know why and how, after that they start b"
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://www.kucoin.com/announcement/kucard-update-on-inactivity-fee-charges"
     },
     {
       "PageName": "Lincare Holdings Inc.",
       "PageID": "5641",
-      "Type": "Subsidiary",
+      "Description": "Lincare is the largest distributor of respiratory homecare equipment in the United States, along with many other medical devices.",
       "Industry": "Health",
-      "Website": "https://www.lincare.com/",
-      "Description": "Lincare is the largest distributor of respiratory homecare equipment in the United States, along with many other medical devices."
+      "ParentCompany": "Linde",
+      "Type": "Subsidiary",
+      "Website": "https://www.lincare.com/"
     },
     {
       "PageName": "Logitech",
       "PageID": "5111",
-      "Type": "Public",
+      "Description": "Logitech is a Swiss company that manufactures computer peripherals, audio accessories, and other electronic devices.",
       "Industry": "Electronics, Technology",
-      "Website": "https://www.logitech.com",
-      "Description": "Logitech is a Swiss company that manufactures computer peripherals, audio accessories, and other electronic devices."
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://www.logitech.com"
     },
     {
       "PageName": "Mastercard",
       "PageID": "5449",
-      "Type": "Public",
+      "Description": "An American multinational payment card services corporation, offering a range of payment transaction processing and other related-payment services.",
       "Industry": "Banking",
-      "Website": "https://www.mastercard.com/",
-      "Description": "An American multinational payment card services corporation, offering a range of payment transaction processing and other related-payment services."
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://www.mastercard.com/"
     },
     {
       "PageName": "Mercedes Benz",
       "PageID": "2148",
-      "Type": "Subsidiary",
+      "Description": "Mercedes-Benz is a German automotive manufacturer that has taken away and/or disabled features shortly after their sale",
       "Industry": "Automotive",
-      "Website": "https://www.mercedes-benz.com/",
-      "Description": "Mercedes-Benz is a German automotive manufacturer that has taken away and/or disabled features shortly after their sale"
+      "ParentCompany": "",
+      "Type": "Subsidiary",
+      "Website": "https://www.mercedes-benz.com/"
     },
     {
       "PageName": "Merkury Innovations",
       "PageID": "4979",
-      "Type": "Private",
+      "Description": "Specialty retail company specializing in smart home devices, LED lighting, and personal audio equipment.",
       "Industry": "Electronics, Home automation, Technology",
-      "Website": "https://merkuryinnovations.com/",
-      "Description": "Specialty retail company specializing in smart home devices, LED lighting, and personal audio equipment."
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://merkuryinnovations.com/"
     },
     {
       "PageName": "Microsoft",
       "PageID": "158",
-      "Type": "Public",
+      "Description": "Microsoft is one of the \"Big Five\" tech giants who has had issues ranging from antitrust issues to monopolies",
       "Industry": "Information Technology",
-      "Website": "https://www.microsoft.com/",
-      "Description": "Microsoft is one of the \"Big Five\" tech giants who has had issues ranging from antitrust issues to monopolies"
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://www.microsoft.com/"
     },
     {
       "PageName": "Mojang",
       "PageID": "5352",
-      "Type": "Private",
+      "Description": "Mojang is a video game company most known for creating Minecraft.",
       "Industry": "Video game",
-      "Website": "https://www.minecraft.net/en-us",
-      "Description": "Mojang is a video game company most known for creating Minecraft."
+      "ParentCompany": "Microsoft",
+      "Type": "Private",
+      "Website": "https://www.minecraft.net/en-us"
     },
     {
       "PageName": "Mullvad VPN",
       "PageID": "5422",
-      "Type": "Private",
+      "Description": "",
       "Industry": "Virtual Private Networks",
-      "Website": "https://mullvad.net/",
-      "Description": ""
+      "ParentCompany": "Amagicom AB",
+      "Type": "Private",
+      "Website": "https://mullvad.net/"
     },
     {
       "PageName": "Newag",
       "PageID": "232",
-      "Type": "Public",
+      "Description": "The company produces locomotives and electric multiple unit powered rolling stocks.",
       "Industry": "Railway",
-      "Website": "https://www.newag.pl/",
-      "Description": "The company produces locomotives and electric multiple unit powered rolling stocks."
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://www.newag.pl/"
     },
     {
       "PageName": "Nissan",
       "PageID": "979",
-      "Type": "Public",
+      "Description": "",
       "Industry": "Automotive",
-      "Website": "https://www.nissan-global.com/",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://www.nissan-global.com/"
     },
     {
       "PageName": "Okkazeo",
       "PageID": "5725",
-      "Type": "Private",
+      "Description": "Okkazeo allows board game players selling/buying second hand game",
       "Industry": "Board Games, Second Hand",
-      "Website": "https://www.okkazeo.com/",
-      "Description": "Okkazeo allows board game players selling/buying second hand game"
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://www.okkazeo.com/"
     },
     {
       "PageName": "OnePlus",
       "PageID": "5544",
-      "Type": "Private",
+      "Description": "OnePlus, is a Chinese consumer electronics manufacturer headquartered in Shenzhen, Guangdong, China.",
       "Industry": "Electronics",
-      "Website": "https://oneplus.com",
-      "Description": "OnePlus, is a Chinese consumer electronics manufacturer headquartered in Shenzhen, Guangdong, China."
+      "ParentCompany": "Oppo",
+      "Type": "Private",
+      "Website": "https://oneplus.com"
     },
     {
       "PageName": "OpenAI",
       "PageID": "5234",
-      "Type": "Private",
+      "Description": "OpenAI is an AI focused megacorporation that owns ChatGPT.",
       "Industry": "Artificial Intelligence, Technology",
-      "Website": "https://openai.com/",
-      "Description": "OpenAI is an AI focused megacorporation that owns ChatGPT."
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://openai.com/"
     },
     {
       "PageName": "Pearson plc",
       "PageID": "5180",
-      "Type": "Public",
+      "Description": "Pearson is an education company that has a variety of subsidiaries that do everything from publishing educational books to providing IT exams.",
       "Industry": "Education, Mass Media",
-      "Website": "https://plc.pearson.com/",
-      "Description": "Pearson is an education company that has a variety of subsidiaries that do everything from publishing educational books to providing IT exams."
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://plc.pearson.com/"
     },
     {
       "PageName": "PepsiCo",
       "PageID": "5346",
-      "Type": "Public",
+      "Description": "",
       "Industry": "Beverages, Food Processing",
-      "Website": "https://www.pepsico.com/",
-      "Description": ""
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://www.pepsico.com/"
     },
     {
       "PageName": "Pinterest",
       "PageID": "2770",
-      "Type": "Public",
+      "Description": "Photo sharing website founded in 2009 where users can \"pin\" various images to their profile and add them to collections.",
       "Industry": "Social media service",
-      "Website": "https://pinterest.com/",
-      "Description": "Photo sharing website founded in 2009 where users can \"pin\" various images to their profile and add them to collections."
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://pinterest.com/"
     },
     {
       "PageName": "Proton",
       "PageID": "5141",
-      "Type": "Private",
+      "Description": "Proton is a privacy-focused tech company.  Their main services include Proton Mail, Proton VPN and Proton Pass.",
       "Industry": "Technology, Telecommunications, Computer hardware",
-      "Website": "https://proton.me",
-      "Description": "Proton is a privacy-focused tech company.  Their main services include Proton Mail, Proton VPN and Proton Pass."
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://proton.me"
     },
     {
       "PageName": "Reckon",
       "PageID": "5486",
-      "Type": "Public",
+      "Description": "Leech company which steals your perpetual software licenses",
       "Industry": "Software",
-      "Website": "https://www.reckon.com/,https://www.reckon.com.au/",
-      "Description": "Leech company which steals your perpetual software licenses"
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://www.reckon.com/,https://www.reckon.com.au/"
     },
     {
       "PageName": "Rovio",
       "PageID": "1486",
-      "Type": "Subsidiary",
+      "Description": "Finnish mobile game developer known for the ''Angry Birds'' series. In the 2020s, the original games were delisted and puts users through arbitration.",
       "Industry": "Entertainment, Video game",
-      "Website": "https://rovio.com",
-      "Description": "Finnish mobile game developer known for the ''Angry Birds'' series. In the 2020s, the original games were delisted and puts users through arbitration."
+      "ParentCompany": "Sega",
+      "Type": "Subsidiary",
+      "Website": "https://rovio.com"
     },
     {
       "PageName": "Snapchat",
       "PageID": "2440",
-      "Type": "Public",
+      "Description": "Messaging app founded in 2011 that popularized streaks, disappearing messages, and images called \"snaps\".",
       "Industry": "Social media service",
-      "Website": "https://snapchat.com/",
-      "Description": "Messaging app founded in 2011 that popularized streaks, disappearing messages, and images called \"snaps\"."
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://snapchat.com/"
     }
   ],
   "Incident": [
     {
       "PageName": "Airthings ASA releases a new app that forces always online and collected user devices data to be sent to their cloud",
       "PageID": "5435",
-      "Type": "Privacy, Digital restrictions, Service Termination",
-      "ArticleType": "Product",
       "Company": "Airthings",
-      "Product": "Wave Gen 1",
+      "StartDate": "2024-05-13",
+      "EndDate": "2024-05-13",
+      "Status": "Pending Resolution",
       "ProductLine": "Wave Gen 1",
-      "Description": "Airthings products collect user environment data and their new app uploads everything when the previous app allowed offline use despite dark patterns"
+      "Product": "Wave Gen 1",
+      "Type": "Privacy, Digital restrictions, Service Termination",
+      "Description": "Airthings products collect user environment data and their new app uploads everything when the previous app allowed offline use despite dark patterns",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
     },
     {
       "PageName": "Ajet airlines refuse to follow their own fare rules when refunding tickets",
       "PageID": "5600",
-      "Type": "Terms of Service",
-      "ArticleType": "Service",
       "Company": "ajet",
-      "Product": "ticket",
+      "StartDate": "2025-08-02",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "flight",
-      "Description": "Tried to refund a 573€ premium ticket before the flight according to Ajet.com fare rules, refund refused without proper reason."
+      "Product": "ticket",
+      "Type": "Terms of Service",
+      "Description": "Tried to refund a 573€ premium ticket before the flight according to Ajet.com fare rules, refund refused without proper reason.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "AllTrails not having a Privacy Policy",
       "PageID": "5454",
-      "Type": "Terms of Service",
-      "ArticleType": "Service",
       "Company": "",
-      "Product": "",
+      "StartDate": "2025-07-25",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "The Website AllTrails has a dead 404 link when trying to access their Privacy Policy. Talking to Customer Service also requires accepting it."
+      "Product": "",
+      "Type": "Terms of Service",
+      "Description": "The Website AllTrails has a dead 404 link when trying to access their Privacy Policy. Talking to Customer Service also requires accepting it.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Amazon altering the content of purchased ebooks",
       "PageID": "5080",
-      "Type": "Digital restrictions",
-      "ArticleType": "Service",
       "Company": "Amazon",
-      "Product": "Amazon Kindle",
+      "StartDate": "2023-01-01",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Amazon Kindle",
-      "Description": "Amazon automatically allows publishers to make substantial editorial changes to users' purchased books"
+      "Product": "Amazon Kindle",
+      "Type": "Digital restrictions",
+      "Description": "Amazon automatically allows publishers to make substantial editorial changes to users' purchased books",
+      "StartDate__precision": "3",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Anthem server shutdown",
       "PageID": "5522",
-      "Type": "Service Termination",
-      "ArticleType": "Product",
       "Company": "Electronic Arts, BioWare",
-      "Product": "Anthem (game)",
+      "StartDate": "2025-07-03",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "EA plans to shut down Anthem's always-online servers on January 12, 2026, rendering the game completely unplayable for all owners."
+      "Product": "Anthem (game)",
+      "Type": "Service Termination",
+      "Description": "EA plans to shut down Anthem's always-online servers on January 12, 2026, rendering the game completely unplayable for all owners.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Bitly QR Code Preview Page Advertising",
       "PageID": "5442",
-      "Type": "Terms of Service",
-      "ArticleType": "Service",
       "Company": "Bitly",
-      "Product": "QR-Code-Generator.com, Bitly links",
+      "StartDate": "2025-02-01",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "Bitly has introduced \"preview pages\" for QR Codes and Bitly links, which may contain advertising, before directing users to the destination link."
+      "Product": "QR-Code-Generator.com, Bitly links",
+      "Type": "Terms of Service",
+      "Description": "Bitly has introduced \"preview pages\" for QR Codes and Bitly links, which may contain advertising, before directing users to the destination link.",
+      "StartDate__precision": "2",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Brother printer dcp 3550 cdw cartridges failure",
       "PageID": "2482",
-      "Type": "Planned Obsolesence,Third Party",
-      "ArticleType": "",
       "Company": "Brother Industries Ltd.",
-      "Product": "",
+      "StartDate": "2025-01-01",
+      "EndDate": "",
+      "Status": "",
       "ProductLine": "",
-      "Description": ""
+      "Product": "",
+      "Type": "Planned Obsolesence,Third Party",
+      "Description": "",
+      "StartDate__precision": "3",
+      "EndDate__precision": ""
     },
     {
       "PageName": "CF Moto puts previously included features behind paywall",
       "PageID": "5474",
-      "Type": "Cloud lockout",
-      "ArticleType": "Product",
       "Company": "CFMoto",
-      "Product": "CFMOTO Ride",
+      "StartDate": "2025-08-16",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Motorcycles",
-      "Description": "CFMoto have moved to a subscription model for there CFMOTO ride app, this includes changing users for features they use to receive with their purchase"
+      "Product": "CFMOTO Ride",
+      "Type": "Cloud lockout",
+      "Description": "CFMoto have moved to a subscription model for there CFMOTO ride app, this includes changing users for features they use to receive with their purchase",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Crave app refuses TV's based on production date",
       "PageID": "5711",
-      "Type": "Digital restrictions",
-      "ArticleType": "",
       "Company": "samsung, HBO, crave",
-      "Product": "crave",
+      "StartDate": "2025-09-15",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "samsung TV, streaming service",
-      "Description": "SAMSUNG TV's manufactured before 2018 will need to upgrade their samsung TV model if they want to continue accessing the crave APP."
+      "Product": "crave",
+      "Type": "Digital restrictions",
+      "Description": "SAMSUNG TV's manufactured before 2018 will need to upgrade their samsung TV model if they want to continue accessing the crave APP.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Crypto Cryptocurrency KuCard Transactions and Fees Inactivity Fee Charges",
       "PageID": "5684",
-      "Type": "Third Party",
-      "ArticleType": "Service",
       "Company": "",
-      "Product": "",
+      "StartDate": "2025-08-18",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "NEW FEES FOR CryptoManiaks !!!"
+      "Product": "",
+      "Type": "Third Party",
+      "Description": "NEW FEES FOR CryptoManiaks !!!",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Dead star server shutdown",
       "PageID": "5402",
-      "Type": "",
-      "ArticleType": "Product",
       "Company": "Armature Studio",
-      "Product": "Dead Star",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "",
       "ProductLine": "",
-      "Description": "Online video game Dead Star shut down it's servers, leaving the tutorial as the only accessible content in the game."
+      "Product": "Dead Star",
+      "Type": "",
+      "Description": "Online video game Dead Star shut down it's servers, leaving the tutorial as the only accessible content in the game.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Discontinuation of Samsung Gear 360 Software and Services",
       "PageID": "5370",
-      "Type": "Planned Obsolescence, Digital restrictions",
-      "ArticleType": "Service",
       "Company": "Samsung",
-      "Product": "Gear 360 2017, Gear 360 2016",
+      "StartDate": "2020-08-01",
+      "EndDate": "",
+      "Status": "Resolved",
       "ProductLine": "Gear 360",
-      "Description": "Samsung discontinued updates and servers for the Gear 360 without prior notice, limiting its features through digital restrictions."
+      "Product": "Gear 360 2017, Gear 360 2016",
+      "Type": "Planned Obsolescence, Digital restrictions",
+      "Description": "Samsung discontinued updates and servers for the Gear 360 without prior notice, limiting its features through digital restrictions.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Disney wrongful-death lawsuit",
       "PageID": "220",
-      "Type": "Terms of Service",
-      "ArticleType": "Service",
       "Company": "Disney",
-      "Product": "Disney+",
+      "StartDate": "2024-02-01",
+      "EndDate": "",
+      "Status": "Pending Resolution",
       "ProductLine": "",
-      "Description": "TBD"
+      "Product": "Disney+",
+      "Type": "Terms of Service",
+      "Description": "TBD",
+      "StartDate__precision": "2",
+      "EndDate__precision": ""
     },
     {
       "PageName": "DRM Software Outage Prevents Video Game From Even Being Playable",
       "PageID": "5106",
-      "Type": "Third Party, Terms of Service",
-      "ArticleType": "Product",
       "Company": "Denuvo",
-      "Product": "Steam",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "PC, Video Games",
-      "Description": "DRM software that's bundled into major video game releases on PC are rendered unplayable when online check-in servers are down or player has no Wi-Fi."
+      "Product": "Steam",
+      "Type": "Third Party, Terms of Service",
+      "Description": "DRM software that's bundled into major video game releases on PC are rendered unplayable when online check-in servers are down or player has no Wi-Fi.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "EA requires open beta players of battlefield 6 to change their motherboard bios settings",
       "PageID": "5068",
-      "Type": "",
-      "ArticleType": "Product",
       "Company": "EA",
-      "Product": "Battlefield 6",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": ""
+      "Product": "Battlefield 6",
+      "Type": "",
+      "Description": "",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Echelon fitness firmware lockout",
       "PageID": "4972",
-      "Type": "Firmware lockout",
-      "ArticleType": "Product",
       "Company": "Echelon Fitness",
-      "Product": "exercise equipment",
+      "StartDate": "2025-07-01",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "echelon exercie equipment",
-      "Description": "Echelon pushed firmware updates blocking third-party apps, requiring server authentication & breaking QZ compatibility for users"
+      "Product": "exercise equipment",
+      "Type": "Firmware lockout",
+      "Description": "Echelon pushed firmware updates blocking third-party apps, requiring server authentication & breaking QZ compatibility for users",
+      "StartDate__precision": "2",
+      "EndDate__precision": ""
     },
     {
       "PageName": "FTC sues PepsiCo for rigging Soft Drink Competition",
       "PageID": "5348",
-      "Type": "Price Discrimination",
-      "ArticleType": "Product",
       "Company": "Federal Trade Commission, PepsiCo",
-      "Product": "Pepsi, Pepsi Zero Sugar",
+      "StartDate": "2025-01-17",
+      "EndDate": "2025-05-22",
+      "Status": "Resolved",
       "ProductLine": "Pepsi",
-      "Description": "PepsiCo gives unfair advantage to customer retailer while raising prices for competitors. FTC alleges price discrimination."
+      "Product": "Pepsi, Pepsi Zero Sugar",
+      "Type": "Price Discrimination",
+      "Description": "PepsiCo gives unfair advantage to customer retailer while raising prices for competitors. FTC alleges price discrimination.",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
     },
     {
       "PageName": "Garmin Navionics Acquisition",
       "PageID": "5121",
-      "Type": "Digital restrictions",
-      "ArticleType": "Product",
       "Company": "Garmin, Navionics",
-      "Product": "Navionics App and web viewer",
+      "StartDate": "2017-01-01",
+      "EndDate": "2025-01-01",
+      "Status": "Pending Resolution",
       "ProductLine": "Navionics Digital Charts",
-      "Description": "Numerous anti consumer practices. Reneging on lifetime chart purchases and converting to subscriptions with massive price increases."
+      "Product": "Navionics App and web viewer",
+      "Type": "Digital restrictions",
+      "Description": "Numerous anti consumer practices. Reneging on lifetime chart purchases and converting to subscriptions with massive price increases.",
+      "StartDate__precision": "3",
+      "EndDate__precision": "3"
     },
     {
       "PageName": "Good2Go Mobile (Canada) phases out 3G network, Merges with LuckyMobile",
       "PageID": "5074",
-      "Type": "Cellphone Network",
-      "ArticleType": "Service",
       "Company": "Good2Go Mobile, LuckyMobile",
-      "Product": "",
+      "StartDate": "2025-07-25",
+      "EndDate": "2025-07-31",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "Good2Go Mobile is a cellphone network company who prides itself on selling no contract prepaid sim cards. Calls will only cost per minute plus the 911 fees."
+      "Product": "",
+      "Type": "Cellphone Network",
+      "Description": "Good2Go Mobile is a cellphone network company who prides itself on selling no contract prepaid sim cards. Calls will only cost per minute plus the 911 fees.",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
     },
     {
       "PageName": "Google forces your device to join their \"Find Hub\" network, hard to opt out",
       "PageID": "5620",
-      "Type": "Privacy",
-      "ArticleType": "Service",
       "Company": "Google",
-      "Product": "",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "Google added some Android devices to their \"Find Hub\" network without consent, only informing via email."
+      "Product": "",
+      "Type": "Privacy",
+      "Description": "Google added some Android devices to their \"Find Hub\" network without consent, only informing via email.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Implementation of the UK Online Safety Act",
       "PageID": "5177",
-      "Type": "Digital restrictions",
-      "ArticleType": "Legislation",
       "Company": "",
-      "Product": "",
+      "StartDate": "2023-10-26",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "On 26 October 2023, the UK Online Safety Act passed and became law. This act restricts the freedom of UK users of the internet and increases censorship."
+      "Product": "",
+      "Type": "Digital restrictions",
+      "Description": "On 26 October 2023, the UK Online Safety Act passed and became law. This act restricts the freedom of UK users of the internet and increases censorship.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "LaLiga forces Spanish ISPs to mass-block Cloudflare IPs during Soccer Games",
       "PageID": "5587",
-      "Type": "Digital restrictions, IP Blocking",
-      "ArticleType": "Service",
       "Company": "LaLiga, Cloudflare",
-      "Product": "",
+      "StartDate": "2024-12-01",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Internet Access",
-      "Description": "A Spanish court allowed LaLiga to mandate mass IP blocks, mostly Cloudflare, which serves millions of legitimate websites via shared IPs."
+      "Product": "",
+      "Type": "Digital restrictions, IP Blocking",
+      "Description": "A Spanish court allowed LaLiga to mandate mass IP blocks, mostly Cloudflare, which serves millions of legitimate websites via shared IPs.",
+      "StartDate__precision": "2",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Meta AI driven erroneous permanent account suspensions",
       "PageID": "5736",
-      "Type": "Service Termination, Digital restrictions",
-      "ArticleType": "Service",
       "Company": "Meta",
-      "Product": "",
+      "StartDate": "2023-01-01",
+      "EndDate": "2025-01-01",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "Considerable amounts of people wrongfully permanently banned by Meta's AI content moderation. Permanent ban with no human involvement."
+      "Product": "",
+      "Type": "Service Termination, Digital restrictions",
+      "Description": "Considerable amounts of people wrongfully permanently banned by Meta's AI content moderation. Permanent ban with no human involvement.",
+      "StartDate__precision": "3",
+      "EndDate__precision": "3"
     },
     {
       "PageName": "Microsoft Copilot's recall feature",
       "PageID": "5598",
-      "Type": "Privacy",
-      "ArticleType": "Service",
       "Company": "Microsoft",
-      "Product": "Microsoft Copilot",
+      "StartDate": "2024-06-01",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "Microsoft Recall collects screenshots of the user's computer every few seconds to be used by Copilot, Microsoft's AI."
+      "Product": "Microsoft Copilot",
+      "Type": "Privacy",
+      "Description": "Microsoft Recall collects screenshots of the user's computer every few seconds to be used by Copilot, Microsoft's AI.",
+      "StartDate__precision": "2",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Miku charges subscription for previously free features",
       "PageID": "5470",
-      "Type": "Digital restrictions, Terms of Service, Cloud lockout",
-      "ArticleType": "Service",
       "Company": "Miku",
-      "Product": "",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "On September 15 2023, Miku revoked previously free baby monitor features, now selling them for $9.99 under care+ subscription."
+      "Product": "",
+      "Type": "Digital restrictions, Terms of Service, Cloud lockout",
+      "Description": "On September 15 2023, Miku revoked previously free baby monitor features, now selling them for $9.99 under care+ subscription.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Minecraft enforceing undisclosed server EULA terms",
       "PageID": "5614",
-      "Type": "Terms of Service, Privacy",
-      "ArticleType": "Service",
       "Company": "Microsoft",
-      "Product": "",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "Minecraft used non-existent ToS to take down user mods. It was about violating rule, that did not exist in public ToS."
+      "Product": "",
+      "Type": "Terms of Service, Privacy",
+      "Description": "Minecraft used non-existent ToS to take down user mods. It was about violating rule, that did not exist in public ToS.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Minecraft post-purchase ownership rights changes",
       "PageID": "5672",
-      "Type": "Terms of Service",
-      "ArticleType": "Product",
       "Company": "Mojang, Microsoft",
-      "Product": "Minecraft Java Edition",
+      "StartDate": "2009-05-19",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Minecraft",
-      "Description": "A game first sold as a DRM-fee product, slowly became a license to a service."
+      "Product": "Minecraft Java Edition",
+      "Type": "Terms of Service",
+      "Description": "A game first sold as a DRM-fee product, slowly became a license to a service.",
+      "StartDate__precision": "0",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Nintendo 3rd party dock restrictions",
       "PageID": "5336",
-      "Type": "Third Party, Firmware lockout",
-      "ArticleType": "Product",
       "Company": "Nintendo, Antank, Genki",
-      "Product": "Nintendo switch, Nintendo Switch 2",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Nintendo Switch",
-      "Description": "Nintendo has placed an encryption method on the bottom USB C Port of the Switch 2 in order to make it harder for 3rd party docks to be manufactured."
+      "Product": "Nintendo switch, Nintendo Switch 2",
+      "Type": "Third Party, Firmware lockout",
+      "Description": "Nintendo has placed an encryption method on the bottom USB C Port of the Switch 2 in order to make it harder for 3rd party docks to be manufactured.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Nitro PDF License Deactivating",
       "PageID": "5457",
-      "Type": "Service Termination, Planned Obsolescence",
-      "ArticleType": "Product",
       "Company": "Nitro Software",
-      "Product": "Nitro PDF",
+      "StartDate": "2025-05-07",
+      "EndDate": "2025-05-07",
+      "Status": "Active",
       "ProductLine": "Nitro PDF",
-      "Description": "Nitro Software, Inc. is remotely deactivating perpetual paid licenses."
+      "Product": "Nitro PDF",
+      "Type": "Service Termination, Planned Obsolescence",
+      "Description": "Nitro Software, Inc. is remotely deactivating perpetual paid licenses.",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
     },
     {
       "PageName": "Oculus (Meta) Go Dysfunctional Setup",
       "PageID": "5596",
-      "Type": "Digital restrictions",
-      "ArticleType": "Product",
       "Company": "Meta",
-      "Product": "Oculus Go",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Oculus Go",
-      "Description": "The Oculus Go headsets require the use of the an app to first setup the headset. As of 2025/4 the setup is broken so cant use the headset"
+      "Product": "Oculus Go",
+      "Type": "Digital restrictions",
+      "Description": "The Oculus Go headsets require the use of the an app to first setup the headset. As of 2025/4 the setup is broken so cant use the headset",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "QR-Code-Generator.com “free” QR code lockout",
       "PageID": "5181",
-      "Type": "Terms of Service",
-      "ArticleType": "Product",
       "Company": "Bitly",
-      "Product": "qr-code-generator.com",
+      "StartDate": "2025-07-30",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "qr-code-generator.com",
-      "Description": "Bitly’s QR-Code-Generator.com markets “free” QR codes that later break unless users pay, causing losses for printed materials."
+      "Product": "qr-code-generator.com",
+      "Type": "Terms of Service",
+      "Description": "Bitly’s QR-Code-Generator.com markets “free” QR codes that later break unless users pay, causing losses for printed materials.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Samsung EULA change reverse engineering",
       "PageID": "5044",
-      "Type": "Terms of Service",
-      "ArticleType": "Product",
       "Company": "Samsung",
-      "Product": "samsung smart tv",
+      "StartDate": "2025-07-03",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Samsung Smart tv",
-      "Description": "EULA update bans reverse engineering in order to keep using samsung services"
+      "Product": "samsung smart tv",
+      "Type": "Terms of Service",
+      "Description": "EULA update bans reverse engineering in order to keep using samsung services",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Samsung Frame TV asks for subscription to view photos",
       "PageID": "5405",
-      "Type": "Digital restrictions",
-      "ArticleType": "Product",
       "Company": "Samsung",
-      "Product": "Samsung Frame TV",
+      "StartDate": "2025-07-31",
+      "EndDate": "",
+      "Status": "Pending Resolution",
       "ProductLine": "Samsung Frame TV",
-      "Description": "Samsung Frame TVs suddenly told users after an update they would require a subscription to display a slideshow on their TV"
+      "Product": "Samsung Frame TV",
+      "Type": "Digital restrictions",
+      "Description": "Samsung Frame TVs suddenly told users after an update they would require a subscription to display a slideshow on their TV",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Samsung Galaxy Z Fold 3's camera gets artificially blocked after unlocking the bootloader",
       "PageID": "5531",
-      "Type": "Firmware lockout",
-      "ArticleType": "Product",
       "Company": "Samsung",
-      "Product": "Samsung Galaxy Z Fold 3",
+      "StartDate": "2021-01-01",
+      "EndDate": "2022-01-01",
+      "Status": "Resolved",
       "ProductLine": "Galaxy Z series",
-      "Description": "Front and rear cameras on the Galaxy Z Fold 3 get artifically disabled when the user unlocks the bootloader."
+      "Product": "Samsung Galaxy Z Fold 3",
+      "Type": "Firmware lockout",
+      "Description": "Front and rear cameras on the Galaxy Z Fold 3 get artifically disabled when the user unlocks the bootloader.",
+      "StartDate__precision": "3",
+      "EndDate__precision": "3"
     },
     {
       "PageName": "Samsung sued over S22 performance throttle",
       "PageID": "4967",
-      "Type": "Digital restrictions",
-      "ArticleType": "Product",
       "Company": "Samsung",
-      "Product": "Samsung Galaxy S22 series",
+      "StartDate": "2022-01-01",
+      "EndDate": "2022-01-01",
+      "Status": "Resolved",
       "ProductLine": "Samsung Galaxy S",
-      "Description": "samsung sued over samsung throttling on purpose"
+      "Product": "Samsung Galaxy S22 series",
+      "Type": "Digital restrictions",
+      "Description": "samsung sued over samsung throttling on purpose",
+      "StartDate__precision": "3",
+      "EndDate__precision": "3"
     },
     {
       "PageName": "Schneider Electric Reflashes WIser Home Energy Monitor with New Firmware with Less Functionality",
       "PageID": "5082",
-      "Type": "Firmware Downgrade",
-      "ArticleType": "Product",
       "Company": "Schneider Electric, Sense",
-      "Product": "Wiser Home Energy Monitor",
+      "StartDate": "2025-01-01",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Wiser Home Energy Monitor",
-      "Description": "Schneider Electric is flashing all the Wiser Home Energy Monitors to their own firmware, they used to be Sense devices. Firmware removes functionality"
+      "Product": "Wiser Home Energy Monitor",
+      "Type": "Firmware Downgrade",
+      "Description": "Schneider Electric is flashing all the Wiser Home Energy Monitors to their own firmware, they used to be Sense devices. Firmware removes functionality",
+      "StartDate__precision": "3",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Starlink removes ability to pause subscriptions",
       "PageID": "5671",
-      "Type": "Terms of Service",
-      "ArticleType": "Service",
       "Company": "Starlink",
-      "Product": "",
+      "StartDate": "2025-08-13",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Starlink Satellite Internet",
-      "Description": "Starlink disabled their \"Pause\" feature for their internet plans, launching an alternative \"Standby mode\" costing $5 USD/month with speeds of 500kb/s."
+      "Product": "",
+      "Type": "Terms of Service",
+      "Description": "Starlink disabled their \"Pause\" feature for their internet plans, launching an alternative \"Standby mode\" costing $5 USD/month with speeds of 500kb/s.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "SumUp blocks card readers",
       "PageID": "5529",
-      "Type": "Repairability",
-      "ArticleType": "Product",
       "Company": "SumUp",
-      "Product": "SumUp Solo, SumUp 3G+, SumUp Air, SumUp Solo Lite",
+      "StartDate": "2023-01-01",
+      "EndDate": "2025-01-01",
+      "Status": "Active",
       "ProductLine": "",
-      "Description": "SumUp blocks their Card Readers after purchase, refusing to let their own customers' repair them, under the \"prevent manipulation/tampering\" premise."
+      "Product": "SumUp Solo, SumUp 3G+, SumUp Air, SumUp Solo Lite",
+      "Type": "Repairability",
+      "Description": "SumUp blocks their Card Readers after purchase, refusing to let their own customers' repair them, under the \"prevent manipulation/tampering\" premise.",
+      "StartDate__precision": "3",
+      "EndDate__precision": "3"
     },
     {
       "PageName": "T Mobile T Life Screen Recording",
       "PageID": "5543",
-      "Type": "Cellphone Network, Privacy",
-      "ArticleType": "Service",
       "Company": "T Mobile",
-      "Product": "T Life App",
+      "StartDate": "2025-05-22",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "T Mobile Phone Plan",
-      "Description": "T Mobile secretly added a screen recording feature into the T Life app that is automatically enabled."
+      "Product": "T Life App",
+      "Type": "Cellphone Network, Privacy",
+      "Description": "T Mobile secretly added a screen recording feature into the T Life app that is automatically enabled.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "T-Mobile secretly recording the screens of users via T-Life app",
       "PageID": "5335",
-      "Type": "Privacy",
-      "ArticleType": "Service",
       "Company": "T-Mobile",
-      "Product": "T-Life",
+      "StartDate": "2025-05-17",
+      "EndDate": "",
+      "Status": "Pending Resolution",
       "ProductLine": "",
-      "Description": "In May 2025 T-Mobile's app \"T-Life\" rolled out a feature with screen recording that was on by default, unbeknownst to customers."
+      "Product": "T-Life",
+      "Type": "Privacy",
+      "Description": "In May 2025 T-Mobile's app \"T-Life\" rolled out a feature with screen recording that was on by default, unbeknownst to customers.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "T-Mobile T-Life app screen recording controversy",
       "PageID": "5717",
-      "Type": "Privacy",
-      "ArticleType": "Product",
       "Company": "T-Mobile",
-      "Product": "T-Life App",
+      "StartDate": "2025-05-01",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "T-Mobile Smart Devices",
-      "Description": "T-Mobile T-Life app discovered to include a default-on, in-app only, screen recording feature on some devices, raising concerns about transparency and privacy."
+      "Product": "T-Life App",
+      "Type": "Privacy",
+      "Description": "T-Mobile T-Life app discovered to include a default-on, in-app only, screen recording feature on some devices, raising concerns about transparency and privacy.",
+      "StartDate__precision": "2",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Unable to opt out of an arbitration agreement for a Gotham Steel",
       "PageID": "5001",
-      "Type": "Terms of Service",
-      "ArticleType": "Product",
       "Company": "Gotham Steel",
-      "Product": "Cooking Pan",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Gotham Steel Diamond",
-      "Description": "The arbitration agreement for Gotham Steel does not allow consumers to opt out."
+      "Product": "Cooking Pan",
+      "Type": "Terms of Service",
+      "Description": "The arbitration agreement for Gotham Steel does not allow consumers to opt out.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "User:FoulerTripod363/ User testing for mandatory paid subscription into Tado Smart Thermostat app",
       "PageID": "5519",
-      "Type": "",
-      "ArticleType": "",
       "Company": "",
-      "Product": "",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "",
       "ProductLine": "",
-      "Description": ""
+      "Product": "",
+      "Type": "",
+      "Description": "",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "User:Schang1146/Test",
       "PageID": "5340",
-      "Type": "Firmware lockout",
-      "ArticleType": "Product",
       "Company": "Walmart",
-      "Product": "Onn 4K Box, Onn 4K Pro, Onn HD Stick, Chromecast 4K, Chromecast HD",
+      "StartDate": "2025-06-13",
+      "EndDate": "2025-07-25",
+      "Status": "Active",
       "ProductLine": "Onn",
-      "Description": "Walmart refuses to replace bricked Onn devices after a forced Android update bricked devices, with devices over a year old being ineligible for refund"
+      "Product": "Onn 4K Box, Onn 4K Pro, Onn HD Stick, Chromecast 4K, Chromecast HD",
+      "Type": "Firmware lockout",
+      "Description": "Walmart refuses to replace bricked Onn devices after a forced Android update bricked devices, with devices over a year old being ineligible for refund",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
     },
     {
       "PageName": "Verizon gives newer plans with less features at a higher price",
       "PageID": "5514",
-      "Type": "Cellphone Network, Price Discrimination",
-      "ArticleType": "Service",
       "Company": "Verizon",
-      "Product": "Mobile service, MyPlan",
+      "StartDate": "2023-05-18",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "MyPlan, Bundles, Unlimited plans",
-      "Description": "Verizon has been pushing their customers to get myPlan Unlimited plans, which delete features included in previous plans while being higher in price"
+      "Product": "Mobile service, MyPlan",
+      "Type": "Cellphone Network, Price Discrimination",
+      "Description": "Verizon has been pushing their customers to get myPlan Unlimited plans, which delete features included in previous plans while being higher in price",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Vizio fined by the FTC for collecting and selling user data without consumer consent",
       "PageID": "5350",
-      "Type": "Privacy",
-      "ArticleType": "Product",
       "Company": "Federal Trade Commission, Vizio",
-      "Product": "",
+      "StartDate": "2017-02-17",
+      "EndDate": "2017-02-17",
+      "Status": "Resolved",
       "ProductLine": "VIZIO Smart Televisions",
-      "Description": "VIZIO tracks Smart Television owners without consent."
+      "Product": "",
+      "Type": "Privacy",
+      "Description": "VIZIO tracks Smart Television owners without consent.",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
     },
     {
       "PageName": "Walmart's refusal to replace bricked Onn devices after forced update",
       "PageID": "5008",
-      "Type": "Firmware lockout",
-      "ArticleType": "Product",
       "Company": "Walmart",
-      "Product": "Onn 4K Box, Onn 4K Pro, Onn HD Stick, Chromecast 4K, Chromecast HD",
+      "StartDate": "2025-06-13",
+      "EndDate": "2025-07-25",
+      "Status": "Active",
       "ProductLine": "Onn",
-      "Description": "Walmart refuses to replace bricked Onn devices after a forced Android update bricked devices, with devices over a year old being ineligible for refund"
+      "Product": "Onn 4K Box, Onn 4K Pro, Onn HD Stick, Chromecast 4K, Chromecast HD",
+      "Type": "Firmware lockout",
+      "Description": "Walmart refuses to replace bricked Onn devices after a forced Android update bricked devices, with devices over a year old being ineligible for refund",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
     },
     {
       "PageName": "Whistle pet tracker shutdown IoT fail",
       "PageID": "5159",
-      "Type": "Planned Obsolescence, Service Termination",
-      "ArticleType": "Incident",
       "Company": "Tractive, Mars Petcare, Whistle Labs",
-      "Product": "",
+      "StartDate": "2025-07-28",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Pet tracking devices",
-      "Description": "Whistle pet trackers will cease functioning on August 31, 2025, following Tractive's acquisition of the company from Mars Petcare"
+      "Product": "",
+      "Type": "Planned Obsolescence, Service Termination",
+      "Description": "Whistle pet trackers will cease functioning on August 31, 2025, following Tractive's acquisition of the company from Mars Petcare",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Windows And Dolby (Toslink)",
       "PageID": "5406",
-      "Type": "Digital restrictions",
-      "ArticleType": "Service",
       "Company": "Microsoft",
-      "Product": "Windows 11",
+      "StartDate": "2021-01-01",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "Windows 11",
-      "Description": "Dolby / Microsoft exploit"
+      "Product": "Windows 11",
+      "Type": "Digital restrictions",
+      "Description": "Dolby / Microsoft exploit",
+      "StartDate__precision": "3",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Youtubes Requirement for Government ID",
       "PageID": "5171",
-      "Type": "Digital restrictions",
-      "ArticleType": "Service",
       "Company": "",
-      "Product": "Youtube",
+      "StartDate": "2025-07-30",
+      "EndDate": "",
+      "Status": "Active",
       "ProductLine": "YouTube",
-      "Description": "YouTube is requiring Users to give their government id to verify that they are adults, otherwise Users will be locked out of content."
+      "Product": "Youtube",
+      "Type": "Digital restrictions",
+      "Description": "YouTube is requiring Users to give their government id to verify that they are adults, otherwise Users will be locked out of content.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     }
   ],
   "Product": [
     {
       "PageName": "Apple AirPower",
       "PageID": "5688",
-      "ArticleType": "Product",
       "Category": "",
       "Company": "Apple",
-      "Website": "",
-      "Description": "The Apple AirPower wireless charging mat would have been able to wirelessly charge multiple devices at once, but was cancelled."
+      "Description": "The Apple AirPower wireless charging mat would have been able to wirelessly charge multiple devices at once, but was cancelled.",
+      "ProductLine": "",
+      "Website": ""
     },
     {
       "PageName": "Bandicam",
       "PageID": "5404",
-      "ArticleType": "Service",
       "Category": "Software",
       "Company": "Bandicam Company",
-      "Website": "https://www.bandicam.com/",
-      "Description": "Bandicam is a screen-recording software created by Bandicam Company in 2009."
+      "Description": "Bandicam is a screen-recording software created by Bandicam Company in 2009.",
+      "ProductLine": "",
+      "Website": "https://www.bandicam.com/"
     },
     {
       "PageName": "Bluedriver app update now requires creating an account to be able to use the scan tool to scan vehicle trouble codes",
       "PageID": "5535",
-      "ArticleType": "",
       "Category": "consumer tool",
       "Company": "bluedriver",
-      "Website": "",
-      "Description": "OBD2 scan tool for reading check engine codes"
+      "Description": "OBD2 scan tool for reading check engine codes",
+      "ProductLine": "bluedriver automotive obd2 scan tool",
+      "Website": ""
     },
     {
       "PageName": "Denon HEOS Speakers",
       "PageID": "5574",
-      "ArticleType": "Product",
       "Category": "Audio Device",
       "Company": "Denon",
-      "Website": "https://www.denon.com/en-us/",
-      "Description": "Smart speakers which can be controlled over local network. Can play from internet sources or aux in, bluetooth or local airplay."
+      "Description": "Smart speakers which can be controlled over local network. Can play from internet sources or aux in, bluetooth or local airplay.",
+      "ProductLine": "Home Speaker",
+      "Website": "https://www.denon.com/en-us/"
     },
     {
       "PageName": "Disney+",
       "PageID": "2938",
-      "ArticleType": "Service",
       "Category": "Streaming Services",
       "Company": "Disney",
-      "Website": "https://www.disneyplus.com/",
-      "Description": "Disney+ is a video streaming service created by Disney in 2019"
+      "Description": "Disney+ is a video streaming service created by Disney in 2019",
+      "ProductLine": "",
+      "Website": "https://www.disneyplus.com/"
     },
     {
       "PageName": "DJI Osmo Action 5 Pro",
       "PageID": "1446",
-      "ArticleType": "Product",
       "Category": "Cameras",
       "Company": "DJI",
-      "Website": "https://www.dji.com/it/osmo-action-5-pro",
-      "Description": ""
+      "Description": "",
+      "ProductLine": "",
+      "Website": "https://www.dji.com/it/osmo-action-5-pro"
     },
     {
       "PageName": "DuckDuckGo Browser",
       "PageID": "5418",
-      "ArticleType": "Product",
       "Category": "Browser",
       "Company": "",
-      "Website": "https://duckduckgo.com/",
-      "Description": "Privacy-focused browser"
+      "Description": "Privacy-focused browser",
+      "ProductLine": "",
+      "Website": "https://duckduckgo.com/"
     },
     {
       "PageName": "Firefox",
       "PageID": "5662",
-      "ArticleType": "Product",
       "Category": "Browser, Web Browser",
       "Company": "Mozilla",
-      "Website": "https://www.firefox.com/",
-      "Description": "Firefox is a free open-source browser created and owned by Mozilla."
+      "Description": "Firefox is a free open-source browser created and owned by Mozilla.",
+      "ProductLine": "",
+      "Website": "https://www.firefox.com/"
     },
     {
       "PageName": "Flair Airline Deception and/or Misleading Seating Practices",
       "PageID": "5485",
-      "ArticleType": "Service",
       "Category": "Service Ancillaries",
       "Company": "Flair Airlines",
-      "Website": "https://www.flyflair.com/",
-      "Description": "Deceptive and/or Misleading seat selection menu provided by Flair Airlines during the flight booking process."
+      "Description": "Deceptive and/or Misleading seat selection menu provided by Flair Airlines during the flight booking process.",
+      "ProductLine": "Seat Selection",
+      "Website": "https://www.flyflair.com/"
     },
     {
       "PageName": "Free Studio (DVDVideoSoft)",
       "PageID": "5705",
-      "ArticleType": "Product",
       "Category": "Software",
       "Company": "DVDVideoSoft",
-      "Website": "https://www.dvdvideosoft.com/",
-      "Description": "Suite of multimedia tools once fully free; now crippled with ads, locked features, and Premium-only functions."
+      "Description": "Suite of multimedia tools once fully free; now crippled with ads, locked features, and Premium-only functions.",
+      "ProductLine": "Free Studio Suite",
+      "Website": "https://www.dvdvideosoft.com/"
     },
     {
       "PageName": "Google Pixel Buds Pro 2",
       "PageID": "5446",
-      "ArticleType": "Product",
       "Category": "Earbuds",
       "Company": "Google",
-      "Website": "https://archive.is/WD7sT",
-      "Description": "Pixel buds pro 2 are the second generation in ear buds from Google in the \"pro\" line.  With ANC, multipoint and various other high end features."
+      "Description": "Pixel buds pro 2 are the second generation in ear buds from Google in the \"pro\" line.  With ANC, multipoint and various other high end features.",
+      "ProductLine": "Pixel Buds",
+      "Website": "https://archive.is/WD7sT"
     },
     {
       "PageName": "GrapheneOS",
       "PageID": "5172",
-      "ArticleType": "Product",
       "Category": "Operating System",
       "Company": "",
-      "Website": "[https://www.grapheneos.org/ grapheneos.org]",
-      "Description": ""
+      "Description": "",
+      "ProductLine": "",
+      "Website": "[https://www.grapheneos.org/ grapheneos.org]"
     },
     {
       "PageName": "Insta360+",
       "PageID": "4176",
-      "ArticleType": "Service",
       "Category": "Cloud storage",
       "Company": "Insta360",
-      "Website": "https://store.insta360.com/product/insta360plus",
-      "Description": "Cloud-based subscription for Insta360 cameras that offers camera replacement and warranty perks."
+      "Description": "Cloud-based subscription for Insta360 cameras that offers camera replacement and warranty perks.",
+      "ProductLine": "",
+      "Website": "https://store.insta360.com/product/insta360plus"
     },
     {
       "PageName": "Itch.io",
       "PageID": "5156",
-      "ArticleType": "Service",
       "Category": "Digital storefront, Video games",
       "Company": "",
-      "Website": "https://itch.io",
-      "Description": "Online digital distributor mainly for games."
+      "Description": "Online digital distributor mainly for games.",
+      "ProductLine": "",
+      "Website": "https://itch.io"
     },
     {
       "PageName": "Liberty Safe",
       "PageID": "5175",
-      "ArticleType": "Product",
       "Category": "Safes",
       "Company": "",
-      "Website": "https://www.libertysafe.com/",
-      "Description": "Online digital distributor mainly for games."
+      "Description": "Online digital distributor mainly for games.",
+      "ProductLine": "",
+      "Website": "https://www.libertysafe.com/"
     },
     {
       "PageName": "NetLimiter",
       "PageID": "5047",
-      "ArticleType": "Product",
       "Category": "",
       "Company": "",
-      "Website": "https://www.netlimiter.com/",
-      "Description": "NetLimiter is a tool to monitor and control network traffic per-program."
+      "Description": "NetLimiter is a tool to monitor and control network traffic per-program.",
+      "ProductLine": "",
+      "Website": "https://www.netlimiter.com/"
     },
     {
       "PageName": "Nintendo eShop",
       "PageID": "5583",
-      "ArticleType": "Service",
       "Category": "Video Games, Software",
       "Company": "Nintendo",
-      "Website": "https://www.nintendo.com/us/store/",
-      "Description": "Nintendo eShop is the online store for Nintendo's 3DS, Wii U, and Switch consoles."
+      "Description": "Nintendo eShop is the online store for Nintendo's 3DS, Wii U, and Switch consoles.",
+      "ProductLine": "Nintendo 3DS, Wii U, Nintendo Switch",
+      "Website": "https://www.nintendo.com/us/store/"
     },
     {
       "PageName": "PayPal Honey",
       "PageID": "230",
-      "ArticleType": "Service",
       "Category": "Browser extension",
       "Company": "PayPal",
-      "Website": "https://www.joinhoney.com",
-      "Description": "Founded in 2012, Honey offers coupons on online storefronts for users. In 2024, it was reported Honey stole affiliate commissions and mislead users."
+      "Description": "Founded in 2012, Honey offers coupons on online storefronts for users. In 2024, it was reported Honey stole affiliate commissions and mislead users.",
+      "ProductLine": "",
+      "Website": "https://www.joinhoney.com"
     },
     {
       "PageName": "Plex Media Server",
       "PageID": "5452",
-      "ArticleType": "Product",
       "Category": "Server, Client",
       "Company": "",
-      "Website": "https://plex.tv/",
-      "Description": "Plex Media Serer (PMS), originally a fork of XBMC, is a media server software with associated clients that allows users to host their own media."
+      "Description": "Plex Media Serer (PMS), originally a fork of XBMC, is a media server software with associated clients that allows users to host their own media.",
+      "ProductLine": "",
+      "Website": "https://plex.tv/"
     },
     {
       "PageName": "Sony's WF-1000XM4 earbuds",
       "PageID": "438",
-      "ArticleType": "Product",
       "Category": "Earbuds",
       "Company": "Sony",
-      "Website": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000m4-Black",
-      "Description": "Users have reported rapid battery drain and overheating in one earbud following firmware update v1.4.2, occasionally resulting in battery failure or casing damage."
+      "Description": "Users have reported rapid battery drain and overheating in one earbud following firmware update v1.4.2, occasionally resulting in battery failure or casing damage.",
+      "ProductLine": "WF-1000XM4",
+      "Website": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000m4-Black"
     },
     {
       "PageName": "Spore (game)",
       "PageID": "5116",
-      "ArticleType": "",
       "Category": "Video Games",
       "Company": "EA",
-      "Website": "https://www.spore.com/",
-      "Description": ""
+      "Description": "",
+      "ProductLine": "",
+      "Website": "https://www.spore.com/"
     },
     {
       "PageName": "Spotify Car Thing",
       "PageID": "1364",
-      "ArticleType": "Product",
       "Category": "Media player",
       "Company": "Spotify",
-      "Website": "https://web.archive.org/web/20250127021601/https://carthing.spotify.com/",
-      "Description": "A physical application extension of the Spotify mobile app for older cars. In 2024, Spotify discontinued support, which rendered all devices unusable."
+      "Description": "A physical application extension of the Spotify mobile app for older cars. In 2024, Spotify discontinued support, which rendered all devices unusable.",
+      "ProductLine": "",
+      "Website": "https://web.archive.org/web/20250127021601/https://carthing.spotify.com/"
     },
     {
       "PageName": "Steam",
       "PageID": "190",
-      "ArticleType": "Service",
       "Category": "Digital storefront, Video games",
       "Company": "Microsoft, Sony, Nintendo, Epic Games",
-      "Website": "https://store.steampowered.com",
-      "Description": "Online storefront for PC games. Users who \"purchase\" games own a revocable license, which in return mislead buyers. Data breaches and lawsuits follow."
+      "Description": "Online storefront for PC games. Users who \"purchase\" games own a revocable license, which in return mislead buyers. Data breaches and lawsuits follow.",
+      "ProductLine": "",
+      "Website": "https://store.steampowered.com"
     },
     {
       "PageName": "SURI Sustainable Electric Toothbrush",
       "PageID": "5168",
-      "ArticleType": "Product",
       "Category": "",
       "Company": "SURI",
-      "Website": "https://www.trysuri.com/",
-      "Description": "A sustainable electric toothbrush."
+      "Description": "A sustainable electric toothbrush.",
+      "ProductLine": "",
+      "Website": "https://www.trysuri.com/"
     },
     {
       "PageName": "The Infringement That Is Gameplay Videos and Games Streaming",
       "PageID": "5364",
-      "ArticleType": "Product",
       "Category": "Software, Video Games",
       "Company": "Game Publishers, Game Studios, YouTube, Twitch, Kick",
-      "Website": "",
-      "Description": "Games are interactive audio-visual pieces of software that can be experienced on a number of computer hardware e.g Consoles, PC, Smartphones, etc."
+      "Description": "Games are interactive audio-visual pieces of software that can be experienced on a number of computer hardware e.g Consoles, PC, Smartphones, etc.",
+      "ProductLine": "Games",
+      "Website": ""
     },
     {
       "PageName": "TikTok",
       "PageID": "5155",
-      "ArticleType": "Service",
       "Category": "Social media",
       "Company": "[[ByteDance]]",
-      "Website": "https://tiktok.com",
-      "Description": "Social media platform famous for popularizing short-form content."
+      "Description": "Social media platform famous for popularizing short-form content.",
+      "ProductLine": "",
+      "Website": "https://tiktok.com"
     },
     {
       "PageName": "Viber",
       "PageID": "5374",
-      "ArticleType": "Service",
       "Category": "Software",
       "Company": "Rakuten",
-      "Website": "https://www.viber.com",
-      "Description": "An alleged end-to-end instant messaging app."
+      "Description": "An alleged end-to-end instant messaging app.",
+      "ProductLine": "",
+      "Website": "https://www.viber.com"
     },
     {
       "PageName": "VPN Secure",
       "PageID": "2792",
-      "ArticleType": "Service",
       "Category": "VPN",
       "Company": "",
-      "Website": "https://vpnsecure.me",
-      "Description": "Virtual Private Network service."
+      "Description": "Virtual Private Network service.",
+      "ProductLine": "",
+      "Website": "https://vpnsecure.me"
     }
   ],
   "ProductLine": [
     {
       "PageName": "Deerrun walking pads & treadmills startup",
       "PageID": "5058",
-      "ArticleType": "Product",
       "Category": "Hardware",
       "Company": "Deerrun",
-      "Website": "https://deerruntreadmill.com/",
-      "Description": ""
+      "Description": "",
+      "Website": "https://deerruntreadmill.com/"
     },
     {
       "PageName": "Forced User Agreement on Jetbrains IntelliJ software",
       "PageID": "4984",
-      "ArticleType": "Product",
       "Category": "Software",
       "Company": "Jetbrains",
-      "Website": "https://www.jetbrains.com/",
-      "Description": "Jetbrains Developer Tools is a set of IDEs designed for major programming languages."
+      "Description": "Jetbrains Developer Tools is a set of IDEs designed for major programming languages.",
+      "Website": "https://www.jetbrains.com/"
     },
     {
       "PageName": "Fujifilm Instax Cameras",
       "PageID": "5513",
-      "ArticleType": "Product",
       "Category": "Hardware, Software",
       "Company": "Fujifilm",
-      "Website": "https://instax.com/",
-      "Description": "Instant print cameras, film camera"
+      "Description": "Instant print cameras, film camera",
+      "Website": "https://instax.com/"
     },
     {
       "PageName": "Game Pass Core",
       "PageID": "5420",
-      "ArticleType": "",
       "Category": "",
       "Company": "Xbox, Microsoft",
-      "Website": "https://www.xbox.com/en-us/xbox-game-pass/core",
-      "Description": ""
+      "Description": "",
+      "Website": "https://www.xbox.com/en-us/xbox-game-pass/core"
     },
     {
       "PageName": "GE Refrigerator water filter DRM",
       "PageID": "5325",
-      "ArticleType": "Product",
       "Category": "Hardware",
       "Company": "GE",
-      "Website": "https://www.geappliances.com/",
-      "Description": "Refrigerators that use DRM lockouts to enforce purchasing manufacturer's expensive water filters."
+      "Description": "Refrigerators that use DRM lockouts to enforce purchasing manufacturer's expensive water filters.",
+      "Website": "https://www.geappliances.com/"
     },
     {
       "PageName": "Google OnHub",
       "PageID": "5380",
-      "ArticleType": "Product",
       "Category": "Hardware",
       "Company": "Google",
-      "Website": "",
-      "Description": "Line of routers produced by other manufacturers, but sold by Google and managed through Google Home."
+      "Description": "Line of routers produced by other manufacturers, but sold by Google and managed through Google Home.",
+      "Website": ""
     },
     {
       "PageName": "Google Pixel",
       "PageID": "1376",
-      "ArticleType": "Product",
       "Category": "Smartphones",
       "Company": "Google",
-      "Website": "https://pixel.google.com",
-      "Description": ""
+      "Description": "",
+      "Website": "https://pixel.google.com"
     },
     {
       "PageName": "Google Pixel Watch",
       "PageID": "2510",
-      "ArticleType": "Product",
       "Category": "Smartwatches",
       "Company": "Google",
-      "Website": "https://store.google.com/us/product/pixel_watch_3",
-      "Description": ""
+      "Description": "",
+      "Website": "https://store.google.com/us/product/pixel_watch_3"
     },
     {
       "PageName": "MagicGate",
       "PageID": "5398",
-      "ArticleType": "Product",
       "Category": "Software, Hardware",
       "Company": "Sony",
-      "Website": "",
-      "Description": "A copy-protection technology introduced by Sony in 1999."
+      "Description": "A copy-protection technology introduced by Sony in 1999.",
+      "Website": ""
     },
     {
       "PageName": "Qardio",
       "PageID": "5054",
-      "ArticleType": "Product",
       "Category": "Software, Hardware",
       "Company": "Qardio",
-      "Website": "https://www.qardio.com/",
-      "Description": "An application used to connect to Qardio devices, requiring access to the now defunct servers."
+      "Description": "An application used to connect to Qardio devices, requiring access to the now defunct servers.",
+      "Website": "https://www.qardio.com/"
     },
     {
       "PageName": "Steelseries Aerox 3 Lightweight Gaming Mouse",
       "PageID": "5658",
-      "ArticleType": "Product",
       "Category": "Hardware, Software",
       "Company": "SteelSeries",
-      "Website": "https://steelseries.com/gaming-mice/aerox-3-2022",
-      "Description": "The Steelseries Aerox 3 is a lightweight gaming mouse, designed with perforations in order to use less plastic, can be wired or wireless."
+      "Description": "The Steelseries Aerox 3 is a lightweight gaming mouse, designed with perforations in order to use less plastic, can be wired or wireless.",
+      "Website": "https://steelseries.com/gaming-mice/aerox-3-2022"
     }
   ]
 }
