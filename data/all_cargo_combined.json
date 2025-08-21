@@ -118,6 +118,15 @@
       "Website": "https://chase.com"
     },
     {
+      "PageName": "Comcast",
+      "PageID": "5782",
+      "Description": "Major ISP selling Internet and cable services, but infamous for high prices, data caps, throttling, poor customer service, and monopolistic practices",
+      "Industry": "Cable, Telecommunications",
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://www.xfinity.com/"
+    },
+    {
       "PageName": "Costco",
       "PageID": "5334",
       "Description": "Costco is a retail corporation.",
@@ -260,6 +269,15 @@
       "ParentCompany": "",
       "Type": "Public",
       "Website": "[https://www.intuit.com/ intuit.com]"
+    },
+    {
+      "PageName": "KingSong",
+      "PageID": "5752",
+      "Description": "Founded in 2012 and based in Shenzhen, China, King Song Intell Co., LTD is a private high-tech manufacturer specializing in personal electric vehicles",
+      "Industry": "Personal Electric Vehicles",
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://kingsong.com/"
     },
     {
       "PageName": "Kucoin kucard",
@@ -431,24 +449,6 @@
       "ParentCompany": "",
       "Type": "Public",
       "Website": "https://www.reckon.com/,https://www.reckon.com.au/"
-    },
-    {
-      "PageName": "Rovio",
-      "PageID": "1486",
-      "Description": "Finnish mobile game developer known for the ''Angry Birds'' series. In the 2020s, the original games were delisted and puts users through arbitration.",
-      "Industry": "Entertainment, Video game",
-      "ParentCompany": "Sega",
-      "Type": "Subsidiary",
-      "Website": "https://rovio.com"
-    },
-    {
-      "PageName": "Snapchat",
-      "PageID": "2440",
-      "Description": "Messaging app founded in 2011 that popularized streaks, disappearing messages, and images called \"snaps\".",
-      "Industry": "Social media service",
-      "ParentCompany": "",
-      "Type": "Public",
-      "Website": "https://snapchat.com/"
     }
   ],
   "Incident": [
@@ -537,6 +537,20 @@
       "EndDate__precision": ""
     },
     {
+      "PageName": "BlueCruise Hands-Free Driving",
+      "PageID": "5772",
+      "Company": "Ford",
+      "StartDate": "2021-01-01",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "",
+      "Description": "Ford BlueCruise was launched in 2021.",
+      "StartDate__precision": "3",
+      "EndDate__precision": ""
+    },
+    {
       "PageName": "Brother printer dcp 3550 cdw cartridges failure",
       "PageID": "2482",
       "Company": "Brother Industries Ltd.",
@@ -567,7 +581,7 @@
     {
       "PageName": "Crave app refuses TV's based on production date",
       "PageID": "5711",
-      "Company": "samsung, HBO, crave",
+      "Company": "samsung, HBO, Crave",
       "StartDate": "2025-09-15",
       "EndDate": "",
       "Status": "Active",
@@ -677,6 +691,20 @@
       "EndDate__precision": ""
     },
     {
+      "PageName": "Edison Motors Diesel-Electric Hybrid Trucks Blocked by Canada's Regulations",
+      "PageID": "5755",
+      "Company": "",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Pending Resolution",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "",
+      "Description": "",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
       "PageName": "FTC sues PepsiCo for rigging Soft Drink Competition",
       "PageID": "5348",
       "Company": "Federal Trade Commission, PepsiCo",
@@ -745,6 +773,20 @@
       "Description": "On 26 October 2023, the UK Online Safety Act passed and became law. This act restricts the freedom of UK users of the internet and increases censorship.",
       "StartDate__precision": "1",
       "EndDate__precision": ""
+    },
+    {
+      "PageName": "KSP2 made abandonware in early access, charges full price for the game and still misleads players into having a \"roadmap\".",
+      "PageID": "5743",
+      "Company": "Take Two, Private Division",
+      "StartDate": "2019-01-01",
+      "EndDate": "2025-01-01",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "KSP2",
+      "Type": "Product Termination, Abandonware",
+      "Description": "KSP2 turned into abandonware, still being sold and charging full price for the game that was never finished.",
+      "StartDate__precision": "3",
+      "EndDate__precision": "3"
     },
     {
       "PageName": "LaLiga forces Spanish ISPs to mass-block Cloudflare IPs during Soccer Games",
@@ -999,32 +1041,32 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "T-Mobile secretly recording the screens of users via T-Life app",
-      "PageID": "5335",
-      "Company": "T-Mobile",
-      "StartDate": "2025-05-17",
-      "EndDate": "",
-      "Status": "Pending Resolution",
-      "ProductLine": "",
-      "Product": "T-Life",
-      "Type": "Privacy",
-      "Description": "In May 2025 T-Mobile's app \"T-Life\" rolled out a feature with screen recording that was on by default, unbeknownst to customers.",
-      "StartDate__precision": "1",
-      "EndDate__precision": ""
-    },
-    {
       "PageName": "T-Mobile T-Life app screen recording controversy",
       "PageID": "5717",
       "Company": "T-Mobile",
-      "StartDate": "2025-05-01",
+      "StartDate": "2025-05-17",
       "EndDate": "",
       "Status": "Active",
       "ProductLine": "T-Mobile Smart Devices",
       "Product": "T-Life App",
       "Type": "Privacy",
       "Description": "T-Mobile T-Life app discovered to include a default-on, in-app only, screen recording feature on some devices, raising concerns about transparency and privacy.",
-      "StartDate__precision": "2",
+      "StartDate__precision": "1",
       "EndDate__precision": ""
+    },
+    {
+      "PageName": "Tesla blamed drivers for failures of parts it long knew were defective",
+      "PageID": "5744",
+      "Company": "Tesla",
+      "StartDate": "2023-12-20",
+      "EndDate": "2024-01-01",
+      "Status": "Resolved",
+      "ProductLine": "",
+      "Product": "Tesla Model S, Tesla Model 3, Tesla Model X, Tesla Model Y",
+      "Type": "Knowingly selling defective product",
+      "Description": "Wheels falling off at speed and other safety incidents caused by defective parts where the blame and cost was placed on the consumer.",
+      "StartDate__precision": "1",
+      "EndDate__precision": "3"
     },
     {
       "PageName": "Unable to opt out of an arbitration agreement for a Gotham Steel",
@@ -1109,48 +1151,6 @@
       "Description": "Walmart refuses to replace bricked Onn devices after a forced Android update bricked devices, with devices over a year old being ineligible for refund",
       "StartDate__precision": "1",
       "EndDate__precision": "1"
-    },
-    {
-      "PageName": "Whistle pet tracker shutdown IoT fail",
-      "PageID": "5159",
-      "Company": "Tractive, Mars Petcare, Whistle Labs",
-      "StartDate": "2025-07-28",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "Pet tracking devices",
-      "Product": "",
-      "Type": "Planned Obsolescence, Service Termination",
-      "Description": "Whistle pet trackers will cease functioning on August 31, 2025, following Tractive's acquisition of the company from Mars Petcare",
-      "StartDate__precision": "1",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "Windows And Dolby (Toslink)",
-      "PageID": "5406",
-      "Company": "Microsoft",
-      "StartDate": "2021-01-01",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "Windows 11",
-      "Product": "Windows 11",
-      "Type": "Digital restrictions",
-      "Description": "Dolby / Microsoft exploit",
-      "StartDate__precision": "3",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "Youtubes Requirement for Government ID",
-      "PageID": "5171",
-      "Company": "",
-      "StartDate": "2025-07-30",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "YouTube",
-      "Product": "Youtube",
-      "Type": "Digital restrictions",
-      "Description": "YouTube is requiring Users to give their government id to verify that they are adults, otherwise Users will be locked out of content.",
-      "StartDate__precision": "1",
-      "EndDate__precision": ""
     }
   ],
   "Product": [
@@ -1161,6 +1161,15 @@
       "Company": "Apple",
       "Description": "The Apple AirPower wireless charging mat would have been able to wirelessly charge multiple devices at once, but was cancelled.",
       "ProductLine": "",
+      "Website": ""
+    },
+    {
+      "PageName": "Asus rog m16 2021",
+      "PageID": "5756",
+      "Category": "Video Games",
+      "Company": "asus, rog",
+      "Description": "Gaming laptop manufactured by asus (ROG)",
+      "ProductLine": "asus zephyrus m16 2021",
       "Website": ""
     },
     {
@@ -1180,6 +1189,15 @@
       "Description": "OBD2 scan tool for reading check engine codes",
       "ProductLine": "bluedriver automotive obd2 scan tool",
       "Website": ""
+    },
+    {
+      "PageName": "CalyxOS",
+      "PageID": "5757",
+      "Category": "Software",
+      "Company": "Calyx Institute",
+      "Description": "CalyxOS is an Android mobile operating system that puts privacy and security into the hands of everyday users. Plus, proactive security recommendation",
+      "ProductLine": "Android",
+      "Website": "https://calyxos.org/"
     },
     {
       "PageName": "Denon HEOS Speakers",
@@ -1236,15 +1254,6 @@
       "Website": "https://www.flyflair.com/"
     },
     {
-      "PageName": "Free Studio (DVDVideoSoft)",
-      "PageID": "5705",
-      "Category": "Software",
-      "Company": "DVDVideoSoft",
-      "Description": "Suite of multimedia tools once fully free; now crippled with ads, locked features, and Premium-only functions.",
-      "ProductLine": "Free Studio Suite",
-      "Website": "https://www.dvdvideosoft.com/"
-    },
-    {
       "PageName": "Google Pixel Buds Pro 2",
       "PageID": "5446",
       "Category": "Earbuds",
@@ -1281,6 +1290,15 @@
       "Website": "https://itch.io"
     },
     {
+      "PageName": "Kinsa QuickScan Thermometer Requires Mobile App for Setup",
+      "PageID": "5746",
+      "Category": "Medical Equipment, Thermometer",
+      "Company": "",
+      "Description": "Kinsa QuickScan Non-Contact Thermometer is a battery powered non-contact thermometer available in retail drugstores like CVS.",
+      "ProductLine": "QuickScan Non-Contact Thermometer",
+      "Website": "https://www.kinsahealth.com/"
+    },
+    {
       "PageName": "Liberty Safe",
       "PageID": "5175",
       "Category": "Safes",
@@ -1288,6 +1306,24 @@
       "Description": "Online digital distributor mainly for games.",
       "ProductLine": "",
       "Website": "https://www.libertysafe.com/"
+    },
+    {
+      "PageName": "Microsoft OneDrive forces backup without consumer knowledge, notification, or consent",
+      "PageID": "5788",
+      "Category": "Cloud storage",
+      "Company": "Microsoft",
+      "Description": "",
+      "ProductLine": "",
+      "Website": ""
+    },
+    {
+      "PageName": "Minecraft",
+      "PageID": "5740",
+      "Category": "Video Games",
+      "Company": "Mojang, Microsoft",
+      "Description": "Minecraft is a sandbox video game meant for younger audiences",
+      "ProductLine": "Minecraft",
+      "Website": "https://www.minecraft.net/en-us"
     },
     {
       "PageName": "NetLimiter",
@@ -1378,6 +1414,15 @@
       "Description": "Games are interactive audio-visual pieces of software that can be experienced on a number of computer hardware e.g Consoles, PC, Smartphones, etc.",
       "ProductLine": "Games",
       "Website": ""
+    },
+    {
+      "PageName": "TheRetroSnap Camera",
+      "PageID": "5787",
+      "Category": "Cameras",
+      "Company": "",
+      "Description": "TheRetroSnap.com falsely advertises a small camera on social media using fake footage. It sells for ~13$ on Alibaba",
+      "ProductLine": "",
+      "Website": "https://theretrosnap.com/"
     },
     {
       "PageName": "TikTok",
