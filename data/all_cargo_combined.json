@@ -55,6 +55,15 @@
       "Website": "https://att.com/"
     },
     {
+      "PageName": "Audi",
+      "PageID": "5808",
+      "Description": "",
+      "Industry": "Automotive",
+      "ParentCompany": "Volkswagen",
+      "Type": "Subsidiary",
+      "Website": "https://www.audiusa.com/"
+    },
+    {
       "PageName": "Autel - Otofix",
       "PageID": "5067",
       "Description": "Autel and subbrand Otofix - Automotive Diagnostic tools",
@@ -89,15 +98,6 @@
       "ParentCompany": "Amazon",
       "Type": "Subsidiary",
       "Website": "https://blinkforhome.com/"
-    },
-    {
-      "PageName": "Bob's Discount Furniture",
-      "PageID": "5360",
-      "Description": "Bob's Discount Furniture is a U.S. based retailer offering a range of home furnishings. The company operates over 200 retail locations.",
-      "Industry": "Retail",
-      "ParentCompany": "Bain Capital",
-      "Type": "Private",
-      "Website": "https://www.mybobs.com/"
     },
     {
       "PageName": "ByteDance",
@@ -523,6 +523,34 @@
       "EndDate__precision": ""
     },
     {
+      "PageName": "Audi Basic HVAC \"Sync\" Function Paywalled",
+      "PageID": "5803",
+      "Company": "Audi",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "",
+      "Description": "Audi charges $758 for an HVAC “Sync” button, which is physically present within the vehicle, but disabled until a payment is made.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "Axel Springer SE",
+      "PageID": "5796",
+      "Company": "",
+      "StartDate": "2015-01-01",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "Privacy",
+      "Description": "Company wants to use German law to make ad-blockers illegal by stating HTML and CSS are copyrighted.",
+      "StartDate__precision": "3",
+      "EndDate__precision": ""
+    },
+    {
       "PageName": "Bitly QR Code Preview Page Advertising",
       "PageID": "5442",
       "Company": "Bitly",
@@ -537,7 +565,7 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "BlueCruise Hands-Free Driving",
+      "PageName": "BlueCruise hands-free driving",
       "PageID": "5772",
       "Company": "Ford",
       "StartDate": "2021-01-01",
@@ -590,6 +618,20 @@
       "Type": "Digital restrictions",
       "Description": "SAMSUNG TV's manufactured before 2018 will need to upgrade their samsung TV model if they want to continue accessing the crave APP.",
       "StartDate__precision": "1",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "Creative Fabrica licensing risks and ownership verification concerns",
+      "PageID": "5835",
+      "Company": "Creative Fabrica",
+      "StartDate": "2025-01-01",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "All Access Subscription",
+      "Product": "All Access Subscription",
+      "Type": "Terms of Service",
+      "Description": "Community reports raised concerns that Creative Fabrica users risk infringement claims from assets uploaded by non-owners, though no confirmed lawsuits exist.",
+      "StartDate__precision": "2",
       "EndDate__precision": ""
     },
     {
@@ -649,20 +691,6 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "DRM Software Outage Prevents Video Game From Even Being Playable",
-      "PageID": "5106",
-      "Company": "Denuvo",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "PC, Video Games",
-      "Product": "Steam",
-      "Type": "Third Party, Terms of Service",
-      "Description": "DRM software that's bundled into major video game releases on PC are rendered unplayable when online check-in servers are down or player has no Wi-Fi.",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
-    },
-    {
       "PageName": "EA requires open beta players of battlefield 6 to change their motherboard bios settings",
       "PageID": "5068",
       "Company": "EA",
@@ -717,20 +745,6 @@
       "Description": "PepsiCo gives unfair advantage to customer retailer while raising prices for competitors. FTC alleges price discrimination.",
       "StartDate__precision": "1",
       "EndDate__precision": "1"
-    },
-    {
-      "PageName": "Garmin Navionics Acquisition",
-      "PageID": "5121",
-      "Company": "Garmin, Navionics",
-      "StartDate": "2017-01-01",
-      "EndDate": "2025-01-01",
-      "Status": "Pending Resolution",
-      "ProductLine": "Navionics Digital Charts",
-      "Product": "Navionics App and web viewer",
-      "Type": "Digital restrictions",
-      "Description": "Numerous anti consumer practices. Reneging on lifetime chart purchases and converting to subscriptions with massive price increases.",
-      "StartDate__precision": "3",
-      "EndDate__precision": "3"
     },
     {
       "PageName": "Good2Go Mobile (Canada) phases out 3G network, Merges with LuckyMobile",
@@ -803,7 +817,7 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "Meta AI driven erroneous permanent account suspensions",
+      "PageName": "Meta AI wrongful permanent account suspensions",
       "PageID": "5736",
       "Company": "Meta",
       "StartDate": "2023-01-01",
@@ -985,17 +999,17 @@
       "EndDate__precision": "3"
     },
     {
-      "PageName": "Schneider Electric Reflashes WIser Home Energy Monitor with New Firmware with Less Functionality",
-      "PageID": "5082",
-      "Company": "Schneider Electric, Sense",
-      "StartDate": "2025-01-01",
+      "PageName": "Shure asks to agree to EULA but doesn't provide the links in their MOTIV Mix installer (Windows)",
+      "PageID": "5832",
+      "Company": "Shure",
+      "StartDate": "",
       "EndDate": "",
       "Status": "Active",
-      "ProductLine": "Wiser Home Energy Monitor",
-      "Product": "Wiser Home Energy Monitor",
-      "Type": "Firmware Downgrade",
-      "Description": "Schneider Electric is flashing all the Wiser Home Energy Monitors to their own firmware, they used to be Sense devices. Firmware removes functionality",
-      "StartDate__precision": "3",
+      "ProductLine": "",
+      "Product": "MOTIV Mix",
+      "Type": "Terms of Service",
+      "Description": "MOTIV Mix installer requires agreeing to EULA. However, there's no link in the installer, and copying the link value only returns \"http://\".",
+      "StartDate__precision": "",
       "EndDate__precision": ""
     },
     {
@@ -1025,20 +1039,6 @@
       "Description": "SumUp blocks their Card Readers after purchase, refusing to let their own customers' repair them, under the \"prevent manipulation/tampering\" premise.",
       "StartDate__precision": "3",
       "EndDate__precision": "3"
-    },
-    {
-      "PageName": "T Mobile T Life Screen Recording",
-      "PageID": "5543",
-      "Company": "T Mobile",
-      "StartDate": "2025-05-22",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "T Mobile Phone Plan",
-      "Product": "T Life App",
-      "Type": "Cellphone Network, Privacy",
-      "Description": "T Mobile secretly added a screen recording feature into the T Life app that is automatically enabled.",
-      "StartDate__precision": "1",
-      "EndDate__precision": ""
     },
     {
       "PageName": "T-Mobile T-Life app screen recording controversy",
@@ -1111,20 +1111,6 @@
       "EndDate__precision": "1"
     },
     {
-      "PageName": "Verizon gives newer plans with less features at a higher price",
-      "PageID": "5514",
-      "Company": "Verizon",
-      "StartDate": "2023-05-18",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "MyPlan, Bundles, Unlimited plans",
-      "Product": "Mobile service, MyPlan",
-      "Type": "Cellphone Network, Price Discrimination",
-      "Description": "Verizon has been pushing their customers to get myPlan Unlimited plans, which delete features included in previous plans while being higher in price",
-      "StartDate__precision": "1",
-      "EndDate__precision": ""
-    },
-    {
       "PageName": "Vizio fined by the FTC for collecting and selling user data without consumer consent",
       "PageID": "5350",
       "Company": "Federal Trade Commission, Vizio",
@@ -1137,6 +1123,20 @@
       "Description": "VIZIO tracks Smart Television owners without consent.",
       "StartDate__precision": "1",
       "EndDate__precision": "1"
+    },
+    {
+      "PageName": "VRS Sim Racing Wheel Base full torque locked behind paywall",
+      "PageID": "5842",
+      "Company": "VRS",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "VRS Sim Racing Wheel Base",
+      "Product": "uDFP20 Wheel Base",
+      "Type": "Firmware lockout",
+      "Description": "You buy a 20 Nm (newton meters) capable sim racing wheel base, but the 20 Nm is locked behind an additionnal software purchase.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Walmart's refusal to replace bricked Onn devices after forced update",
@@ -1154,6 +1154,15 @@
     }
   ],
   "Product": [
+    {
+      "PageName": "1Password",
+      "PageID": "5824",
+      "Category": "Software,Password Managers",
+      "Company": "Agilebits",
+      "Description": "1Password is a secure password manager that stores and encrypts passwords, login details, and other sensitive information in a digital vault",
+      "ProductLine": "1Password",
+      "Website": "https://1password.com/"
+    },
     {
       "PageName": "Apple AirPower",
       "PageID": "5688",
@@ -1180,15 +1189,6 @@
       "Description": "Bandicam is a screen-recording software created by Bandicam Company in 2009.",
       "ProductLine": "",
       "Website": "https://www.bandicam.com/"
-    },
-    {
-      "PageName": "Bluedriver app update now requires creating an account to be able to use the scan tool to scan vehicle trouble codes",
-      "PageID": "5535",
-      "Category": "consumer tool",
-      "Company": "bluedriver",
-      "Description": "OBD2 scan tool for reading check engine codes",
-      "ProductLine": "bluedriver automotive obd2 scan tool",
-      "Website": ""
     },
     {
       "PageName": "CalyxOS",
@@ -1245,24 +1245,6 @@
       "Website": "https://www.firefox.com/"
     },
     {
-      "PageName": "Flair Airline Deception and/or Misleading Seating Practices",
-      "PageID": "5485",
-      "Category": "Service Ancillaries",
-      "Company": "Flair Airlines",
-      "Description": "Deceptive and/or Misleading seat selection menu provided by Flair Airlines during the flight booking process.",
-      "ProductLine": "Seat Selection",
-      "Website": "https://www.flyflair.com/"
-    },
-    {
-      "PageName": "Google Pixel Buds Pro 2",
-      "PageID": "5446",
-      "Category": "Earbuds",
-      "Company": "Google",
-      "Description": "Pixel buds pro 2 are the second generation in ear buds from Google in the \"pro\" line.  With ANC, multipoint and various other high end features.",
-      "ProductLine": "Pixel Buds",
-      "Website": "https://archive.is/WD7sT"
-    },
-    {
       "PageName": "GrapheneOS",
       "PageID": "5172",
       "Category": "Operating System",
@@ -1308,15 +1290,6 @@
       "Website": "https://www.libertysafe.com/"
     },
     {
-      "PageName": "Microsoft OneDrive forces backup without consumer knowledge, notification, or consent",
-      "PageID": "5788",
-      "Category": "Cloud storage",
-      "Company": "Microsoft",
-      "Description": "",
-      "ProductLine": "",
-      "Website": ""
-    },
-    {
       "PageName": "Minecraft",
       "PageID": "5740",
       "Category": "Video Games",
@@ -1342,6 +1315,15 @@
       "Description": "Nintendo eShop is the online store for Nintendo's 3DS, Wii U, and Switch consoles.",
       "ProductLine": "Nintendo 3DS, Wii U, Nintendo Switch",
       "Website": "https://www.nintendo.com/us/store/"
+    },
+    {
+      "PageName": "OneDrive",
+      "PageID": "5788",
+      "Category": "Cloud storage",
+      "Company": "Microsoft",
+      "Description": "",
+      "ProductLine": "",
+      "Website": "https://onedrive.live.com/"
     },
     {
       "PageName": "PayPal Honey",
@@ -1398,22 +1380,13 @@
       "Website": "https://store.steampowered.com"
     },
     {
-      "PageName": "SURI Sustainable Electric Toothbrush",
-      "PageID": "5168",
-      "Category": "",
-      "Company": "SURI",
-      "Description": "A sustainable electric toothbrush.",
-      "ProductLine": "",
-      "Website": "https://www.trysuri.com/"
-    },
-    {
-      "PageName": "The Infringement That Is Gameplay Videos and Games Streaming",
-      "PageID": "5364",
-      "Category": "Software, Video Games",
-      "Company": "Game Publishers, Game Studios, YouTube, Twitch, Kick",
-      "Description": "Games are interactive audio-visual pieces of software that can be experienced on a number of computer hardware e.g Consoles, PC, Smartphones, etc.",
-      "ProductLine": "Games",
-      "Website": ""
+      "PageName": "Tesvor x500",
+      "PageID": "5807",
+      "Category": "Robot vacuum",
+      "Company": "Tesvor",
+      "Description": "Vacuum robot cannot be set up with the app or connect to the app. Users on Reddit have said the only workaround is to set up an account from China",
+      "ProductLine": "x500",
+      "Website": "https://web.archive.org/web/20230607130212/https://www.tesvor.com/us/tesvor-robot-vacuum-x500.html"
     },
     {
       "PageName": "TheRetroSnap Camera",
@@ -1524,6 +1497,14 @@
       "Company": "Sony",
       "Description": "A copy-protection technology introduced by Sony in 1999.",
       "Website": ""
+    },
+    {
+      "PageName": "Presonus removes VSL mixing app from VSL audio interfaces products line",
+      "PageID": "5831",
+      "Category": "",
+      "Company": "",
+      "Description": "",
+      "Website": "https://www.presonus.com/"
     },
     {
       "PageName": "Qardio",
