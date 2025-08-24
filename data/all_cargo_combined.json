@@ -244,6 +244,15 @@
       "Website": "https://www.gm.com, https://www.onstar.com"
     },
     {
+      "PageName": "Glance",
+      "PageID": "5891",
+      "Description": "Glance (AI) is an artifical intelligence-based software scompany. The company was founded in Bangalore in 2019. Glance is owned by InMobi.",
+      "Industry": "Artificial Intelligence",
+      "ParentCompany": "InMobi",
+      "Type": "Private",
+      "Website": "https://glance.com/"
+    },
+    {
       "PageName": "Google",
       "PageID": "183",
       "Description": "",
@@ -251,6 +260,15 @@
       "ParentCompany": "Alphabet Inc.",
       "Type": "Subsidiary",
       "Website": "https://www.google.com/"
+    },
+    {
+      "PageName": "HP requiring subscription for IT support",
+      "PageID": "5902",
+      "Description": "HP is a tech company that has an obvious monopoly over tech.",
+      "Industry": "hp",
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://www.hp.com/us-en/shop/slp/weekly-deals/top-deals?jumpid=ps_gen_nc_ns&utm_medium=ps&utm_source=ga&utm_campaign=US_B-Core_SEM_Bra_all_Other_Google-s_OPEX_ENG_CM016876_EM_Core-Brand-SP&utm_term=hp&matchtype=e&adid=593104353090&addisttype=g&cq_src=google_ads&cq_cmp=797281625&cq_con=42301864275&cq_term=hp&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&infinity=ict2~net~gaw~cmp~US_B-Core_SEM_Bra_all_Other_Google-s_OPEX_ENG_CM016876_EM_Core-Brand-SP~ag~HP+Keyword~ar~593104353090~kw~hp~mt~e&s_kwcid=AL!20144!3!593104353090!e!!g!!hp&gclsrc=aw.ds&gad_source=1&gad_campaignid=797281625&gbraid=0AAAAAD-ppXhEvBRMhKxz6DJpSnolZtDGe&gclid=Cj0KCQjwzaXFBhDlARIsAFPv-u_PcvrcmO_mhUyMBAWWDh1gD7KTKLvDtVYBS8wU-rJ6bsHuPrj1LPsaAj0aEALw_wcB"
     },
     {
       "PageName": "Huawei",
@@ -431,24 +449,6 @@
       "ParentCompany": "",
       "Type": "Public",
       "Website": "https://www.pepsico.com/"
-    },
-    {
-      "PageName": "Pinterest",
-      "PageID": "2770",
-      "Description": "Photo sharing website founded in 2009 where users can \"pin\" various images to their profile and add them to collections.",
-      "Industry": "Social media service",
-      "ParentCompany": "",
-      "Type": "Public",
-      "Website": "https://pinterest.com/"
-    },
-    {
-      "PageName": "Proton",
-      "PageID": "5141",
-      "Description": "Proton is a privacy-focused tech company.  Their main services include Proton Mail, Proton VPN and Proton Pass.",
-      "Industry": "Technology, Telecommunications, Computer hardware",
-      "ParentCompany": "",
-      "Type": "Private",
-      "Website": "https://proton.me"
     }
   ],
   "Incident": [
@@ -507,6 +507,20 @@
       "Description": "Amazon automatically allows publishers to make substantial editorial changes to users' purchased books",
       "StartDate__precision": "3",
       "EndDate__precision": ""
+    },
+    {
+      "PageName": "Amazon Renewed iPhone Counterfeit Case (2025)",
+      "PageID": "5896",
+      "Company": "Amazon, Apple",
+      "StartDate": "2025-07-08",
+      "EndDate": "2025-08-07",
+      "Status": "Resolved",
+      "ProductLine": "Apple",
+      "Product": "iPhone 15 Pro Max",
+      "Type": "Knowingly selling counterfeit fake device",
+      "Description": "Consumer bought an iPhone 15 Pro Max from Amazon Renewed Premium in 2025; device was counterfeit, locked, and Amazon denied a return.",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
     },
     {
       "PageName": "Anthem server shutdown",
@@ -1106,7 +1120,7 @@
       "ProductLine": "",
       "Product": "Recorded music catalog",
       "Type": "Harassment via DMCA, Erosion of rights",
-      "Description": "Universal Music Group has submitted thousands of harrassing DMCA takedown requests of videos of legitimate \"fair use\" clips of music",
+      "Description": "Universal Music Group has submitted thousands of harassing DMCA take-down requests of videos of legitimate \"fair use\" clips of music",
       "StartDate__precision": "",
       "EndDate__precision": ""
     },
@@ -1137,20 +1151,6 @@
       "Description": "VIZIO tracks Smart Television owners without consent.",
       "StartDate__precision": "1",
       "EndDate__precision": "1"
-    },
-    {
-      "PageName": "VRS Sim Racing Wheel Base full torque locked behind paywall",
-      "PageID": "5842",
-      "Company": "VRS",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "VRS Sim Racing Wheel Base",
-      "Product": "uDFP20 Wheel Base",
-      "Type": "Firmware lockout",
-      "Description": "You buy a 20 Nm (newton meters) capable sim racing wheel base, but the 20 Nm is locked behind an additionnal software purchase.",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
     }
   ],
   "Product": [
@@ -1245,6 +1245,15 @@
       "Website": "https://www.firefox.com/"
     },
     {
+      "PageName": "Flock License Plate Readers",
+      "PageID": "5885",
+      "Category": "Cameras, Security, Surveillance",
+      "Company": "Flock Safety",
+      "Description": "AI-powered automated license plate reader (ALPR) system that creates \"Vehicle Fingerprints\" by recording license plates, vehicle characteristics, and movement patterns for law enforcement use without individual consent or warrants.",
+      "ProductLine": "Flock Safety Falcon",
+      "Website": "https://www.flocksafety.com/products/license-plate-readers"
+    },
+    {
       "PageName": "GrapheneOS",
       "PageID": "5172",
       "Category": "Operating System",
@@ -1288,6 +1297,15 @@
       "Description": "Online digital distributor mainly for games.",
       "ProductLine": "",
       "Website": "https://www.libertysafe.com/"
+    },
+    {
+      "PageName": "Lime Micromobility",
+      "PageID": "5881",
+      "Category": "",
+      "Company": "",
+      "Description": "Distributes rentable Electric Micro-Mobility vehicles, such as seated and non-seated E-scooters and E-bikes. Uses subscription payment models.",
+      "ProductLine": "",
+      "Website": "https://www.li.me/"
     },
     {
       "PageName": "Minecraft",
@@ -1423,6 +1441,15 @@
       "Description": "An alleged end-to-end instant messaging app.",
       "ProductLine": "",
       "Website": "https://www.viber.com"
+    },
+    {
+      "PageName": "Visual Studio Code",
+      "PageID": "5886",
+      "Category": "Software",
+      "Company": "Microsoft",
+      "Description": "",
+      "ProductLine": "",
+      "Website": "https://code.visualstudio.com"
     },
     {
       "PageName": "VPN Secure",
