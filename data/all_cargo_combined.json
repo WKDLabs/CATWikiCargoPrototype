@@ -280,6 +280,15 @@
       "Website": "https://www.huawei.com/"
     },
     {
+      "PageName": "ID.me",
+      "PageID": "5925",
+      "Description": "Privately-owned identity verification service used by businesses, colleges, and government agencies.",
+      "Industry": "Identity verification",
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://id.me"
+    },
+    {
       "PageName": "Imgur",
       "PageID": "2580",
       "Description": "Imgur is a media company and image sharing platform - originally founded by Alan Schaaf, it is now bought and owned by MediaLab AI, Inc.",
@@ -440,15 +449,6 @@
       "ParentCompany": "",
       "Type": "Public",
       "Website": "https://plc.pearson.com/"
-    },
-    {
-      "PageName": "PepsiCo",
-      "PageID": "5346",
-      "Description": "",
-      "Industry": "Beverages, Food Processing",
-      "ParentCompany": "",
-      "Type": "Public",
-      "Website": "https://www.pepsico.com/"
     }
   ],
   "Incident": [
@@ -549,6 +549,20 @@
       "Description": "Audi charges $758 for an HVAC “Sync” button, which is physically present within the vehicle, but disabled until a payment is made.",
       "StartDate__precision": "",
       "EndDate__precision": ""
+    },
+    {
+      "PageName": "Audible enrolled Amazon customers in Audible memberships without their knowledge or consent",
+      "PageID": "5930",
+      "Company": "Amazon, Audible",
+      "StartDate": "2024-01-01",
+      "EndDate": "2025-01-01",
+      "Status": "Active",
+      "ProductLine": "Audible membership",
+      "Product": "Amazon Prime",
+      "Type": "Service Termination",
+      "Description": "Audible enrolled Amazon customers in Audible memberships without their knowledge or consent",
+      "StartDate__precision": "3",
+      "EndDate__precision": "3"
     },
     {
       "PageName": "Axel Springer SE",
@@ -873,6 +887,20 @@
       "EndDate__precision": ""
     },
     {
+      "PageName": "Microsoft weakens customers' cybersecurity",
+      "PageID": "5928",
+      "Company": "Microsoft",
+      "StartDate": "2023-01-01",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "Microsoft 365, Azure, AWS, Google Cloud, Cloud Services",
+      "Product": "Microsoft Teams, Office 365, Azure Licensing",
+      "Type": "Cybersecurity Breach, Anticompetitive Behavior",
+      "Description": "In 2023, a China-linked actor accessed the cloud emails of U.S. government officials. The DHS Cyber Safety Review Board later called it \"preventable.\"",
+      "StartDate__precision": "3",
+      "EndDate__precision": ""
+    },
+    {
       "PageName": "Miku charges subscription for previously free features",
       "PageID": "5470",
       "Company": "Miku",
@@ -1041,6 +1069,20 @@
       "EndDate__precision": ""
     },
     {
+      "PageName": "Spirit Airlines Obfuscates Web Check-In",
+      "PageID": "5912",
+      "Company": "Spirit Airlines",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "",
+      "Description": "Spirit Airlines' mobile webpage hides its online check in button at the bottom to enticed app downloads.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
       "PageName": "Starlink removes ability to pause subscriptions",
       "PageID": "5671",
       "Company": "Starlink",
@@ -1109,48 +1151,6 @@
       "Description": "The arbitration agreement for Gotham Steel does not allow consumers to opt out.",
       "StartDate__precision": "",
       "EndDate__precision": ""
-    },
-    {
-      "PageName": "Universal Music Group has a team dedicated to eroding fair use rights",
-      "PageID": "5849",
-      "Company": "Universal Music Group",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "",
-      "Product": "Recorded music catalog",
-      "Type": "Harassment via DMCA, Erosion of rights",
-      "Description": "Universal Music Group has submitted thousands of harassing DMCA take-down requests of videos of legitimate \"fair use\" clips of music",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "User:FoulerTripod363/ User testing for mandatory paid subscription into Tado Smart Thermostat app",
-      "PageID": "5519",
-      "Company": "",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "",
-      "ProductLine": "",
-      "Product": "",
-      "Type": "",
-      "Description": "",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "Vizio fined by the FTC for collecting and selling user data without consumer consent",
-      "PageID": "5350",
-      "Company": "Federal Trade Commission, Vizio",
-      "StartDate": "2017-02-17",
-      "EndDate": "2017-02-17",
-      "Status": "Resolved",
-      "ProductLine": "VIZIO Smart Televisions",
-      "Product": "",
-      "Type": "Privacy",
-      "Description": "VIZIO tracks Smart Television owners without consent.",
-      "StartDate__precision": "1",
-      "EndDate__precision": "1"
     }
   ],
   "Product": [
