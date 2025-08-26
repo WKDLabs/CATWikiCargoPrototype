@@ -145,15 +145,6 @@
       "Website": "https://www.cox.com/"
     },
     {
-      "PageName": "Crunch Fitness Subscription Cancelation Practice",
-      "PageID": "5699",
-      "Description": "Crunch Fitness is an American fitness club. Headquartered in New York, Crunch is composed of over 400 franchised and corporate-owned gyms.",
-      "Industry": "",
-      "ParentCompany": "",
-      "Type": "",
-      "Website": "https://www.crunch.com/"
-    },
-    {
       "PageName": "Daikin",
       "PageID": "5010",
       "Description": "Manufacturer of air conditioning systems",
@@ -262,15 +253,6 @@
       "Website": "https://www.google.com/"
     },
     {
-      "PageName": "HP requiring subscription for IT support",
-      "PageID": "5902",
-      "Description": "HP is a tech company that has an obvious monopoly over tech.",
-      "Industry": "hp",
-      "ParentCompany": "",
-      "Type": "Private",
-      "Website": "https://www.hp.com/us-en/shop/slp/weekly-deals/top-deals?jumpid=ps_gen_nc_ns&utm_medium=ps&utm_source=ga&utm_campaign=US_B-Core_SEM_Bra_all_Other_Google-s_OPEX_ENG_CM016876_EM_Core-Brand-SP&utm_term=hp&matchtype=e&adid=593104353090&addisttype=g&cq_src=google_ads&cq_cmp=797281625&cq_con=42301864275&cq_term=hp&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&infinity=ict2~net~gaw~cmp~US_B-Core_SEM_Bra_all_Other_Google-s_OPEX_ENG_CM016876_EM_Core-Brand-SP~ag~HP+Keyword~ar~593104353090~kw~hp~mt~e&s_kwcid=AL!20144!3!593104353090!e!!g!!hp&gclsrc=aw.ds&gad_source=1&gad_campaignid=797281625&gbraid=0AAAAAD-ppXhEvBRMhKxz6DJpSnolZtDGe&gclid=Cj0KCQjwzaXFBhDlARIsAFPv-u_PcvrcmO_mhUyMBAWWDh1gD7KTKLvDtVYBS8wU-rJ6bsHuPrj1LPsaAj0aEALw_wcB"
-    },
-    {
       "PageName": "Huawei",
       "PageID": "5586",
       "Description": "Huawei Shenzhen Technology Corporation",
@@ -314,15 +296,6 @@
       "ParentCompany": "",
       "Type": "Private",
       "Website": "https://kingsong.com/"
-    },
-    {
-      "PageName": "Kucoin kucard",
-      "PageID": "5683",
-      "Description": "I never created or asked for a CREDIT CARD on KUCOIN, CRYPTO, CRYPTOCURENCY, but they created me one, I dont know why and how, after that they start b",
-      "Industry": "Finance, Banking, Technology, Software",
-      "ParentCompany": "",
-      "Type": "Private",
-      "Website": "https://www.kucoin.com/announcement/kucard-update-on-inactivity-fee-charges"
     },
     {
       "PageName": "Lincare Holdings Inc.",
@@ -449,6 +422,33 @@
       "ParentCompany": "",
       "Type": "Public",
       "Website": "https://plc.pearson.com/"
+    },
+    {
+      "PageName": "Pinterest",
+      "PageID": "2770",
+      "Description": "Photo sharing website founded in 2009 where users can \"pin\" various images to their profile and add them to collections.",
+      "Industry": "Social media service",
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://pinterest.com/"
+    },
+    {
+      "PageName": "Proton",
+      "PageID": "5141",
+      "Description": "Proton is a privacy-focused tech company.  Their main services include Proton Mail, Proton VPN and Proton Pass.",
+      "Industry": "Technology, Telecommunications, Computer hardware",
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://proton.me"
+    },
+    {
+      "PageName": "Reckon",
+      "PageID": "5486",
+      "Description": "Leech company which steals your perpetual software licenses",
+      "Industry": "Software",
+      "ParentCompany": "",
+      "Type": "Public",
+      "Website": "https://www.reckon.com/,https://www.reckon.com.au/"
     }
   ],
   "Incident": [
@@ -465,20 +465,6 @@
       "Description": "Airthings products collect user environment data and their new app uploads everything when the previous app allowed offline use despite dark patterns",
       "StartDate__precision": "1",
       "EndDate__precision": "1"
-    },
-    {
-      "PageName": "Ajet airlines refuse to follow their own fare rules when refunding tickets",
-      "PageID": "5600",
-      "Company": "ajet",
-      "StartDate": "2025-08-02",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "flight",
-      "Product": "ticket",
-      "Type": "Terms of Service",
-      "Description": "Tried to refund a 573€ premium ticket before the flight according to Ajet.com fare rules, refund refused without proper reason.",
-      "StartDate__precision": "1",
-      "EndDate__precision": ""
     },
     {
       "PageName": "AllTrails not having a Privacy Policy",
@@ -509,18 +495,18 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "Amazon Renewed iPhone Counterfeit Case (2025)",
-      "PageID": "5896",
-      "Company": "Amazon, Apple",
-      "StartDate": "2025-07-08",
-      "EndDate": "2025-08-07",
-      "Status": "Resolved",
-      "ProductLine": "Apple",
-      "Product": "iPhone 15 Pro Max",
-      "Type": "Knowingly selling counterfeit fake device",
-      "Description": "Consumer bought an iPhone 15 Pro Max from Amazon Renewed Premium in 2025; device was counterfeit, locked, and Amazon denied a return.",
+      "PageName": "Android Developer Verification",
+      "PageID": "5951",
+      "Company": "Google",
+      "StartDate": "2025-08-25",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "Google-certified Android devices",
+      "Product": "Android",
+      "Type": "Anticompetitive Behavior, Digital restrictions, Privacy",
+      "Description": "A planned restriction that forces developers to submit their identity to Google and pay a fee for their apps to be installable onto Android devices.",
       "StartDate__precision": "1",
-      "EndDate__precision": "1"
+      "EndDate__precision": ""
     },
     {
       "PageName": "Anthem server shutdown",
@@ -563,20 +549,6 @@
       "Description": "Audible enrolled Amazon customers in Audible memberships without their knowledge or consent",
       "StartDate__precision": "3",
       "EndDate__precision": "3"
-    },
-    {
-      "PageName": "Axel Springer SE",
-      "PageID": "5796",
-      "Company": "",
-      "StartDate": "2015-01-01",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "",
-      "Product": "",
-      "Type": "Privacy",
-      "Description": "Company wants to use German law to make ad-blockers illegal by stating HTML and CSS are copyrighted.",
-      "StartDate__precision": "3",
-      "EndDate__precision": ""
     },
     {
       "PageName": "Bitly QR Code Preview Page Advertising",
@@ -663,20 +635,6 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "Crypto Cryptocurrency KuCard Transactions and Fees Inactivity Fee Charges",
-      "PageID": "5684",
-      "Company": "",
-      "StartDate": "2025-08-18",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "",
-      "Product": "",
-      "Type": "Third Party",
-      "Description": "NEW FEES FOR CryptoManiaks !!!",
-      "StartDate__precision": "1",
-      "EndDate__precision": ""
-    },
-    {
       "PageName": "Dead star server shutdown",
       "PageID": "5402",
       "Company": "Armature Studio",
@@ -744,20 +702,6 @@
       "Type": "Firmware lockout",
       "Description": "Echelon pushed firmware updates blocking third-party apps, requiring server authentication & breaking QZ compatibility for users",
       "StartDate__precision": "2",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "Edison Motors Diesel-Electric Hybrid Trucks Blocked by Canada's Regulations",
-      "PageID": "5755",
-      "Company": "",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Pending Resolution",
-      "ProductLine": "",
-      "Product": "",
-      "Type": "",
-      "Description": "",
-      "StartDate__precision": "",
       "EndDate__precision": ""
     },
     {
@@ -971,20 +915,6 @@
       "EndDate__precision": "1"
     },
     {
-      "PageName": "Oculus (Meta) Go Dysfunctional Setup",
-      "PageID": "5596",
-      "Company": "Meta",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "Oculus Go",
-      "Product": "Oculus Go",
-      "Type": "Digital restrictions",
-      "Description": "The Oculus Go headsets require the use of the an app to first setup the headset. As of 2025/4 the setup is broken so cant use the headset",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
-    },
-    {
       "PageName": "QR-Code-Generator.com “free” QR code lockout",
       "PageID": "5181",
       "Company": "Bitly",
@@ -1053,20 +983,6 @@
       "Description": "samsung sued over samsung throttling on purpose",
       "StartDate__precision": "3",
       "EndDate__precision": "3"
-    },
-    {
-      "PageName": "Shure asks to agree to EULA but doesn't provide the links in their MOTIV Mix installer (Windows)",
-      "PageID": "5832",
-      "Company": "Shure",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "",
-      "Product": "MOTIV Mix",
-      "Type": "Terms of Service",
-      "Description": "MOTIV Mix installer requires agreeing to EULA. However, there's no link in the installer, and copying the link value only returns \"http://\".",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
     },
     {
       "PageName": "Spirit Airlines Obfuscates Web Check-In",
@@ -1151,6 +1067,90 @@
       "Description": "The arbitration agreement for Gotham Steel does not allow consumers to opt out.",
       "StartDate__precision": "",
       "EndDate__precision": ""
+    },
+    {
+      "PageName": "Universal Music Group has a team dedicated to eroding fair use rights",
+      "PageID": "5849",
+      "Company": "Universal Music Group",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "Recorded music catalog",
+      "Type": "Harassment via DMCA, Erosion of rights",
+      "Description": "Universal Music Group has submitted thousands of harassing DMCA take-down requests of videos of legitimate \"fair use\" clips of music",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "User:FoulerTripod363/ User testing for mandatory paid subscription into Tado Smart Thermostat app",
+      "PageID": "5519",
+      "Company": "",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "",
+      "Description": "",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "Vizio fined by the FTC for collecting and selling user data without consumer consent",
+      "PageID": "5350",
+      "Company": "Federal Trade Commission, Vizio",
+      "StartDate": "2017-02-17",
+      "EndDate": "2017-02-17",
+      "Status": "Resolved",
+      "ProductLine": "VIZIO Smart Televisions",
+      "Product": "",
+      "Type": "Privacy",
+      "Description": "VIZIO tracks Smart Television owners without consent.",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
+    },
+    {
+      "PageName": "VRS Sim Racing Wheel Base full torque locked behind paywall",
+      "PageID": "5842",
+      "Company": "VRS",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "VRS Sim Racing Wheel Base",
+      "Product": "uDFP20 Wheel Base",
+      "Type": "Firmware lockout",
+      "Description": "You buy a 20 Nm (newton meters) capable sim racing wheel base, but the 20 Nm is locked behind an additional software purchase.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "Walmart's refusal to replace bricked Onn devices after forced update",
+      "PageID": "5008",
+      "Company": "Walmart",
+      "StartDate": "2025-06-13",
+      "EndDate": "2025-07-25",
+      "Status": "Active",
+      "ProductLine": "Onn",
+      "Product": "Onn 4K Box, Onn 4K Pro, Onn HD Stick, Chromecast 4K, Chromecast HD",
+      "Type": "Firmware lockout",
+      "Description": "Walmart refuses to replace bricked Onn devices after a forced Android update bricked devices, with devices over a year old being ineligible for refund",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
+    },
+    {
+      "PageName": "Whistle pet tracker shutdown IoT fail",
+      "PageID": "5159",
+      "Company": "Tractive, Mars Petcare, Whistle Labs",
+      "StartDate": "2025-07-28",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "Pet tracking devices",
+      "Product": "",
+      "Type": "Planned Obsolescence, Service Termination",
+      "Description": "Whistle pet trackers will cease functioning on August 31, 2025, following Tractive's acquisition of the company from Mars Petcare",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
     }
   ],
   "Product": [
@@ -1162,24 +1162,6 @@
       "Description": "1Password is a secure password manager that stores and encrypts passwords, login details, and other sensitive information in a digital vault",
       "ProductLine": "1Password",
       "Website": "https://1password.com/"
-    },
-    {
-      "PageName": "Apple AirPower",
-      "PageID": "5688",
-      "Category": "",
-      "Company": "Apple",
-      "Description": "The Apple AirPower wireless charging mat would have been able to wirelessly charge multiple devices at once, but was cancelled.",
-      "ProductLine": "",
-      "Website": ""
-    },
-    {
-      "PageName": "Asus rog m16 2021",
-      "PageID": "5756",
-      "Category": "Video Games",
-      "Company": "asus, rog",
-      "Description": "Gaming laptop manufactured by asus (ROG)",
-      "ProductLine": "asus zephyrus m16 2021",
-      "Website": ""
     },
     {
       "PageName": "Bandicam",
@@ -1281,15 +1263,6 @@
       "Website": "https://itch.io"
     },
     {
-      "PageName": "Kinsa QuickScan Thermometer Requires Mobile App for Setup",
-      "PageID": "5746",
-      "Category": "Medical Equipment, Thermometer",
-      "Company": "",
-      "Description": "Kinsa QuickScan Non-Contact Thermometer is a battery powered non-contact thermometer available in retail drugstores like CVS.",
-      "ProductLine": "QuickScan Non-Contact Thermometer",
-      "Website": "https://www.kinsahealth.com/"
-    },
-    {
       "PageName": "Liberty Safe",
       "PageID": "5175",
       "Category": "Safes",
@@ -1308,6 +1281,15 @@
       "Website": "https://www.li.me/"
     },
     {
+      "PageName": "LiveView Technologies AI Surveillance",
+      "PageID": "5947",
+      "Category": "Surveillance, Security, AI, Law Enforcement",
+      "Company": "LiveView Technologies",
+      "Description": "AI-powered mobile surveillance towers that combine thermal imaging, behavioral analytics, and audio deterrence systems for 24/7 monitoring of public and private spaces without individual consent or warrants.",
+      "ProductLine": "LVT Mobile Surveillance Units (D3 Mobile Security Unit)",
+      "Website": "https://www.lvt.com"
+    },
+    {
       "PageName": "Minecraft",
       "PageID": "5740",
       "Category": "Video Games",
@@ -1324,15 +1306,6 @@
       "Description": "NetLimiter is a tool to monitor and control network traffic per-program.",
       "ProductLine": "",
       "Website": "https://www.netlimiter.com/"
-    },
-    {
-      "PageName": "Nintendo eShop",
-      "PageID": "5583",
-      "Category": "Video Games, Software",
-      "Company": "Nintendo",
-      "Description": "Nintendo eShop is the online store for Nintendo's 3DS, Wii U, and Switch consoles.",
-      "ProductLine": "Nintendo 3DS, Wii U, Nintendo Switch",
-      "Website": "https://www.nintendo.com/us/store/"
     },
     {
       "PageName": "OneDrive",
