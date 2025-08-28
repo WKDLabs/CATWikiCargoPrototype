@@ -217,6 +217,15 @@
       "Website": "https://ford.com/"
     },
     {
+      "PageName": "GE Appliances",
+      "PageID": "5980",
+      "Description": "An American home-appliance manufacturer",
+      "Industry": "Manufacturing",
+      "ParentCompany": "Haier",
+      "Type": "Subsidiary",
+      "Website": "https://geappliancesco.com, https://www.geappliances.com"
+    },
+    {
       "PageName": "General Motors (OnStar)",
       "PageID": "5500",
       "Description": "A multinational corporation that designs, manufactures, and markets vehicles and offers in-vehicle safety, security, and information services.",
@@ -440,15 +449,6 @@
       "ParentCompany": "",
       "Type": "Public",
       "Website": "https://www.reckon.com/,https://www.reckon.com.au/"
-    },
-    {
-      "PageName": "Red Ventures",
-      "PageID": "5877",
-      "Description": "Red Ventures is an American media company that owns several online outlets and newspapers.",
-      "Industry": "Mass Media",
-      "ParentCompany": "",
-      "Type": "Private",
-      "Website": "https://www.redventures.com/"
     }
   ],
   "Incident": [
@@ -705,6 +705,20 @@
       "EndDate__precision": ""
     },
     {
+      "PageName": "Ford Account TOS version 2025-08-27",
+      "PageID": "5992",
+      "Company": "Ford",
+      "StartDate": "2025-08-27",
+      "EndDate": "2025-08-27",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "Erosion of rights",
+      "Description": "To create an account with ford to pay or check recall status for a car you bought from them.",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
+    },
+    {
       "PageName": "FTC sues PepsiCo for rigging Soft Drink Competition",
       "PageID": "5348",
       "Company": "Federal Trade Commission, PepsiCo",
@@ -775,7 +789,7 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "KSP2 made abandonware in early access, charges full price for the game and still misleads players into having a \"roadmap\".",
+      "PageName": "Kerbal Space Program 2",
       "PageID": "5743",
       "Company": "Take Two, Private Division",
       "StartDate": "2019-01-01",
@@ -1137,20 +1151,6 @@
       "Description": "VIZIO tracks Smart Television owners without consent.",
       "StartDate__precision": "1",
       "EndDate__precision": "1"
-    },
-    {
-      "PageName": "VRS Sim Racing Wheel Base full torque locked behind paywall",
-      "PageID": "5842",
-      "Company": "VRS",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "VRS Sim Racing Wheel Base",
-      "Product": "uDFP20 Wheel Base",
-      "Type": "Firmware lockout",
-      "Description": "You buy a 20 Nm (newton meters) capable sim racing wheel base, but the 20 Nm is locked behind an additional software purchase.",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
     }
   ],
   "Product": [
@@ -1333,6 +1333,15 @@
       "Description": "Plex Media Serer (PMS), originally a fork of XBMC, is a media server software with associated clients that allows users to host their own media.",
       "ProductLine": "",
       "Website": "https://plex.tv/"
+    },
+    {
+      "PageName": "Sodastream quick connect",
+      "PageID": "5994",
+      "Category": "beverage, soda",
+      "Company": "sodastream, soda club",
+      "Description": "",
+      "ProductLine": "sodastream, quick connect",
+      "Website": ""
     },
     {
       "PageName": "Sony's WF-1000XM4 earbuds",
@@ -1524,6 +1533,14 @@
       "Website": "https://www.qardio.com/"
     },
     {
+      "PageName": "Razer laptop replacement parts",
+      "PageID": "6001",
+      "Category": "Hardware",
+      "Company": "Razer",
+      "Description": "A series of gaming orientated laptops with premium pricing and components.",
+      "Website": "https://www.razer.com/"
+    },
+    {
       "PageName": "Steelseries Aerox 3 Lightweight Gaming Mouse",
       "PageID": "5658",
       "Category": "Hardware, Software",
@@ -1538,6 +1555,14 @@
       "Company": "Stihl",
       "Description": "In the 661 chainsaw, possibly more, it appears as if the design of the bar retention post was changed to make repair difficult or impossible",
       "Website": "https://www.stihl.ca/"
+    },
+    {
+      "PageName": "Wallbox Quasar",
+      "PageID": "6000",
+      "Category": "Hardware",
+      "Company": "Wallbox",
+      "Description": "A DC bi-directional electric car charger.",
+      "Website": "https://wallbox.com/"
     }
   ]
 }
