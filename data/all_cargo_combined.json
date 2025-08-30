@@ -109,6 +109,15 @@
       "Website": "https://bytedance.com"
     },
     {
+      "PageName": "Change.org",
+      "PageID": "6053",
+      "Description": "",
+      "Industry": "",
+      "ParentCompany": "",
+      "Type": "Non-profit",
+      "Website": "https://www.change.org/"
+    },
+    {
       "PageName": "Chase Bank",
       "PageID": "284",
       "Description": "",
@@ -440,15 +449,6 @@
       "ParentCompany": "",
       "Type": "Public",
       "Website": "https://plc.pearson.com/"
-    },
-    {
-      "PageName": "Pinterest",
-      "PageID": "2770",
-      "Description": "Photo sharing website founded in 2009 where users can \"pin\" various images to their profile and add them to collections.",
-      "Industry": "Social media service",
-      "ParentCompany": "",
-      "Type": "Public",
-      "Website": "https://pinterest.com/"
     }
   ],
   "Incident": [
@@ -817,6 +817,34 @@
       "EndDate__precision": ""
     },
     {
+      "PageName": "Google Nest Protect forced to use Google app",
+      "PageID": "6058",
+      "Company": "Google, Nest",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "Nest Protect",
+      "Product": "Nest Protect Smoke + Carbon Monoxide Alarm (all generations)",
+      "Type": "Forced Migration",
+      "Description": "Google forcing Nest Protect users to migrate from Nest app to Google Home app with expanded data collection terms to maintain functionality.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "Google Nest Thermostat (1st and 2nd Generation) Support Discontinuation",
+      "PageID": "6057",
+      "Company": "Google, Nest",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "Nest Learning Thermostat",
+      "Product": "1st generation 2011, 2nd generation 2012, 2nd generation Europe version 2014",
+      "Type": "Abandonware",
+      "Description": "Google ending support for 1st/2nd gen Nest thermostats Oct 2025, removing app control and CO safety shutoff feature despite working hardware.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
       "PageName": "Google Pixel 9 Pro camera bar separates from phone body",
       "PageID": "5956",
       "Company": "Google",
@@ -1123,34 +1151,6 @@
       "Description": "Spirit Airlines' mobile webpage hides its online check in button at the bottom to enticed app downloads.",
       "StartDate__precision": "",
       "EndDate__precision": ""
-    },
-    {
-      "PageName": "Starlink removes ability to pause subscriptions",
-      "PageID": "5671",
-      "Company": "Starlink",
-      "StartDate": "2025-08-13",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "Starlink Satellite Internet",
-      "Product": "",
-      "Type": "Terms of Service",
-      "Description": "Starlink disabled their \"Pause\" feature for their internet plans, launching an alternative \"Standby mode\" costing $5 USD/month with speeds of 500kb/s.",
-      "StartDate__precision": "1",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "SumUp blocks card readers",
-      "PageID": "5529",
-      "Company": "SumUp",
-      "StartDate": "2023-01-01",
-      "EndDate": "2025-01-01",
-      "Status": "Active",
-      "ProductLine": "",
-      "Product": "SumUp Solo, SumUp 3G+, SumUp Air, SumUp Solo Lite",
-      "Type": "Repairability",
-      "Description": "SumUp blocks their Card Readers after purchase, refusing to let their own customers' repair them, under the \"prevent manipulation/tampering\" premise.",
-      "StartDate__precision": "3",
-      "EndDate__precision": "3"
     }
   ],
   "Product": [
@@ -1171,6 +1171,15 @@
       "Description": "Bandicam is a screen-recording software created by Bandicam Company in 2009.",
       "ProductLine": "",
       "Website": "https://www.bandicam.com/"
+    },
+    {
+      "PageName": "Breezy Weather",
+      "PageID": "6049",
+      "Category": "Software, Weather",
+      "Company": "",
+      "Description": "Privacy respecting weather application with optional location service permission.",
+      "ProductLine": "",
+      "Website": "https://github.com/breezy-weather/breezy-weather"
     },
     {
       "PageName": "CalyxOS",
@@ -1243,6 +1252,15 @@
       "Description": "AI-powered automated license plate reader (ALPR) system that creates \"Vehicle Fingerprints\" by recording license plates, vehicle characteristics, and movement patterns for law enforcement use without individual consent or warrants.",
       "ProductLine": "Flock Safety Falcon",
       "Website": "https://www.flocksafety.com/products/license-plate-readers"
+    },
+    {
+      "PageName": "Ford EEC-V DPC Electronic Engine Control System",
+      "PageID": "6047",
+      "Category": "Automotive",
+      "Company": "Ford",
+      "Description": "The Diesel Powertrain Control variant of Ford's EEC-V electronic engine management system and information related to accessing and modifying hardware",
+      "ProductLine": "",
+      "Website": ""
     },
     {
       "PageName": "GrapheneOS",
@@ -1342,6 +1360,15 @@
       "Description": "Plex Media Serer (PMS), originally a fork of XBMC, is a media server software with associated clients that allows users to host their own media.",
       "ProductLine": "",
       "Website": "https://plex.tv/"
+    },
+    {
+      "PageName": "Polaroid Zip printer",
+      "PageID": "6064",
+      "Category": "Printer",
+      "Company": "Polaroid, C&A marketing Inc., Zink",
+      "Description": "The Polaroid Zip, released in 2015, was a pocket-sized wireless printer that used “ZINK” paper instead of ink cartridges.",
+      "ProductLine": "ZIP, zink",
+      "Website": "https://zink.com/"
     },
     {
       "PageName": "Polestar 2",
@@ -1487,12 +1514,28 @@
       "Website": "https://dimo.co"
     },
     {
+      "PageName": "For Dummies",
+      "PageID": "6069",
+      "Category": "Software",
+      "Company": "John Wiley & Sons",
+      "Description": "Instructional book product line",
+      "Website": "https://www.dummies.com/"
+    },
+    {
       "PageName": "Forced User Agreement on Jetbrains IntelliJ software",
       "PageID": "4984",
       "Category": "Software",
       "Company": "Jetbrains",
       "Description": "Jetbrains Developer Tools is a set of IDEs designed for major programming languages.",
       "Website": "https://www.jetbrains.com/"
+    },
+    {
+      "PageName": "Fossify",
+      "PageID": "6051",
+      "Category": "Software",
+      "Company": "FossifyOrg",
+      "Description": "A collection of apps forked from Simple Mobile Tools that replace big-tech native apps on Android devices with simple, private alternatives.",
+      "Website": "https://www.fossify.org, https://github.com/FossifyOrg"
     },
     {
       "PageName": "Fujifilm Instax Cameras",
