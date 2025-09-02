@@ -217,6 +217,15 @@
       "Website": "https://figma.com/"
     },
     {
+      "PageName": "Fitbit",
+      "PageID": "6102",
+      "Description": "",
+      "Industry": "Activity trackers",
+      "ParentCompany": "Google",
+      "Type": "Subsidiary",
+      "Website": "http://store.google.com/category/watches_trackers"
+    },
+    {
       "PageName": "Flo",
       "PageID": "5342",
       "Description": "",
@@ -233,15 +242,6 @@
       "ParentCompany": "",
       "Type": "Public",
       "Website": "https://ford.com/"
-    },
-    {
-      "PageName": "GE Appliances",
-      "PageID": "5980",
-      "Description": "An American home-appliance manufacturer",
-      "Industry": "Manufacturing",
-      "ParentCompany": "Haier",
-      "Type": "Subsidiary",
-      "Website": "https://geappliancesco.com, https://www.geappliances.com"
     },
     {
       "PageName": "General Motors (OnStar)",
@@ -747,6 +747,20 @@
       "EndDate__precision": ""
     },
     {
+      "PageName": "Ebikes require giving your data to the motor company to have full adjustment via an App over motor behaviour.",
+      "PageID": "6112",
+      "Company": "Bosch, Shimano, Avinox, DJI, TQ, Gobao, Bafang",
+      "StartDate": "2025-09-01",
+      "EndDate": "2025-09-01",
+      "Status": "Active",
+      "ProductLine": "Forced App Download",
+      "Product": "Avinox M1, Bosch Performance CX",
+      "Type": "Digital restrictions, Privacy, Ownership",
+      "Description": "To gain adjustability of almost any Ebike motor you are forced to Install an app and hand over your data and or have to login to a bike company server",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
+    },
+    {
       "PageName": "Echelon fitness firmware lockout",
       "PageID": "4972",
       "Company": "Echelon Fitness",
@@ -873,23 +887,9 @@
       "EndDate__precision": "3"
     },
     {
-      "PageName": "Implementation of the UK Online Safety Act",
-      "PageID": "5177",
-      "Company": "",
-      "StartDate": "2023-10-26",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "",
-      "Product": "",
-      "Type": "Digital restrictions",
-      "Description": "On 26 October 2023, the UK Online Safety Act passed and became law. This act restricts the freedom of UK users of the internet and increases censorship.",
-      "StartDate__precision": "1",
-      "EndDate__precision": ""
-    },
-    {
       "PageName": "JetBlue Travel Credits are Anti-Consumer",
       "PageID": "6108",
-      "Company": "",
+      "Company": "JetBlue",
       "StartDate": "",
       "EndDate": "",
       "Status": "",
@@ -1236,6 +1236,24 @@
       "Website": "https://duckduckgo.com/"
     },
     {
+      "PageName": "Elegoo Centauri Carbon",
+      "PageID": "6151",
+      "Category": "3D Printer",
+      "Company": "Elegoo",
+      "Description": "High-speed, coreXY enclosed FDM 3D printer at a very affordable price.",
+      "ProductLine": "Centauri",
+      "Website": "https://www.elegoo.com/"
+    },
+    {
+      "PageName": "Escape From tarkov",
+      "PageID": "6159",
+      "Category": "Video Games",
+      "Company": "",
+      "Description": "",
+      "ProductLine": "",
+      "Website": "https://www.escapefromtarkov.com/"
+    },
+    {
       "PageName": "Firefox",
       "PageID": "5662",
       "Category": "Browser, Web Browser",
@@ -1261,6 +1279,15 @@
       "Description": "The Diesel Powertrain Control variant of Ford's EEC-V electronic engine management system and information related to accessing and modifying hardware",
       "ProductLine": "",
       "Website": ""
+    },
+    {
+      "PageName": "Google Jamboard",
+      "PageID": "6140",
+      "Category": "Educational Technology(ed-tech)",
+      "Company": "Google",
+      "Description": "A $4,999 cloud-connected digital whiteboard that was remotely disabled by Google, converting expensive hardware into basic displays.",
+      "ProductLine": "",
+      "Website": "https://support.google.com/jamboard/answer/14084927"
     },
     {
       "PageName": "GrapheneOS",
@@ -1488,6 +1515,15 @@
       "Website": "https://tiktok.com"
     },
     {
+      "PageName": "TracFone Phones",
+      "PageID": "6116",
+      "Category": "Smartphones",
+      "Company": "Verizon",
+      "Description": "Budget cell phones",
+      "ProductLine": "",
+      "Website": "https://TracFone.com/"
+    },
+    {
       "PageName": "Viber",
       "PageID": "5374",
       "Category": "Software",
@@ -1516,6 +1552,14 @@
     }
   ],
   "ProductLine": [
+    {
+      "PageName": "3B CPAP Devices (3b Medical) (ReactHealth)",
+      "PageID": "6115",
+      "Category": "Software, Healthcare",
+      "Company": "3b Medical, React Health",
+      "Description": "CPAP and BiPAP Medical devices used to treat OSA (obstructive sleep apnea and related conditions)",
+      "Website": "https://www.reacthealth.com/"
+    },
     {
       "PageName": "BTicino/Legrand/Netatmo zigbee devices",
       "PageID": "6006",
@@ -1562,7 +1606,7 @@
       "Category": "Software",
       "Company": "FossifyOrg",
       "Description": "A collection of apps forked from Simple Mobile Tools that replace big-tech native apps on Android devices with simple, private alternatives.",
-      "Website": "https://www.fossify.org, https://github.com/FossifyOrg"
+      "Website": "https://www.fossify.org"
     },
     {
       "PageName": "Fujifilm Instax Cameras",
