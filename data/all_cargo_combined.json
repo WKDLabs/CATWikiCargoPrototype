@@ -232,7 +232,7 @@
       "Industry": "Health",
       "ParentCompany": "",
       "Type": "Private",
-      "Website": "[https://www.flo.health/ flo.health]"
+      "Website": "https://www.flo.health"
     },
     {
       "PageName": "Ford",
@@ -304,7 +304,7 @@
       "Industry": "Financial Services",
       "ParentCompany": "",
       "Type": "Public",
-      "Website": "[https://www.intuit.com/ intuit.com]"
+      "Website": "https://www.intuit.com"
     },
     {
       "PageName": "Kia",
@@ -638,13 +638,13 @@
       "PageName": "CF Moto puts previously included features behind paywall",
       "PageID": "5474",
       "Company": "CFMoto",
-      "StartDate": "2025-08-16",
+      "StartDate": "2025-08-15",
       "EndDate": "",
       "Status": "Active",
       "ProductLine": "Motorcycles",
       "Product": "CFMOTO Ride",
       "Type": "Cloud lockout",
-      "Description": "CFMoto have moved to a subscription model for there CFMOTO ride app, this includes changing users for features they use to receive with their purchase",
+      "Description": "CFMoto moved to a subscription model for their CFMOTO Ride app, charging users for features they previously received with their purchase",
       "StartDate__precision": "1",
       "EndDate__precision": ""
     },
@@ -1335,15 +1335,6 @@
       "Website": "https://www.libertysafe.com/"
     },
     {
-      "PageName": "Lime Micromobility",
-      "PageID": "5881",
-      "Category": "",
-      "Company": "",
-      "Description": "Distributes rentable Electric Micro-Mobility vehicles, such as seated and non-seated E-scooters and E-bikes. Uses subscription payment models.",
-      "ProductLine": "",
-      "Website": "https://www.li.me/"
-    },
-    {
       "PageName": "LiveView Technologies AI Surveillance",
       "PageID": "5947",
       "Category": "Surveillance, Security, AI, Law Enforcement",
@@ -1387,6 +1378,15 @@
       "Description": "Countertop kitchen appliance that creates clear ice cubes.",
       "ProductLine": "Countertop Ice Maker",
       "Website": "https://www.newair.com/"
+    },
+    {
+      "PageName": "Nothing X earbud companion app",
+      "PageID": "6183",
+      "Category": "Software",
+      "Company": "",
+      "Description": "The Nothing X app is the central control and management platform for Nothing's various audio devices and smartwatches",
+      "ProductLine": "",
+      "Website": "https://intl.nothing.tech/products/ear"
     },
     {
       "PageName": "OneDrive",
@@ -1687,6 +1687,14 @@
       "Company": "Razer",
       "Description": "A series of gaming orientated laptops with premium pricing and components.",
       "Website": "https://www.razer.com/"
+    },
+    {
+      "PageName": "Rocket Money Bill Negotiation",
+      "PageID": "6187",
+      "Category": "Software",
+      "Company": "Rocket Money",
+      "Description": "Rocket Money will monitor bank accounts & can negotiate lower pricing on your behalf.",
+      "Website": "https://rocketmoney.com/"
     },
     {
       "PageName": "Steelseries Aerox 3 Lightweight Gaming Mouse",
