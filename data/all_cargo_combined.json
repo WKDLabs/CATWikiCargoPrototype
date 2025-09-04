@@ -253,6 +253,15 @@
       "Website": "https://www.gm.com, https://www.onstar.com"
     },
     {
+      "PageName": "Gillette",
+      "PageID": "6197",
+      "Description": "Gillette is a company with a long history of creating  shaving supplies.",
+      "Industry": "Health, Shaving Supplies",
+      "ParentCompany": "Procter & Gamble",
+      "Type": "Subsidiary",
+      "Website": "https://gillette.com/"
+    },
+    {
       "PageName": "Glance",
       "PageID": "5891",
       "Description": "Glance (AI) is an artifical intelligence-based software scompany. The company was founded in Bangalore in 2019. Glance is owned by InMobi.",
@@ -379,6 +388,15 @@
       "Website": "https://www.microsoft.com/"
     },
     {
+      "PageName": "Mitsubishi Motors",
+      "PageID": "6206",
+      "Description": "Mitsubishi Motors is a Japanese automobile manufacturer and member of the Renault–Nissan–Mitsubishi Alliance, producing cars, SUVs, and EVs worldwide.",
+      "Industry": "Automotive",
+      "ParentCompany": "Nissan",
+      "Type": "Public",
+      "Website": "https://www.mitsubishi-motors.com/,https://www.mitsubishicars.com/"
+    },
+    {
       "PageName": "Mojang",
       "PageID": "5352",
       "Description": "Mojang is a video game company most known for creating Minecraft.",
@@ -431,24 +449,6 @@
       "ParentCompany": "Oppo",
       "Type": "Private",
       "Website": "https://oneplus.com"
-    },
-    {
-      "PageName": "OpenAI",
-      "PageID": "5234",
-      "Description": "OpenAI is an AI focused megacorporation that owns ChatGPT.",
-      "Industry": "Artificial Intelligence, Technology",
-      "ParentCompany": "",
-      "Type": "Private",
-      "Website": "https://openai.com/"
-    },
-    {
-      "PageName": "Pearson plc",
-      "PageID": "5180",
-      "Description": "Pearson is an education company that has a variety of subsidiaries that do everything from publishing educational books to providing IT exams.",
-      "Industry": "Education, Mass Media",
-      "ParentCompany": "",
-      "Type": "Public",
-      "Website": "https://plc.pearson.com/"
     }
   ],
   "Incident": [
@@ -577,6 +577,20 @@
       "Description": "Audible enrolled Amazon customers in Audible memberships without their knowledge or consent",
       "StartDate__precision": "3",
       "EndDate__precision": "3"
+    },
+    {
+      "PageName": "Audio Editor by 苏娟 陈",
+      "PageID": "6223",
+      "Company": "苏娟 陈",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "Audio Editor",
+      "Type": "Exploitative pricing",
+      "Description": "Audio Editor by 苏娟 陈 has all of its main features require a pro subscription to use. Originally, these features were free and included with download.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     },
     {
       "PageName": "Bitly QR Code Preview Page Advertising",
@@ -772,6 +786,34 @@
       "Type": "Firmware lockout",
       "Description": "Echelon pushed firmware updates blocking third-party apps, requiring server authentication & breaking QZ compatibility for users",
       "StartDate__precision": "2",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "EINSTAR VEGA hidden activation requirement before file transfer is enabled",
+      "PageID": "6208",
+      "Company": "",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "",
+      "Description": "",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "EINSTAR VEGA hidden activation requirement before file transfer is enabled",
+      "PageID": "6208",
+      "Company": "Shining 3D",
+      "StartDate": "2024-12-02",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "EINSTAR VEGA",
+      "Product": "EINSTAR VEGA handheld 3D scanner",
+      "Type": "Repairability & Ownership Restriction",
+      "Description": "Mandatory online activation blocks local file transfer functionality, undisclosed in marketing materials.",
+      "StartDate__precision": "1",
       "EndDate__precision": ""
     },
     {
@@ -1109,48 +1151,6 @@
       "Description": "NZ Government planning to require installation of commercial vehicle trackers in every car that can't report location in real time itself.",
       "StartDate__precision": "3",
       "EndDate__precision": ""
-    },
-    {
-      "PageName": "Polestar locks performance update behind a paywall",
-      "PageID": "6026",
-      "Company": "Polestar",
-      "StartDate": "2021-01-01",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "",
-      "Product": "Polestar 2",
-      "Type": "Digital restrictions",
-      "Description": "Polestar locks horsepower upgrade behind a paywall",
-      "StartDate__precision": "3",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "QR-Code-Generator.com “free” QR code lockout",
-      "PageID": "5181",
-      "Company": "Bitly",
-      "StartDate": "2025-07-30",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "qr-code-generator.com",
-      "Product": "qr-code-generator.com",
-      "Type": "Terms of Service",
-      "Description": "Bitly’s QR-Code-Generator.com markets “free” QR codes that later break unless users pay, causing losses for printed materials.",
-      "StartDate__precision": "1",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "Samsung EULA change reverse engineering",
-      "PageID": "5044",
-      "Company": "Samsung",
-      "StartDate": "2025-07-03",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "Samsung Smart tv",
-      "Product": "samsung smart tv",
-      "Type": "Terms of Service",
-      "Description": "EULA update bans reverse engineering in order to keep using samsung services",
-      "StartDate__precision": "1",
-      "EndDate__precision": ""
     }
   ],
   "Product": [
@@ -1297,6 +1297,33 @@
       "Description": "",
       "ProductLine": "",
       "Website": "[https://www.grapheneos.org/ grapheneos.org]"
+    },
+    {
+      "PageName": "HMS acquires EWON and requires a subscription or yearly equipment purchase to access free service",
+      "PageID": "6200",
+      "Category": "",
+      "Company": "",
+      "Description": "HMS Networks Acquisition of eWON and Changes to the Talk2m Free Tier\nOverview\n\nHMS Industrial Networks AB (commonly known as HMS Networks) acquired eW",
+      "ProductLine": "",
+      "Website": ""
+    },
+    {
+      "PageName": "HMS acquires EWON and requires yearly hardware purchases to continue to access your previous VPN devices or a paid subscription",
+      "PageID": "6199",
+      "Category": "",
+      "Company": "",
+      "Description": "",
+      "ProductLine": "",
+      "Website": ""
+    },
+    {
+      "PageName": "Hulu",
+      "PageID": "6226",
+      "Category": "Streaming Services",
+      "Company": "",
+      "Description": "Hulu is a streaming service that provides shows, movies, and live TV.",
+      "ProductLine": "",
+      "Website": "https://www.hulu.com/welcome"
     },
     {
       "PageName": "Insta360+",
