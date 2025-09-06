@@ -55,6 +55,15 @@
       "Website": "https://apple.com/"
     },
     {
+      "PageName": "Apple Self Service Repair",
+      "PageID": "6256",
+      "Description": "Apple Self Service Repair lets owners order genuine apple parts and tools to fix their apple devices themselves.",
+      "Industry": "Electronics",
+      "ParentCompany": "Apple",
+      "Type": "",
+      "Website": "https://selfservicerepair.com/"
+    },
+    {
       "PageName": "AT&T",
       "PageID": "824",
       "Description": "",
@@ -440,15 +449,6 @@
       "ParentCompany": "",
       "Type": "Public",
       "Website": "https://www.nissan-global.com/"
-    },
-    {
-      "PageName": "Okkazeo",
-      "PageID": "5725",
-      "Description": "Okkazeo allows board game players selling/buying second hand game",
-      "Industry": "Board Games, Second Hand",
-      "ParentCompany": "",
-      "Type": "Private",
-      "Website": "https://www.okkazeo.com/"
     }
   ],
   "Incident": [
@@ -607,20 +607,6 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "BMW (Dis)Connected",
-      "PageID": "6250",
-      "Company": "BMW",
-      "StartDate": "2025-09-01",
-      "EndDate": "2025-09-01",
-      "Status": "Active",
-      "ProductLine": "Vehicle Remote Control Services",
-      "Product": "API",
-      "Type": "Digital restrictions",
-      "Description": "At the start of September 2025 BMW Group began to take active steps to restrict access to the BMW Connected API, locking out consumers.",
-      "StartDate__precision": "1",
-      "EndDate__precision": "2"
-    },
-    {
       "PageName": "BMW API restrictions",
       "PageID": "6249",
       "Company": "BMW",
@@ -716,20 +702,6 @@
       "Type": "",
       "Description": "Online video game Dead Star shut down it's servers, leaving the tutorial as the only accessible content in the game.",
       "StartDate__precision": "",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "DIMO implements Subscription Model after selling their products for over a year",
-      "PageID": "6015",
-      "Company": "Digital Infrastructure Inc.",
-      "StartDate": "2025-08-14",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "DIMO",
-      "Product": "DIMO LTE R1",
-      "Type": "Digital restrictions",
-      "Description": "After over 1 year of releasing their products and DIMO app, DIMO suddenly makes all their products broken by requiring users to pay 90$/year.",
-      "StartDate__precision": "1",
       "EndDate__precision": ""
     },
     {
@@ -1055,6 +1027,20 @@
       "EndDate__precision": "3"
     },
     {
+      "PageName": "MD Pathways Telehealth program automatic opt-in charge to citizens utility bill",
+      "PageID": "6253",
+      "Company": "MD Heath Pathways",
+      "StartDate": "2025-09-04",
+      "EndDate": "",
+      "Status": "",
+      "ProductLine": "Telehealth",
+      "Product": "",
+      "Type": "Erosion of rights",
+      "Description": "MD Pathways passed Telehealth program in City of Garland that has automatically opted in all utility customers/homeowners $6-9 per mo. starting 2026.",
+      "StartDate__precision": "1",
+      "EndDate__precision": ""
+    },
+    {
       "PageName": "Meta AI wrongful permanent account suspensions",
       "PageID": "5736",
       "Company": "Meta",
@@ -1151,6 +1137,20 @@
       "Description": "Nitro Software, Inc. is remotely deactivating perpetual paid licenses.",
       "StartDate__precision": "1",
       "EndDate__precision": "1"
+    },
+    {
+      "PageName": "NZ eRUC all-cars 24/7 GPS Surveillance proposal",
+      "PageID": "5962",
+      "Company": "eroad and others",
+      "StartDate": "2025-01-01",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "road user taxing known as ruc (road user charges)",
+      "Product": "eruc",
+      "Type": "Privacy",
+      "Description": "NZ Government planning to require installation of commercial vehicle trackers in every car that can't report location in real time itself.",
+      "StartDate__precision": "3",
+      "EndDate__precision": ""
     }
   ],
   "Product": [
@@ -1198,15 +1198,6 @@
       "Description": "Smart speakers which can be controlled over local network. Can play from internet sources or aux in, bluetooth or local airplay.",
       "ProductLine": "Home Speaker",
       "Website": "https://www.denon.com/en-us/"
-    },
-    {
-      "PageName": "DIMO LTE R1",
-      "PageID": "6014",
-      "Category": "Client",
-      "Company": "Digital Infrastructure Inc.",
-      "Description": "Car insight device that must be plugged in into a car to work. Would display insights in the DIMO app",
-      "ProductLine": "DIMO",
-      "Website": "https://dimo.co"
     },
     {
       "PageName": "Disney+",
@@ -1304,15 +1295,6 @@
       "Category": "",
       "Company": "",
       "Description": "HMS Networks Acquisition of eWON and Changes to the Talk2m Free Tier\nOverview\n\nHMS Industrial Networks AB (commonly known as HMS Networks) acquired eW",
-      "ProductLine": "",
-      "Website": ""
-    },
-    {
-      "PageName": "HMS acquires EWON and requires yearly hardware purchases to continue to access your previous VPN devices or a paid subscription",
-      "PageID": "6199",
-      "Category": "",
-      "Company": "",
-      "Description": "",
       "ProductLine": "",
       "Website": ""
     },
@@ -1461,6 +1443,15 @@
       "Website": "https://www.polestar.com/us/polestar-2/"
     },
     {
+      "PageName": "Protection One 320P1 Security System",
+      "PageID": "6268",
+      "Category": "",
+      "Company": "Protection One",
+      "Description": "Home security system",
+      "ProductLine": "320P1",
+      "Website": ""
+    },
+    {
       "PageName": "Sony's WF-1000XM4 earbuds",
       "PageID": "438",
       "Category": "Earbuds",
@@ -1576,14 +1567,6 @@
       "Company": "Deerrun",
       "Description": "",
       "Website": "https://deerruntreadmill.com/"
-    },
-    {
-      "PageName": "DIMO",
-      "PageID": "6013",
-      "Category": "Hardware",
-      "Company": "Digital Infrastructure Inc.",
-      "Description": "DIMO Products to integrate every non-tesla car with their app.",
-      "Website": "https://dimo.co"
     },
     {
       "PageName": "Forced User Agreement on Jetbrains IntelliJ software",
