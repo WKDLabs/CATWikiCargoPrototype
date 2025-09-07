@@ -16,7 +16,7 @@
       "Industry": "E-commerce",
       "ParentCompany": "",
       "Type": "Public",
-      "Website": "https://www.alibaba.com/, https://www.alibabagroup.com/en-US/about-alibaba-businesses-1747711844698554368"
+      "Website": "https://www.alibaba.com/,https://www.alibabagroup.com/"
     },
     {
       "PageName": "Amazon",
@@ -80,6 +80,15 @@
       "ParentCompany": "Volkswagen",
       "Type": "Subsidiary",
       "Website": "https://www.audiusa.com/"
+    },
+    {
+      "PageName": "Audible",
+      "PageID": "6284",
+      "Description": "An audiobook and podcast service",
+      "Industry": "Entertainment",
+      "ParentCompany": "Amazon",
+      "Type": "Subsidiary",
+      "Website": "https://www.audible.com/"
     },
     {
       "PageName": "Autel - Otofix",
@@ -268,7 +277,7 @@
       "Industry": "Automotive, Technology, Information Technology",
       "ParentCompany": "",
       "Type": "Public",
-      "Website": "https://www.gm.com, https://www.onstar.com"
+      "Website": "https://www.gm.com,https://www.onstar.com"
     },
     {
       "PageName": "Gillette",
@@ -440,15 +449,6 @@
       "ParentCompany": "",
       "Type": "Public",
       "Website": "https://www.newag.pl/"
-    },
-    {
-      "PageName": "Nissan",
-      "PageID": "979",
-      "Description": "",
-      "Industry": "Automotive",
-      "ParentCompany": "",
-      "Type": "Public",
-      "Website": "https://www.nissan-global.com/"
     }
   ],
   "Incident": [
@@ -509,6 +509,20 @@
       "EndDate__precision": ""
     },
     {
+      "PageName": "Amazon sued for enrolling and charging customers into Audible without consent",
+      "PageID": "5930",
+      "Company": "Amazon, Audible",
+      "StartDate": "2024-01-01",
+      "EndDate": "2025-01-01",
+      "Status": "Active",
+      "ProductLine": "Audible membership",
+      "Product": "Amazon Prime",
+      "Type": "Service Termination",
+      "Description": "Audible enrolled Amazon customers in Audible memberships without their knowledge or consent",
+      "StartDate__precision": "3",
+      "EndDate__precision": "3"
+    },
+    {
       "PageName": "Android Developer Verification",
       "PageID": "5951",
       "Company": "Google",
@@ -549,20 +563,6 @@
       "Description": "Audi charges $758 for an HVAC “Sync” button, which is physically present within the vehicle, but disabled until a payment is made.",
       "StartDate__precision": "",
       "EndDate__precision": ""
-    },
-    {
-      "PageName": "Audible enrolled Amazon customers in Audible memberships without their knowledge or consent",
-      "PageID": "5930",
-      "Company": "Amazon, Audible",
-      "StartDate": "2024-01-01",
-      "EndDate": "2025-01-01",
-      "Status": "Active",
-      "ProductLine": "Audible membership",
-      "Product": "Amazon Prime",
-      "Type": "Service Termination",
-      "Description": "Audible enrolled Amazon customers in Audible memberships without their knowledge or consent",
-      "StartDate__precision": "3",
-      "EndDate__precision": "3"
     },
     {
       "PageName": "Audio Editor by 苏娟 陈",
@@ -703,6 +703,20 @@
       "Description": "Online video game Dead Star shut down it's servers, leaving the tutorial as the only accessible content in the game.",
       "StartDate__precision": "",
       "EndDate__precision": ""
+    },
+    {
+      "PageName": "Dictionary.com shuts down premium app after selling lifetime subscriptions",
+      "PageID": "6286",
+      "Company": "dictionary.com",
+      "StartDate": "2025-06-18",
+      "EndDate": "2025-01-01",
+      "Status": "Active",
+      "ProductLine": "Dictionary.com Pemium",
+      "Product": "dictionary app",
+      "Type": "lifetime subscription revoked",
+      "Description": "Premium ad free app with lifetime subscription shut down while leaving up an ad supported version",
+      "StartDate__precision": "1",
+      "EndDate__precision": "3"
     },
     {
       "PageName": "Discontinuation of Samsung Gear 360 Software and Services",
@@ -1137,20 +1151,6 @@
       "Description": "Nitro Software, Inc. is remotely deactivating perpetual paid licenses.",
       "StartDate__precision": "1",
       "EndDate__precision": "1"
-    },
-    {
-      "PageName": "NZ eRUC all-cars 24/7 GPS Surveillance proposal",
-      "PageID": "5962",
-      "Company": "eroad and others",
-      "StartDate": "2025-01-01",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "road user taxing known as ruc (road user charges)",
-      "Product": "eruc",
-      "Type": "Privacy",
-      "Description": "NZ Government planning to require installation of commercial vehicle trackers in every car that can't report location in real time itself.",
-      "StartDate__precision": "3",
-      "EndDate__precision": ""
     }
   ],
   "Product": [
@@ -1254,6 +1254,15 @@
       "Website": "https://www.firefox.com/"
     },
     {
+      "PageName": "Fl studio \"All plugins edition\" not giving all plugins anymore",
+      "PageID": "6295",
+      "Category": "Software",
+      "Company": "Image-line",
+      "Description": "Fl Studio is one of the mainstream digital audio workstation (DAW) to create music.",
+      "ProductLine": "Fl Studio",
+      "Website": "https://www.image-line.com/?_gl=1*9cyz9q*_gcl_au*MjEyNDQ2Mjc4Mi4xNzUyOTkxMjA4LjQwMzYzNzE2OS4xNzU3MTMyNTc0LjE3NTcxMzI3Mjc."
+    },
+    {
       "PageName": "Flock License Plate Readers",
       "PageID": "5885",
       "Category": "Cameras, Security, Surveillance",
@@ -1287,10 +1296,10 @@
       "Company": "",
       "Description": "",
       "ProductLine": "",
-      "Website": "[https://www.grapheneos.org/ grapheneos.org]"
+      "Website": "https://www.grapheneos.org"
     },
     {
-      "PageName": "HMS acquires EWON and requires a subscription or yearly equipment purchase to access free service",
+      "PageName": "HMS acquires EWON",
       "PageID": "6200",
       "Category": "",
       "Company": "",
@@ -1314,7 +1323,7 @@
       "Company": "Insta360",
       "Description": "Cloud-based subscription for Insta360 cameras that offers camera replacement and warranty perks.",
       "ProductLine": "",
-      "Website": "https://store.insta360.com/product/insta360plus"
+      "Website": "https://www.insta360.com,https://store.insta360.com"
     },
     {
       "PageName": "Itch.io",
@@ -1341,7 +1350,7 @@
       "Company": "Lenovo, Disney, Marvel",
       "Description": "Lenovo Mirage AR was an augmented reality headset, that used a smartphone connection to play games.",
       "ProductLine": "",
-      "Website": "https://appsupport.disney.com/hc/en-us/articles/6530709116052-MARVEL-Dimension-of-Heroes-has-been-retired"
+      "Website": ""
     },
     {
       "PageName": "Liberty Safe",
@@ -1476,7 +1485,7 @@
       "Company": "Spotify",
       "Description": "A physical application extension of the Spotify mobile app for older cars. In 2024, Spotify discontinued support, which rendered all devices unusable.",
       "ProductLine": "",
-      "Website": "https://web.archive.org/web/20250127021601/https://carthing.spotify.com/"
+      "Website": "https://carthing.spotify.com,https://support.spotify.com/us/article/car-thing-discontinued"
     },
     {
       "PageName": "Steam",
@@ -1503,7 +1512,7 @@
       "Company": "Tesvor",
       "Description": "Vacuum robot cannot be set up with the app or connect to the app. Users on Reddit have said the only workaround is to set up an account from China",
       "ProductLine": "x500",
-      "Website": "https://web.archive.org/web/20230607130212/https://www.tesvor.com/us/tesvor-robot-vacuum-x500.html"
+      "Website": "https://www.tesvor.com"
     },
     {
       "PageName": "TikTok",
@@ -1681,7 +1690,7 @@
       "Website": "https://steelseries.com/gaming-mice/aerox-3-2022"
     },
     {
-      "PageName": "Stihl Changes long standing design for the 661 chainsaw so that it is considerably harder to repair",
+      "PageName": "Stihl changes design for the 661 chainsaw",
       "PageID": "5862",
       "Category": "Hardware",
       "Company": "Stihl",
