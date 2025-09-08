@@ -289,6 +289,15 @@
       "Website": "https://gillette.com/"
     },
     {
+      "PageName": "GitHub",
+      "PageID": "6299",
+      "Description": "",
+      "Industry": "",
+      "ParentCompany": "",
+      "Type": "",
+      "Website": "www.github.com"
+    },
+    {
       "PageName": "Glance",
       "PageID": "5891",
       "Description": "Glance (AI) is an artifical intelligence-based software scompany. The company was founded in Bangalore in 2019. Glance is owned by InMobi.",
@@ -440,15 +449,6 @@
       "ParentCompany": "Amagicom AB",
       "Type": "Private",
       "Website": "https://mullvad.net/"
-    },
-    {
-      "PageName": "Newag",
-      "PageID": "232",
-      "Description": "The company produces locomotives and electric multiple unit powered rolling stocks.",
-      "Industry": "Railway",
-      "ParentCompany": "",
-      "Type": "Public",
-      "Website": "https://www.newag.pl/"
     }
   ],
   "Incident": [
@@ -943,6 +943,20 @@
       "EndDate__precision": "3"
     },
     {
+      "PageName": "Indeed Forced Arbitration",
+      "PageID": "6298",
+      "Company": "Indeed, Recruit Holdings",
+      "StartDate": "2025-08-22",
+      "EndDate": "2025-09-07",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "Terms of Service",
+      "Description": "Indeed changed their TOS to mandate arbitration for “any past, present, and future disputes”, with no opt-out. Email notification was 15 days late.",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
+    },
+    {
       "PageName": "JetBlue Travel Credits are Anti-Consumer",
       "PageID": "6108",
       "Company": "JetBlue",
@@ -1027,7 +1041,7 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "Mailchannels.net blocking legitimate emails!",
+      "PageName": "Mailchannels.net blocking certain emails",
       "PageID": "6085",
       "Company": "",
       "StartDate": "2025-01-01",
@@ -1137,20 +1151,6 @@
       "Description": "Nintendo has placed an encryption method on the bottom USB C Port of the Switch 2 in order to make it harder for 3rd party docks to be manufactured.",
       "StartDate__precision": "",
       "EndDate__precision": ""
-    },
-    {
-      "PageName": "Nitro PDF License Deactivating",
-      "PageID": "5457",
-      "Company": "Nitro Software",
-      "StartDate": "2025-05-07",
-      "EndDate": "2025-05-07",
-      "Status": "Active",
-      "ProductLine": "Nitro PDF",
-      "Product": "Nitro PDF",
-      "Type": "Service Termination, Planned Obsolescence",
-      "Description": "Nitro Software, Inc. is remotely deactivating perpetual paid licenses.",
-      "StartDate__precision": "1",
-      "EndDate__precision": "1"
     }
   ],
   "Product": [
@@ -1369,6 +1369,15 @@
       "Description": "AI-powered mobile surveillance towers that combine thermal imaging, behavioral analytics, and audio deterrence systems for 24/7 monitoring of public and private spaces without individual consent or warrants.",
       "ProductLine": "LVT Mobile Surveillance Units (D3 Mobile Security Unit)",
       "Website": "https://www.lvt.com"
+    },
+    {
+      "PageName": "M-Audio Axiom air mini 32",
+      "PageID": "6303",
+      "Category": "Audio Device",
+      "Company": "M-Audio",
+      "Description": "Midi keyboard for audio production, designed to work with DAWs.",
+      "ProductLine": "Axiom air mini 32",
+      "Website": "www.m-audio.com/"
     },
     {
       "PageName": "Microsoft Edge",
