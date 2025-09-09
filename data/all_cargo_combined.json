@@ -316,6 +316,15 @@
       "Website": "https://www.google.com/"
     },
     {
+      "PageName": "HelloSimply.com",
+      "PageID": "6334",
+      "Description": "Simply is a company that produces a line of apps that provide a structured method of teaching people how to play various instruments.",
+      "Industry": "Education",
+      "ParentCompany": "",
+      "Type": "",
+      "Website": "HelloSimply.com"
+    },
+    {
       "PageName": "Huawei",
       "PageID": "5586",
       "Description": "Huawei Shenzhen Technology Corporation",
@@ -440,15 +449,6 @@
       "ParentCompany": "Microsoft",
       "Type": "Private",
       "Website": "https://www.minecraft.net/en-us"
-    },
-    {
-      "PageName": "Mullvad VPN",
-      "PageID": "5422",
-      "Description": "",
-      "Industry": "Virtual Private Networks",
-      "ParentCompany": "Amagicom AB",
-      "Type": "Private",
-      "Website": "https://mullvad.net/"
     }
   ],
   "Incident": [
@@ -943,6 +943,20 @@
       "EndDate__precision": "3"
     },
     {
+      "PageName": "HelloSimply.com: easy to subscribe, difficult to unsubscribe",
+      "PageID": "6335",
+      "Company": "HelloSimply.com",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "Service Termination",
+      "Description": "The service is trivially easy to subscribe to, but makes it prohibitively difficult to unsubscribe.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
       "PageName": "Indeed Forced Arbitration",
       "PageID": "6298",
       "Company": "Indeed, Recruit Holdings",
@@ -1055,6 +1069,20 @@
       "EndDate__precision": "3"
     },
     {
+      "PageName": "MD Health Pathways automatic opt in of taxpayers on water / utility bills without consent / Dr. Dirk Perritt / Text a Doc",
+      "PageID": "6323",
+      "Company": "Tap Telehealth",
+      "StartDate": "2022-01-01",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "Tap Telehealth Text a Doctor Service",
+      "Type": "",
+      "Description": "This for profit company has come into Garland & schmoozed the city council into signing a contract with them that automatically opts in all residents",
+      "StartDate__precision": "3",
+      "EndDate__precision": ""
+    },
+    {
       "PageName": "MD Pathways Telehealth program automatic opt-in charge to citizens utility bill",
       "PageID": "6253",
       "Company": "MD Heath Pathways",
@@ -1121,34 +1149,6 @@
       "Product": "",
       "Type": "Terms of Service, Privacy",
       "Description": "Minecraft used non-existent ToS to take down user mods. It was about violating rule, that did not exist in public ToS.",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "Minecraft post-purchase ownership rights changes",
-      "PageID": "5672",
-      "Company": "Mojang, Microsoft",
-      "StartDate": "2009-05-19",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "Minecraft",
-      "Product": "Minecraft Java Edition",
-      "Type": "Terms of Service",
-      "Description": "A game first sold as a DRM-fee product, slowly became a license to a service.",
-      "StartDate__precision": "0",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "Nintendo 3rd party dock restrictions",
-      "PageID": "5336",
-      "Company": "Nintendo, Antank, Genki",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "Nintendo Switch",
-      "Product": "Nintendo switch, Nintendo Switch 2",
-      "Type": "Third Party, Firmware lockout",
-      "Description": "Nintendo has placed an encryption method on the bottom USB C Port of the Switch 2 in order to make it harder for 3rd party docks to be manufactured.",
       "StartDate__precision": "",
       "EndDate__precision": ""
     }
