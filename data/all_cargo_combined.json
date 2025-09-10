@@ -957,16 +957,16 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "Indeed Forced Arbitration",
+      "PageName": "Indeed Forced Arbitration & bundling of consent",
       "PageID": "6298",
-      "Company": "Indeed, Recruit Holdings",
+      "Company": "Indeed; Recruit Holdings",
       "StartDate": "2025-08-22",
-      "EndDate": "2025-09-07",
+      "EndDate": "2025-09-09",
       "Status": "Active",
       "ProductLine": "",
       "Product": "",
       "Type": "Terms of Service",
-      "Description": "Indeed changed their TOS to mandate arbitration for “any past, present, and future disputes”, with no opt-out. Email notification was 15 days late.",
+      "Description": "",
       "StartDate__precision": "1",
       "EndDate__precision": "1"
     },
