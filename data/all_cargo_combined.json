@@ -985,7 +985,7 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "JetBlue Travel Credits are Anti-Consumer",
+      "PageName": "JetBlue Travel Credits",
       "PageID": "6108",
       "Company": "JetBlue",
       "StartDate": "",
@@ -1567,6 +1567,15 @@
       "Description": "Virtual Private Network service.",
       "ProductLine": "",
       "Website": "https://vpnsecure.me"
+    },
+    {
+      "PageName": "Yubo",
+      "PageID": "6402",
+      "Category": "Social media",
+      "Company": "Twelve App",
+      "Description": "A social media mobile application where users communicate via video (similar to Omegle).",
+      "ProductLine": "",
+      "Website": "https://yubo.live/en"
     }
   ],
   "ProductLine": [
