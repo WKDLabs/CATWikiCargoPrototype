@@ -691,6 +691,20 @@
       "EndDate__precision": ""
     },
     {
+      "PageName": "Creality 3d Scanner - Fored update, which removed previously advertised and shown features",
+      "PageID": "6419",
+      "Company": "Creality",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "3D Scanners",
+      "Product": "Otter, Raptor, Ferret*",
+      "Type": "Firmware lockout",
+      "Description": "Creality's forced update mandate and removing a big feature of their scanners that allows the use of Mobile APP is now locked behind proprietary hardware.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
       "PageName": "Creative Fabrica licensing risks and ownership verification concerns",
       "PageID": "5835",
       "Company": "Creative Fabrica",
@@ -1137,20 +1151,6 @@
       "Description": "Microsoft Recall collects screenshots of the user's computer every few seconds to be used by Copilot, Microsoft's AI.",
       "StartDate__precision": "2",
       "EndDate__precision": ""
-    },
-    {
-      "PageName": "Miku charges subscription for previously free features",
-      "PageID": "5470",
-      "Company": "Miku",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "",
-      "Product": "",
-      "Type": "Digital restrictions, Terms of Service, Cloud lockout",
-      "Description": "On September 15 2023, Miku revoked previously free baby monitor features, now selling them for $9.99 under care+ subscription.",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
     }
   ],
   "Product": [
@@ -1414,6 +1414,15 @@
       "Description": "Countertop kitchen appliance that creates clear ice cubes.",
       "ProductLine": "Countertop Ice Maker",
       "Website": "https://www.newair.com/"
+    },
+    {
+      "PageName": "Notability forces new privacy policy on users who already bought the app",
+      "PageID": "6415",
+      "Category": "Software",
+      "Company": "gingelabs",
+      "Description": "Note-taking application for iOS and macOS, allows note-taking and the annotation of PDF files.",
+      "ProductLine": "",
+      "Website": "https://notability.com/"
     },
     {
       "PageName": "Nothing X earbud companion app",
