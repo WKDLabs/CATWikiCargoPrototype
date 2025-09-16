@@ -199,15 +199,6 @@
       "Website": "https://www.dkb.de/"
     },
     {
-      "PageName": "Digital Infrastructure Inc.",
-      "PageID": "6012",
-      "Description": "DIMO created an app that enables users to share their vehicle data, get insights about their vehicle and earn DIMO cryptocurrency",
-      "Industry": "Automotive",
-      "ParentCompany": "",
-      "Type": "Private",
-      "Website": "https://dimo.co"
-    },
-    {
       "PageName": "Duolingo",
       "PageID": "1144",
       "Description": "A language learning app with a mission to make learning \"universally available\". In the 2020s, paywalled content and data breaches affected users.",
@@ -449,6 +440,15 @@
       "ParentCompany": "Microsoft",
       "Type": "Private",
       "Website": "https://www.minecraft.net/en-us"
+    },
+    {
+      "PageName": "Mullvad VPN",
+      "PageID": "5422",
+      "Description": "",
+      "Industry": "Virtual Private Networks",
+      "ParentCompany": "Amagicom AB",
+      "Type": "Private",
+      "Website": "https://mullvad.net/"
     }
   ],
   "Incident": [
@@ -575,20 +575,6 @@
       "Product": "",
       "Type": "",
       "Description": "Audi charges $758 for an HVAC “Sync” button, which is physically present within the vehicle, but disabled until a payment is made.",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "Audio Editor by 苏娟 陈",
-      "PageID": "6223",
-      "Company": "苏娟 陈",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "",
-      "Product": "Audio Editor",
-      "Type": "Exploitative pricing",
-      "Description": "Audio Editor by 苏娟 陈 has all of its main features require a pro subscription to use. Originally, these features were free and included with download.",
       "StartDate__precision": "",
       "EndDate__precision": ""
     },
@@ -971,20 +957,6 @@
       "EndDate__precision": "3"
     },
     {
-      "PageName": "Gotham Steel arbitration agreement",
-      "PageID": "5001",
-      "Company": "Gotham Steel",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "Gotham Steel Diamond",
-      "Product": "Cooking Pan",
-      "Type": "Terms of Service",
-      "Description": "The arbitration agreement for Gotham Steel does not allow consumers to opt out.",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
-    },
-    {
       "PageName": "HelloSimply.com: easy to subscribe, difficult to unsubscribe",
       "PageID": "6335",
       "Company": "HelloSimply.com",
@@ -1083,20 +1055,6 @@
       "EndDate__precision": ""
     },
     {
-      "PageName": "Mailchannels.net blocking certain emails",
-      "PageID": "6085",
-      "Company": "",
-      "StartDate": "2025-01-01",
-      "EndDate": "2025-01-01",
-      "Status": "Active",
-      "ProductLine": "",
-      "Product": "",
-      "Type": "",
-      "Description": "Mailchannels.net is blocking legitimate emails from my customers, as well as blocking my emails to my customers. My host offers no way to turn it off",
-      "StartDate__precision": "3",
-      "EndDate__precision": "3"
-    },
-    {
       "PageName": "MD Health Pathways automatic opt in of taxpayers on water / utility bills without consent / Dr. Dirk Perritt / Text a Doc",
       "PageID": "6323",
       "Company": "Tap Telehealth",
@@ -1108,20 +1066,6 @@
       "Type": "",
       "Description": "This for profit company has come into Garland & schmoozed the city council into signing a contract with them that automatically opts in all residents",
       "StartDate__precision": "3",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "MD Pathways Telehealth program automatic opt-in charge to citizens utility bill",
-      "PageID": "6253",
-      "Company": "MD Heath Pathways",
-      "StartDate": "2025-09-04",
-      "EndDate": "",
-      "Status": "",
-      "ProductLine": "Telehealth",
-      "Product": "",
-      "Type": "Erosion of rights",
-      "Description": "MD Pathways passed Telehealth program in City of Garland that has automatically opted in all utility customers/homeowners $6-9 per mo. starting 2026.",
-      "StartDate__precision": "1",
       "EndDate__precision": ""
     },
     {
@@ -1150,6 +1094,62 @@
       "Type": "Privacy",
       "Description": "Microsoft Recall collects screenshots of the user's computer every few seconds to be used by Copilot, Microsoft's AI.",
       "StartDate__precision": "2",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "Miku charges subscription for previously free features",
+      "PageID": "5470",
+      "Company": "Miku",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "Digital restrictions, Terms of Service, Cloud lockout",
+      "Description": "On September 15 2023, Miku revoked previously free baby monitor features, now selling them for $9.99 under care+ subscription.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "Milwaukee battery drm",
+      "PageID": "6420",
+      "Company": "Milwaukee, TTI",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "Power tools",
+      "Product": "Milwaukee M18 batteries",
+      "Type": "",
+      "Description": "Undisclosed digital rights management (DRM) and diagnostic tracking in Milwaukee M18 batteries allegedly used in warranty claim denials.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "Minecraft enforceing undisclosed server EULA terms",
+      "PageID": "5614",
+      "Company": "Microsoft",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "Terms of Service, Privacy",
+      "Description": "Minecraft used non-existent ToS to take down user mods. It was about violating rule, that did not exist in public ToS.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "Minecraft post-purchase ownership rights changes",
+      "PageID": "5672",
+      "Company": "Mojang, Microsoft",
+      "StartDate": "2009-05-19",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "Minecraft",
+      "Product": "Minecraft Java Edition",
+      "Type": "Terms of Service",
+      "Description": "A game first sold as a DRM-fee product, slowly became a license to a service.",
+      "StartDate__precision": "0",
       "EndDate__precision": ""
     }
   ],
@@ -1189,6 +1189,15 @@
       "Description": "CalyxOS is an Android mobile operating system that puts privacy and security into the hands of everyday users. Plus, proactive security recommendation",
       "ProductLine": "Android",
       "Website": "https://calyxos.org/"
+    },
+    {
+      "PageName": "Dell Server (Poweredge T150) rejecting OEM RAM on slot A2",
+      "PageID": "6432",
+      "Category": "Server",
+      "Company": "dell, owc",
+      "Description": "Entry level Dell Server (Tower) - Xeon E-2324G processor",
+      "ProductLine": "Poweredge, T150",
+      "Website": "https://www.dell.com/support/product-details/en-us/product/poweredge-t150/overview"
     },
     {
       "PageName": "Denon HEOS Speakers",
@@ -1234,15 +1243,6 @@
       "Description": "High-speed, coreXY enclosed FDM 3D printer at a very affordable price.",
       "ProductLine": "Centauri",
       "Website": "https://www.elegoo.com/"
-    },
-    {
-      "PageName": "Escape From tarkov",
-      "PageID": "6159",
-      "Category": "Video Games",
-      "Company": "",
-      "Description": "",
-      "ProductLine": "",
-      "Website": "https://www.escapefromtarkov.com/"
     },
     {
       "PageName": "Firefox",
@@ -1297,15 +1297,6 @@
       "Description": "",
       "ProductLine": "",
       "Website": "https://www.grapheneos.org"
-    },
-    {
-      "PageName": "HMS acquires EWON",
-      "PageID": "6200",
-      "Category": "",
-      "Company": "",
-      "Description": "HMS Networks Acquisition of eWON and Changes to the Talk2m Free Tier\nOverview\n\nHMS Industrial Networks AB (commonly known as HMS Networks) acquired eW",
-      "ProductLine": "",
-      "Website": ""
     },
     {
       "PageName": "Hulu",
@@ -1542,15 +1533,6 @@
       "Website": "https://tiktok.com"
     },
     {
-      "PageName": "TracFone Phones",
-      "PageID": "6116",
-      "Category": "Smartphones",
-      "Company": "Verizon",
-      "Description": "Budget cell phones",
-      "ProductLine": "",
-      "Website": "https://TracFone.com/"
-    },
-    {
       "PageName": "Viber",
       "PageID": "5374",
       "Category": "Software",
@@ -1603,6 +1585,14 @@
       "Company": "Deerrun",
       "Description": "",
       "Website": "https://deerruntreadmill.com/"
+    },
+    {
+      "PageName": "E-Bike Tuning Detection: Bosch and Yamaha’s Anti-Tampering Systems",
+      "PageID": "6427",
+      "Category": "Vehicle",
+      "Company": "Bosch, Yamaha, Shimano",
+      "Description": "",
+      "Website": ""
     },
     {
       "PageName": "Forced User Agreement on Jetbrains IntelliJ software",
@@ -1707,14 +1697,6 @@
       "Company": "Rocket Money",
       "Description": "Rocket Money will monitor bank accounts & can negotiate lower pricing on your behalf.",
       "Website": "https://rocketmoney.com/"
-    },
-    {
-      "PageName": "Steelseries Aerox 3 Lightweight Gaming Mouse",
-      "PageID": "5658",
-      "Category": "Hardware, Software",
-      "Company": "SteelSeries",
-      "Description": "The Steelseries Aerox 3 is a lightweight gaming mouse, designed with perforations in order to use less plastic, can be wired or wireless.",
-      "Website": "https://steelseries.com/gaming-mice/aerox-3-2022"
     },
     {
       "PageName": "Stihl changes design for the 661 chainsaw",
