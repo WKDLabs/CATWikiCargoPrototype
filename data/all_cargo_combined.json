@@ -1551,6 +1551,15 @@
       "Website": "https://code.visualstudio.com"
     },
     {
+      "PageName": "Volvo VIDA",
+      "PageID": "6449",
+      "Category": "Software",
+      "Company": "Volvo",
+      "Description": "Automotive diagnostic software for Volvo passenger vehicles",
+      "ProductLine": "VIDA",
+      "Website": ""
+    },
+    {
       "PageName": "VPN Secure",
       "PageID": "2792",
       "Category": "VPN",
