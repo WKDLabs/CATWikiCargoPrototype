@@ -208,6 +208,15 @@
       "Website": "https://duolingo.com"
     },
     {
+      "PageName": "Eventbrite",
+      "PageID": "6472",
+      "Description": "Eventbrite is an American live events marketplace and website. The service allows users to browse, create, and promote local events.",
+      "Industry": "events marketplace",
+      "ParentCompany": "",
+      "Type": "Private",
+      "Website": "https://www.eventbrite.com/"
+    },
+    {
       "PageName": "Fal (AI company)",
       "PageID": "5066",
       "Description": "Generative AI media platform primarily for developers.",
@@ -440,15 +449,6 @@
       "ParentCompany": "Nissan",
       "Type": "Public",
       "Website": "https://www.mitsubishi-motors.com/,https://www.mitsubishicars.com/"
-    },
-    {
-      "PageName": "Mojang",
-      "PageID": "5352",
-      "Description": "Mojang is a video game company most known for creating Minecraft.",
-      "Industry": "Video game",
-      "ParentCompany": "Microsoft",
-      "Type": "Private",
-      "Website": "https://www.minecraft.net/en-us"
     }
   ],
   "Incident": [
@@ -660,6 +660,20 @@
       "Type": "Cloud lockout",
       "Description": "CFMoto moved to a subscription model for their CFMOTO Ride app, charging users for features they previously received with their purchase",
       "StartDate__precision": "1",
+      "EndDate__precision": ""
+    },
+    {
+      "PageName": "Click Adventure Scam Game: Draining Consumer Wallets and Bypassing Steam Security",
+      "PageID": "6477",
+      "Company": "Valve",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "Steam",
+      "Product": "",
+      "Type": "Scam, Security",
+      "Description": "The Click Adventure controversy involves the Steam game Click Adventure compromising users' accounts to execute unauthorized transactions.",
+      "StartDate__precision": "",
       "EndDate__precision": ""
     },
     {
@@ -1135,20 +1149,6 @@
       "Product": "Milwaukee M18 batteries",
       "Type": "",
       "Description": "Undisclosed digital rights management (DRM) and diagnostic tracking in Milwaukee M18 batteries allegedly used in warranty claim denials.",
-      "StartDate__precision": "",
-      "EndDate__precision": ""
-    },
-    {
-      "PageName": "Minecraft enforceing undisclosed server EULA terms",
-      "PageID": "5614",
-      "Company": "Microsoft",
-      "StartDate": "",
-      "EndDate": "",
-      "Status": "Active",
-      "ProductLine": "",
-      "Product": "",
-      "Type": "Terms of Service, Privacy",
-      "Description": "Minecraft used non-existent ToS to take down user mods. It was about violating rule, that did not exist in public ToS.",
       "StartDate__precision": "",
       "EndDate__precision": ""
     }
