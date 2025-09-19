@@ -192,3 +192,7 @@ $wgShowExceptionDetails = true;
 # Initial MediaWiki Setup
 
 goto:   localhost:8080/mw-config/
+
+# Cargo Tables Export
+
+The GitHub Action workflow [here](/.github/workflows/export_wiki_cargo_data.yml) kicks off once a day at 00:00 UTC and runs the Python script [here](/scripts/export_cargo.py) that updates the `all_cargo_combined.json` and creates a commit on the [`export`](https://github.com/WKDLabs/CATWikiCargoPrototype/tree/export) branch.
