@@ -181,15 +181,6 @@
       "Website": "https://www.cox.com/"
     },
     {
-      "PageName": "Daikin",
-      "PageID": "5010",
-      "Description": "Manufacturer of air conditioning systems",
-      "Industry": "Home automation, Air Conditioning",
-      "ParentCompany": "",
-      "Type": "Private",
-      "Website": "http://www.daikin.com/"
-    },
-    {
       "PageName": "Deutsche Kreditbank (DKB)",
       "PageID": "5006",
       "Description": "DKB is Germany's second biggest direct bank.",
@@ -442,13 +433,22 @@
       "Website": "https://www.microsoft.com/"
     },
     {
-      "PageName": "Mitsubishi Motors",
-      "PageID": "6206",
-      "Description": "Mitsubishi Motors is a Japanese automobile manufacturer and member of the Renault–Nissan–Mitsubishi Alliance, producing cars, SUVs, and EVs worldwide.",
-      "Industry": "Automotive",
-      "ParentCompany": "Nissan",
-      "Type": "Public",
-      "Website": "https://www.mitsubishi-motors.com/,https://www.mitsubishicars.com/"
+      "PageName": "Mojang",
+      "PageID": "5352",
+      "Description": "Mojang is a video game company most known for creating Minecraft.",
+      "Industry": "Video game",
+      "ParentCompany": "Microsoft",
+      "Type": "Private",
+      "Website": "https://www.minecraft.net/en-us"
+    },
+    {
+      "PageName": "Mullvad VPN",
+      "PageID": "5422",
+      "Description": "",
+      "Industry": "Virtual Private Networks",
+      "ParentCompany": "Amagicom AB",
+      "Type": "Private",
+      "Website": "https://mullvad.net/"
     }
   ],
   "Incident": [
@@ -787,20 +787,6 @@
       "Description": "",
       "StartDate__precision": "",
       "EndDate__precision": ""
-    },
-    {
-      "PageName": "Ebikes require giving your data to the motor company to have full adjustment via an App over motor behaviour.",
-      "PageID": "6112",
-      "Company": "Bosch, Shimano, Avinox, DJI, TQ, Gobao, Bafang",
-      "StartDate": "2025-09-01",
-      "EndDate": "2025-09-01",
-      "Status": "Active",
-      "ProductLine": "Forced App Download",
-      "Product": "Avinox M1, Bosch Performance CX",
-      "Type": "Digital restrictions, Privacy, Ownership",
-      "Description": "To gain adjustability of almost any Ebike motor you are forced to Install an app and hand over your data and or have to login to a bike company server",
-      "StartDate__precision": "1",
-      "EndDate__precision": "1"
     },
     {
       "PageName": "Echelon fitness firmware lockout",
@@ -1151,6 +1137,20 @@
       "Description": "Undisclosed digital rights management (DRM) and diagnostic tracking in Milwaukee M18 batteries allegedly used in warranty claim denials.",
       "StartDate__precision": "",
       "EndDate__precision": ""
+    },
+    {
+      "PageName": "Minecraft enforceing undisclosed server EULA terms",
+      "PageID": "5614",
+      "Company": "Microsoft",
+      "StartDate": "",
+      "EndDate": "",
+      "Status": "Active",
+      "ProductLine": "",
+      "Product": "",
+      "Type": "Terms of Service, Privacy",
+      "Description": "Minecraft used non-existent ToS to take down user mods. It was about violating rule, that did not exist in public ToS.",
+      "StartDate__precision": "",
+      "EndDate__precision": ""
     }
   ],
   "Product": [
@@ -1272,15 +1272,6 @@
       "Website": "https://www.flocksafety.com/products/license-plate-readers"
     },
     {
-      "PageName": "Ford EEC-V DPC Electronic Engine Control System",
-      "PageID": "6047",
-      "Category": "Automotive",
-      "Company": "Ford",
-      "Description": "The Diesel Powertrain Control variant of Ford's EEC-V electronic engine management system and information related to accessing and modifying hardware",
-      "ProductLine": "",
-      "Website": ""
-    },
-    {
       "PageName": "Google Jamboard",
       "PageID": "6140",
       "Category": "Educational Technology(ed-tech)",
@@ -1398,16 +1389,7 @@
       "Website": "https://www.netlimiter.com/"
     },
     {
-      "PageName": "NewAir Countertop Ice Maker",
-      "PageID": "6104",
-      "Category": "Kitchen Applicance",
-      "Company": "NewAir",
-      "Description": "Countertop kitchen appliance that creates clear ice cubes.",
-      "ProductLine": "Countertop Ice Maker",
-      "Website": "https://www.newair.com/"
-    },
-    {
-      "PageName": "Notability forces new privacy policy on users who already bought the app",
+      "PageName": "Notability",
       "PageID": "6415",
       "Category": "Software",
       "Company": "gingelabs",
@@ -1706,22 +1688,6 @@
       "Company": "Razer",
       "Description": "A series of gaming orientated laptops with premium pricing and components.",
       "Website": "https://www.razer.com/"
-    },
-    {
-      "PageName": "Rocket Money Bill Negotiation",
-      "PageID": "6187",
-      "Category": "Software",
-      "Company": "Rocket Money",
-      "Description": "Rocket Money will monitor bank accounts & can negotiate lower pricing on your behalf.",
-      "Website": "https://rocketmoney.com/"
-    },
-    {
-      "PageName": "Stihl changes design for the 661 chainsaw",
-      "PageID": "5862",
-      "Category": "Hardware",
-      "Company": "Stihl",
-      "Description": "In the 661 chainsaw, possibly more, it appears as if the design of the bar retention post was changed to make repair difficult or impossible",
-      "Website": "https://www.stihl.ca/"
     },
     {
       "PageName": "Wallbox Quasar",
