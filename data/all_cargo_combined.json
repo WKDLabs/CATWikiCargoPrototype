@@ -10,15 +10,6 @@
       "Website": "https://www.3cx.com/"
     },
     {
-      "PageName": "Alibaba",
-      "PageID": "6228",
-      "Description": "Chinese technology company founded in 1999 by Jack Ma",
-      "Industry": "E-commerce",
-      "ParentCompany": null,
-      "Type": "Public",
-      "Website": "https://www.alibaba.com/,https://www.alibabagroup.com/"
-    },
-    {
       "PageName": "Amazon",
       "PageID": "181",
       "Description": null,
@@ -199,15 +190,6 @@
       "Website": "https://duolingo.com"
     },
     {
-      "PageName": "Eventbrite",
-      "PageID": "6472",
-      "Description": "Eventbrite is an American live events marketplace and website. The service allows users to browse, create, and promote local events.",
-      "Industry": "events marketplace",
-      "ParentCompany": null,
-      "Type": "Private",
-      "Website": "https://www.eventbrite.com/"
-    },
-    {
       "PageName": "Fal (AI company)",
       "PageID": "5066",
       "Description": "Generative AI media platform primarily for developers.",
@@ -260,6 +242,15 @@
       "ParentCompany": null,
       "Type": "Private",
       "Website": "https://www.flo.health"
+    },
+    {
+      "PageName": "Flock Safety",
+      "PageID": "6578",
+      "Description": "Flock safety is a surveillance Technology company which utilizes legal loopholes to implement mass surveillance across the United States.",
+      "Industry": "Surveillance Technology",
+      "ParentCompany": null,
+      "Type": "Private",
+      "Website": "https://www.flocksafety.com"
     },
     {
       "PageName": "Ford",
@@ -449,6 +440,15 @@
       "ParentCompany": "Amagicom AB",
       "Type": "Private",
       "Website": "https://mullvad.net/"
+    },
+    {
+      "PageName": "Newag",
+      "PageID": "232",
+      "Description": "The company produces locomotives and electric multiple unit powered rolling stocks.",
+      "Industry": "Railway",
+      "ParentCompany": null,
+      "Type": "Public",
+      "Website": "https://www.newag.pl/"
     }
   ],
   "Incident": [
@@ -1191,15 +1191,6 @@
       "Website": "https://calyxos.org/"
     },
     {
-      "PageName": "Dell Server (Poweredge T150) rejecting OEM RAM on slot A2",
-      "PageID": "6432",
-      "Category": "Server",
-      "Company": "dell, owc",
-      "Description": "Entry level Dell Server (Tower) - Xeon E-2324G processor",
-      "ProductLine": "Poweredge, T150",
-      "Website": "https://www.dell.com/support/product-details/en-us/product/poweredge-t150/overview"
-    },
-    {
       "PageName": "Denon HEOS Speakers",
       "PageID": "5574",
       "Category": "Audio Device",
@@ -1234,15 +1225,6 @@
       "Description": "Privacy-focused browser",
       "ProductLine": null,
       "Website": "https://duckduckgo.com/"
-    },
-    {
-      "PageName": "Elegoo Centauri Carbon",
-      "PageID": "6151",
-      "Category": "3D Printer",
-      "Company": "Elegoo",
-      "Description": "High-speed, coreXY enclosed FDM 3D printer at a very affordable price.",
-      "ProductLine": "Centauri",
-      "Website": "https://www.elegoo.com/"
     },
     {
       "PageName": "Firefox",
@@ -1297,15 +1279,6 @@
       "Description": null,
       "ProductLine": null,
       "Website": "https://www.grapheneos.org"
-    },
-    {
-      "PageName": "Hulu",
-      "PageID": "6226",
-      "Category": "Streaming Services",
-      "Company": null,
-      "Description": "Hulu is a streaming service that provides shows, movies, and live TV.",
-      "ProductLine": null,
-      "Website": "https://www.hulu.com/welcome"
     },
     {
       "PageName": "Insta360+",
@@ -1441,6 +1414,15 @@
       "Description": "Plex Media Serer (PMS), originally a fork of XBMC, is a media server software with associated clients that allows users to host their own media.",
       "ProductLine": null,
       "Website": "https://plex.tv/"
+    },
+    {
+      "PageName": "Pocket Casts",
+      "PageID": "6577",
+      "Category": "Software",
+      "Company": "Automattic",
+      "Description": "Podcast player",
+      "ProductLine": "Pocket Casts",
+      "Website": "https://pocketcasts.com/"
     },
     {
       "PageName": "Polestar 2",
