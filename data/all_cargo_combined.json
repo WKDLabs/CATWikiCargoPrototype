@@ -352,6 +352,15 @@
       "Website": "https://www.intuit.com"
     },
     {
+      "PageName": "Ionos",
+      "PageID": "6600",
+      "Description": "hosting provider",
+      "Industry": "Media Hosting",
+      "ParentCompany": "united internet",
+      "Type": "Private",
+      "Website": "https://www.ionos.com"
+    },
+    {
       "PageName": "Kia",
       "PageID": "6031",
       "Description": "Kia Corporation is a South Korean multinational automobile manufacturer headquartered in Seoul, South Korea.",
@@ -440,15 +449,6 @@
       "ParentCompany": "Amagicom AB",
       "Type": "Private",
       "Website": "https://mullvad.net/"
-    },
-    {
-      "PageName": "Newag",
-      "PageID": "232",
-      "Description": "The company produces locomotives and electric multiple unit powered rolling stocks.",
-      "Industry": "Railway",
-      "ParentCompany": null,
-      "Type": "Public",
-      "Website": "https://www.newag.pl/"
     }
   ],
   "Incident": [
