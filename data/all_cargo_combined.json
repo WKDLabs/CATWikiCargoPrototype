@@ -262,6 +262,15 @@
       "Website": "https://ford.com/"
     },
     {
+      "PageName": "GE Vernova, Inc.",
+      "PageID": "6610",
+      "Description": "GE Vernova, Inc. is an energy equipment manufacturing and services company headquartered in Cambridge, Massachusetts.",
+      "Industry": "Power, Wind, Electrification, Accelerators, and Advanced Research",
+      "ParentCompany": null,
+      "Type": "Public",
+      "Website": "gevernova.com"
+    },
+    {
       "PageName": "General Motors (OnStar)",
       "PageID": "5500",
       "Description": "A multinational corporation that designs, manufactures, and markets vehicles and offers in-vehicle safety, security, and information services.",
@@ -361,6 +370,15 @@
       "Website": "https://www.ionos.com"
     },
     {
+      "PageName": "Itron",
+      "PageID": "6611",
+      "Description": "Itron, Inc. is an American technology company that offers products and services for energy and water resource management.",
+      "Industry": "Smart Meters and Modules, Smart Grid, Data Collection, Analysis Software, Data Management, Water Communication Modules, Internet of Things (IoT), Smart Cities, Sensing + Control, Solar Monitoring, Natural Gas Detectors, Distributed Energy Resources, Smart Streetlights",
+      "ParentCompany": null,
+      "Type": "Public",
+      "Website": "https://na.itron.com"
+    },
+    {
       "PageName": "Kia",
       "PageID": "6031",
       "Description": "Kia Corporation is a South Korean multinational automobile manufacturer headquartered in Seoul, South Korea.",
@@ -431,29 +449,11 @@
       "ParentCompany": null,
       "Type": "Public",
       "Website": "https://www.microsoft.com/"
-    },
-    {
-      "PageName": "Mojang",
-      "PageID": "5352",
-      "Description": "Mojang is a video game company most known for creating Minecraft.",
-      "Industry": "Video game",
-      "ParentCompany": "Microsoft",
-      "Type": "Private",
-      "Website": "https://www.minecraft.net/en-us"
-    },
-    {
-      "PageName": "Mullvad VPN",
-      "PageID": "5422",
-      "Description": null,
-      "Industry": "Virtual Private Networks",
-      "ParentCompany": "Amagicom AB",
-      "Type": "Private",
-      "Website": "https://mullvad.net/"
     }
   ],
   "Incident": [
     {
-      "PageName": "Airthings ASA releases a new app that forces always online and collected user devices data to be sent to their cloud",
+      "PageName": "Airthings ASA new app release",
       "PageID": "5435",
       "Company": "Airthings",
       "StartDate": "2024-05-13",
@@ -1069,20 +1069,6 @@
       "EndDate__precision": null
     },
     {
-      "PageName": "MD Health Pathways automatic opt in of taxpayers on water / utility bills without consent / Dr. Dirk Perritt / Text a Doc",
-      "PageID": "6323",
-      "Company": "Tap Telehealth",
-      "StartDate": "2022-01-01",
-      "EndDate": null,
-      "Status": "Active",
-      "ProductLine": null,
-      "Product": "Tap Telehealth Text a Doctor Service",
-      "Type": null,
-      "Description": "This for profit company has come into Garland &amp; schmoozed the city council into signing a contract with them that automatically opts in all residents",
-      "StartDate__precision": "3",
-      "EndDate__precision": null
-    },
-    {
       "PageName": "Meta AI permanent account suspensions",
       "PageID": "5736",
       "Company": "Meta",
@@ -1151,6 +1137,20 @@
       "Description": "Minecraft used non-existent ToS to take down user mods. It was about violating rule, that did not exist in public ToS.",
       "StartDate__precision": null,
       "EndDate__precision": null
+    },
+    {
+      "PageName": "Minecraft LAN gameplay paywall",
+      "PageID": "6605",
+      "Company": "Microsoft, Mojang",
+      "StartDate": "2025-01-01",
+      "EndDate": "2025-01-01",
+      "Status": "Active",
+      "ProductLine": "Minecraft, Game Pass Core",
+      "Product": "Minecraft, xbox",
+      "Type": "Digital restrictions",
+      "Description": "Minecraft on Xbox now blocks LAN play behind Game Pass, stripping a paid feature and sparking major consumer rights concerns.",
+      "StartDate__precision": "3",
+      "EndDate__precision": "3"
     }
   ],
   "Product": [
