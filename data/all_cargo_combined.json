@@ -373,7 +373,7 @@
       "PageName": "Itron",
       "PageID": "6611",
       "Description": "Itron, Inc. is an American technology company that offers products and services for energy and water resource management.",
-      "Industry": "Smart Meters and Modules, Smart Grid, Data Collection, Analysis Software, Data Management, Water Communication Modules, Internet of Things (IoT), Smart Cities, Sensing + Control, Solar Monitoring, Natural Gas Detectors, Distributed Energy Resources, Smart Streetlights",
+      "Industry": "[[Smart meter]](s) and Modules, Smart Grid, Data Collection, Analysis Software, Data Management, Water Communication Modules, Internet of Things (IoT), Smart Cities, Sensing + Control, Solar Monitoring, Natural Gas Detectors, Distributed Energy Resources, Smart Streetlights",
       "ParentCompany": null,
       "Type": "Public",
       "Website": "https://na.itron.com"
@@ -1162,6 +1162,15 @@
       "Description": "1Password is a secure password manager that stores and encrypts passwords, login details, and other sensitive information in a digital vault",
       "ProductLine": "1Password",
       "Website": "https://1password.com/"
+    },
+    {
+      "PageName": "ASUS silently downgrades monitor panel after it reviews well",
+      "PageID": "6618",
+      "Category": "Monitor, Display",
+      "Company": "Asus",
+      "Description": "280hz IPS LCD Monitor",
+      "ProductLine": "VG259QM 280hz IPS LCD",
+      "Website": "https://www.asus.com"
     },
     {
       "PageName": "Bandicam",
