@@ -145,6 +145,15 @@
       "Website": "https://chase.com"
     },
     {
+      "PageName": "Clearview AI",
+      "PageID": "6648",
+      "Description": "AI facial recognition software company",
+      "Industry": null,
+      "ParentCompany": null,
+      "Type": "Private",
+      "Website": "https://www.clearview.ai/"
+    },
+    {
       "PageName": "Comcast",
       "PageID": "5782",
       "Description": "Major ISP selling Internet and cable services, but infamous for high prices, data caps, throttling, poor customer service, and monopolistic practices",
@@ -268,7 +277,7 @@
       "Industry": "Power, Wind, Electrification, Accelerators, and Advanced Research",
       "ParentCompany": null,
       "Type": "Public",
-      "Website": "gevernova.com"
+      "Website": "https://www.gevernova.com"
     },
     {
       "PageName": "General Motors (OnStar)",
@@ -440,15 +449,6 @@
       "ParentCompany": null,
       "Type": "Private",
       "Website": "https://merkuryinnovations.com/"
-    },
-    {
-      "PageName": "Microsoft",
-      "PageID": "158",
-      "Description": "Microsoft is one of the &quot;Big Five&quot; tech giants who has had issues ranging from antitrust issues to monopolies",
-      "Industry": "Information Technology",
-      "ParentCompany": null,
-      "Type": "Public",
-      "Website": "https://www.microsoft.com/"
     }
   ],
   "Incident": [
@@ -575,6 +575,20 @@
       "Product": null,
       "Type": null,
       "Description": "Audi charges $758 for an HVAC “Sync” button, which is physically present within the vehicle, but disabled until a payment is made.",
+      "StartDate__precision": null,
+      "EndDate__precision": null
+    },
+    {
+      "PageName": "Audible class action lawsuit",
+      "PageID": "6643",
+      "Company": null,
+      "StartDate": null,
+      "EndDate": null,
+      "Status": null,
+      "ProductLine": null,
+      "Product": null,
+      "Type": null,
+      "Description": null,
       "StartDate__precision": null,
       "EndDate__precision": null
     },
@@ -1137,20 +1151,6 @@
       "Description": "Undisclosed digital rights management (DRM) and diagnostic tracking in Milwaukee M18 batteries allegedly used in warranty claim denials.",
       "StartDate__precision": null,
       "EndDate__precision": null
-    },
-    {
-      "PageName": "Minecraft enforceing undisclosed server EULA terms",
-      "PageID": "5614",
-      "Company": "Microsoft",
-      "StartDate": null,
-      "EndDate": null,
-      "Status": "Active",
-      "ProductLine": null,
-      "Product": null,
-      "Type": "Terms of Service, Privacy",
-      "Description": "Minecraft used non-existent ToS to take down user mods. It was about violating rule, that did not exist in public ToS.",
-      "StartDate__precision": null,
-      "EndDate__precision": null
     }
   ],
   "Product": [
@@ -1350,7 +1350,7 @@
       "Company": "M-Audio",
       "Description": "Midi keyboard for audio production, designed to work with DAWs.",
       "ProductLine": "Axiom air mini 32",
-      "Website": "www.m-audio.com/"
+      "Website": "https://www.m-audio.com"
     },
     {
       "PageName": "Microsoft Edge",
