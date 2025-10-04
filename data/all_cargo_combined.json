@@ -181,6 +181,15 @@
       "Website": "https://www.cox.com/"
     },
     {
+      "PageName": "DataCollect",
+      "PageID": "6684",
+      "Description": "FOUNDED IN 1993\n    OVER 30 YEARS OF INNOVATION\n    MADE IN GERMANY\n    REPRESENTED WORLDWIDE\n    INNOVATOR IN TRAFFIC DATA",
+      "Industry": "Artificial Intelligence, Smart Cities, Surveillance Technology",
+      "ParentCompany": null,
+      "Type": null,
+      "Website": "https://www.datacollect.com"
+    },
+    {
       "PageName": "Deutsche Kreditbank (DKB)",
       "PageID": "5006",
       "Description": "DKB is Germany&#039;s second biggest direct bank.",
@@ -368,15 +377,6 @@
       "ParentCompany": null,
       "Type": "Public",
       "Website": "https://www.intuit.com"
-    },
-    {
-      "PageName": "Ionos",
-      "PageID": "6600",
-      "Description": "hosting provider",
-      "Industry": "Media Hosting",
-      "ParentCompany": "united internet",
-      "Type": "Private",
-      "Website": "https://www.ionos.com"
     },
     {
       "PageName": "Itron",
@@ -688,6 +688,20 @@
       "Type": "Scam, Security",
       "Description": "The Click Adventure controversy involves the Steam game Click Adventure compromising users&#039; accounts to execute unauthorized transactions.",
       "StartDate__precision": null,
+      "EndDate__precision": null
+    },
+    {
+      "PageName": "Costco&#039;s collection and sharing of data through Meta&#039;s tracking pixel",
+      "PageID": "6683",
+      "Company": "Costco",
+      "StartDate": "2022-01-01",
+      "EndDate": null,
+      "Status": "Pending Resolution",
+      "ProductLine": "Costco website",
+      "Product": "Costco pharmacy website",
+      "Type": "HIPPA Privacy, Privacy",
+      "Description": null,
+      "StartDate__precision": "3",
       "EndDate__precision": null
     },
     {
@@ -1135,20 +1149,6 @@
       "Product": null,
       "Type": "Digital restrictions, Terms of Service, Cloud lockout",
       "Description": "On September 15 2023, Miku revoked previously free baby monitor features, now selling them for $9.99 under care+ subscription.",
-      "StartDate__precision": null,
-      "EndDate__precision": null
-    },
-    {
-      "PageName": "Milwaukee battery drm",
-      "PageID": "6420",
-      "Company": "Milwaukee, TTI",
-      "StartDate": null,
-      "EndDate": null,
-      "Status": "Active",
-      "ProductLine": "Power tools",
-      "Product": "Milwaukee M18 batteries",
-      "Type": null,
-      "Description": "Undisclosed digital rights management (DRM) and diagnostic tracking in Milwaukee M18 batteries allegedly used in warranty claim denials.",
       "StartDate__precision": null,
       "EndDate__precision": null
     }
