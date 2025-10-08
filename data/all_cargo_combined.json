@@ -302,7 +302,7 @@
       "PageID": "6723",
       "Description": "Getac Technology Corporation is a manufacturer of Rugged Computer systems, and evidence management software",
       "Industry": "Defense, Public Safety, Oil&amp;Gas, Natural Resources, Transportation &amp; Logistics, Industrial Manufacturing, Software, Utilities, Automotive",
-      "ParentCompany": "Getac Holdings Corporation",
+      "ParentCompany": "Getac Holdings Corporation &amp; General Electric Aerospace (Joint Venture)",
       "Type": "Public",
       "Website": "https://www.getac.com/us/"
     },
@@ -1111,6 +1111,20 @@
       "EndDate__precision": null
     },
     {
+      "PageName": "LG Warranty Starts Ownership Transfer from You to LG Electronics",
+      "PageID": "6735",
+      "Company": "LG",
+      "StartDate": "2022-01-01",
+      "EndDate": null,
+      "Status": "Active",
+      "ProductLine": "LG",
+      "Product": "LG Gram Laptops",
+      "Type": "Repairability &amp; Ownership Restriction",
+      "Description": "Replaced products and parts become property of LG.  Does this mean that the old parts that were removed become their property or the installed parts?",
+      "StartDate__precision": "3",
+      "EndDate__precision": null
+    },
+    {
       "PageName": "Life360 Terms of Service Forced Arbitration Agreement",
       "PageID": "6638",
       "Company": "Life360",
@@ -1137,20 +1151,6 @@
       "Description": "Considerable amounts of people wrongfully permanently banned by Meta&#039;s AI content moderation. Permanent ban with no human involvement.",
       "StartDate__precision": "3",
       "EndDate__precision": "3"
-    },
-    {
-      "PageName": "Microsoft Copilot&#039;s recall feature",
-      "PageID": "5598",
-      "Company": "Microsoft",
-      "StartDate": "2024-06-01",
-      "EndDate": null,
-      "Status": "Active",
-      "ProductLine": null,
-      "Product": "Microsoft Copilot",
-      "Type": "Privacy",
-      "Description": "Microsoft Recall collects screenshots of the user&#039;s computer every few seconds to be used by Copilot, Microsoft&#039;s AI.",
-      "StartDate__precision": "2",
-      "EndDate__precision": null
     }
   ],
   "Product": [
@@ -1344,6 +1344,15 @@
       "Website": "https://www.libertysafe.com/"
     },
     {
+      "PageName": "Listonic",
+      "PageID": "6734",
+      "Category": null,
+      "Company": null,
+      "Description": "Shopping list app",
+      "ProductLine": "Shopping List",
+      "Website": null
+    },
+    {
       "PageName": "LiveView Technologies AI Surveillance",
       "PageID": "5947",
       "Category": "Surveillance, Security, AI, Law Enforcement",
@@ -1360,6 +1369,15 @@
       "Description": "Midi keyboard for audio production, designed to work with DAWs.",
       "ProductLine": "Axiom air mini 32",
       "Website": "https://www.m-audio.com"
+    },
+    {
+      "PageName": "Microsoft Authenticator",
+      "PageID": "6725",
+      "Category": "Security, Software",
+      "Company": "Microsoft",
+      "Description": "A free app that secures Microsoft accounts with single sign-on (SSO) and provides multi-factor authentication (MFA) to various other online services.",
+      "ProductLine": null,
+      "Website": "https://www.microsoft.com/en-us/security/mobile-authenticator-app, https://support.microsoft.com/en-us/account-billing/about-microsoft-authenticator-9783c865-0308-42fb-a519-8cf666fe0acc"
     },
     {
       "PageName": "Microsoft Edge",
@@ -1587,6 +1605,14 @@
       "Website": "https://www.aegpowertools.com.au/58v-faq-page"
     },
     {
+      "PageName": "Assioma",
+      "PageID": "6738",
+      "Category": "Power meter pedals",
+      "Company": "Favero",
+      "Description": null,
+      "Website": "https://cycling.favero.com"
+    },
+    {
       "PageName": "Deerrun walking pads &amp; treadmills startup",
       "PageID": "5058",
       "Category": "Hardware",
@@ -1705,14 +1731,6 @@
       "Company": "Tonies SE, Tonies US Inc.",
       "Description": "A Tonie is a small, figurine-like audio toy used with the Toniebox to listen to stories, music, and educational content.",
       "Website": "https://us.tonies.com/"
-    },
-    {
-      "PageName": "User:Sojourna/Sandbox",
-      "PageID": "1687",
-      "Category": "Hardware",
-      "Company": "Favero",
-      "Description": null,
-      "Website": "https://cycling.favero.com"
     },
     {
       "PageName": "Wallbox Quasar",
