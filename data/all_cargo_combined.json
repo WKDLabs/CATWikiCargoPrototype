@@ -1013,6 +1013,20 @@
       "EndDate__precision": null
     },
     {
+      "PageName": "IK Multimedia Deny All Cookies Button Auto Selects Amazon DSP and Impact.com Cookies",
+      "PageID": "6755",
+      "Company": "IK Multimedia",
+      "StartDate": null,
+      "EndDate": null,
+      "Status": "Active",
+      "ProductLine": null,
+      "Product": null,
+      "Type": "Security",
+      "Description": "When selecting &quot;Deny All&quot; in the cookies settings on IK Multimedia&#039;s website it automatically toggles on the &quot;Amazon DSP&quot; and &quot;Impact&quot; cookies.",
+      "StartDate__precision": null,
+      "EndDate__precision": null
+    },
+    {
       "PageName": "JetBlue Travel Credits",
       "PageID": "6108",
       "Company": "JetBlue",
@@ -1137,20 +1151,6 @@
       "Description": "Life360&#039;s Terms of Service includes an arbitration clause requiring users of the service to waive their right to a jury trial.",
       "StartDate__precision": null,
       "EndDate__precision": null
-    },
-    {
-      "PageName": "Meta AI permanent account suspensions",
-      "PageID": "5736",
-      "Company": "Meta",
-      "StartDate": "2023-01-01",
-      "EndDate": "2025-01-01",
-      "Status": "Active",
-      "ProductLine": null,
-      "Product": null,
-      "Type": "Service Termination, Digital restrictions",
-      "Description": "Considerable amounts of people wrongfully permanently banned by Meta&#039;s AI content moderation. Permanent ban with no human involvement.",
-      "StartDate__precision": "3",
-      "EndDate__precision": "3"
     }
   ],
   "Product": [
