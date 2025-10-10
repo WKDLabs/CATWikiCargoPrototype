@@ -10,6 +10,15 @@
       "Website": "https://www.3cx.com/"
     },
     {
+      "PageName": "Alltech Services Inc",
+      "PageID": "6759",
+      "Description": "AllTech Services Inc., headquartered in Sterling, Virginia, is a licensed HVAC and plumbing contractor operating in the Northern Virginia region.",
+      "Industry": "Construction",
+      "ParentCompany": "Alltech Services Inc",
+      "Type": "Private",
+      "Website": "https://www.alltechservicesinc.com/"
+    },
+    {
       "PageName": "Amazon",
       "PageID": "181",
       "Description": null,
@@ -179,15 +188,6 @@
       "ParentCompany": "Cox Enterprises",
       "Type": "Subsidiary",
       "Website": "https://www.cox.com/"
-    },
-    {
-      "PageName": "DataCollect",
-      "PageID": "6684",
-      "Description": "FOUNDED IN 1993\n    OVER 30 YEARS OF INNOVATION\n    MADE IN GERMANY\n    REPRESENTED WORLDWIDE\n    INNOVATOR IN TRAFFIC DATA",
-      "Industry": "Artificial Intelligence, Smart Cities, Surveillance Technology",
-      "ParentCompany": null,
-      "Type": null,
-      "Website": "https://www.datacollect.com"
     },
     {
       "PageName": "Deutsche Kreditbank (DKB)",
@@ -747,6 +747,20 @@
       "EndDate__precision": null
     },
     {
+      "PageName": "DCS sues Small YouTuber for accurate product review showing battery issues &amp; misleading warranty",
+      "PageID": "2141",
+      "Company": "Deep Cycle Systems",
+      "StartDate": "2024-05-01",
+      "EndDate": null,
+      "Status": null,
+      "ProductLine": null,
+      "Product": "Lithium",
+      "Type": "Speech",
+      "Description": null,
+      "StartDate__precision": "2",
+      "EndDate__precision": null
+    },
+    {
       "PageName": "Dead star server shutdown",
       "PageID": "5402",
       "Company": "Armature Studio",
@@ -1136,20 +1150,6 @@
       "Type": "Repairability &amp; Ownership Restriction",
       "Description": "Replaced products and parts become property of LG.  Does this mean that the old parts that were removed become their property or the installed parts?",
       "StartDate__precision": "3",
-      "EndDate__precision": null
-    },
-    {
-      "PageName": "Life360 Terms of Service Forced Arbitration Agreement",
-      "PageID": "6638",
-      "Company": "Life360",
-      "StartDate": null,
-      "EndDate": null,
-      "Status": "Active",
-      "ProductLine": null,
-      "Product": "Life360",
-      "Type": "Terms of Service, Arbitration",
-      "Description": "Life360&#039;s Terms of Service includes an arbitration clause requiring users of the service to waive their right to a jury trial.",
-      "StartDate__precision": null,
       "EndDate__precision": null
     }
   ],
