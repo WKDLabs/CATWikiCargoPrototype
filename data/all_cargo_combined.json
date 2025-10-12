@@ -621,6 +621,20 @@
       "EndDate__precision": null
     },
     {
+      "PageName": "BlueDriver OBD2 scanner now requires account login and collects data",
+      "PageID": "6781",
+      "Company": "BlueDriver, Repairify, Root Four Imagination, Lemur Vehicle Monitors",
+      "StartDate": "2025-04-25",
+      "EndDate": null,
+      "Status": "Active",
+      "ProductLine": "BlueDriver",
+      "Product": "BlueDriver",
+      "Type": "Cloud lockout, Forced Migration, Privacy",
+      "Description": "BlueDriver OBD2 scan tool&#039;s iOS and Android apps now require login, stranding users",
+      "StartDate__precision": "1",
+      "EndDate__precision": null
+    },
+    {
       "PageName": "BMW API restrictions",
       "PageID": "6249",
       "Company": "BMW",
@@ -1136,20 +1150,6 @@
       "Type": "Service Termination",
       "Description": "After exiting mobile, LG ends bootloader unlock services, preventing users from installing custom ROMs on their devices.",
       "StartDate__precision": "1",
-      "EndDate__precision": null
-    },
-    {
-      "PageName": "LG Warranty Starts Ownership Transfer from You to LG Electronics",
-      "PageID": "6735",
-      "Company": "LG",
-      "StartDate": "2022-01-01",
-      "EndDate": null,
-      "Status": "Active",
-      "ProductLine": "LG",
-      "Product": "LG Gram Laptops",
-      "Type": "Repairability &amp; Ownership Restriction",
-      "Description": "Replaced products and parts become property of LG.  Does this mean that the old parts that were removed become their property or the installed parts?",
-      "StartDate__precision": "3",
       "EndDate__precision": null
     }
   ],
