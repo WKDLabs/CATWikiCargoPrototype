@@ -10,6 +10,15 @@
       "Website": "https://www.3cx.com/"
     },
     {
+      "PageName": "5CA",
+      "PageID": "6843",
+      "Description": "5CA is a remote-first CX company representing some of the biggest names in gaming and tech.",
+      "Industry": "Customer Service Outsourcing",
+      "ParentCompany": null,
+      "Type": "Private",
+      "Website": "https://5ca.com"
+    },
+    {
       "PageName": "Alltech Services Inc",
       "PageID": "6759",
       "Description": "AllTech Services Inc., headquartered in Sterling, Virginia, is a licensed HVAC and plumbing contractor operating in the Northern Virginia region.",
@@ -440,15 +449,6 @@
       "ParentCompany": null,
       "Type": "Public",
       "Website": "https://www.mastercard.com/"
-    },
-    {
-      "PageName": "Mercedes Benz",
-      "PageID": "2148",
-      "Description": "Mercedes-Benz is a German automotive manufacturer that has taken away and/or disabled features shortly after their sale",
-      "Industry": "Automotive",
-      "ParentCompany": null,
-      "Type": "Subsidiary",
-      "Website": "https://www.mercedes-benz.com/"
     }
   ],
   "Incident": [
@@ -506,6 +506,20 @@
       "Type": "Digital restrictions",
       "Description": "Amazon automatically allows publishers to make substantial editorial changes to users&#039; purchased books",
       "StartDate__precision": "3",
+      "EndDate__precision": null
+    },
+    {
+      "PageName": "Amazon LED lights all lie about wattage by about half.",
+      "PageID": "6837",
+      "Company": "Amazon",
+      "StartDate": "2025-10-12",
+      "EndDate": null,
+      "Status": "Active",
+      "ProductLine": "led, all led lights on amazon, flood lights, grow lights",
+      "Product": "led",
+      "Type": "Scam",
+      "Description": "100w led is 60w, 10w led is 90w, 00w led is 230w despite saying ACTUAL DRAW is 400/150/100w",
+      "StartDate__precision": "1",
       "EndDate__precision": null
     },
     {
@@ -1136,20 +1150,6 @@
       "Type": "Digital restrictions, IP Blocking",
       "Description": "A Spanish court allowed LaLiga to mandate mass IP blocks, mostly Cloudflare, which serves millions of legitimate websites via shared IPs.",
       "StartDate__precision": "2",
-      "EndDate__precision": null
-    },
-    {
-      "PageName": "LG Bootloader incident",
-      "PageID": "6089",
-      "Company": "LG",
-      "StartDate": "2021-12-31",
-      "EndDate": null,
-      "Status": "Pending Resolution",
-      "ProductLine": "LG Smartphones",
-      "Product": null,
-      "Type": "Service Termination",
-      "Description": "After exiting mobile, LG ends bootloader unlock services, preventing users from installing custom ROMs on their devices.",
-      "StartDate__precision": "1",
       "EndDate__precision": null
     }
   ],
