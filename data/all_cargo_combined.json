@@ -1055,20 +1055,6 @@
       "EndDate__precision": null
     },
     {
-      "PageName": "IK Multimedia Deny All Cookies Button Auto Selects Amazon DSP and Impact.com Cookies",
-      "PageID": "6755",
-      "Company": "IK Multimedia",
-      "StartDate": null,
-      "EndDate": null,
-      "Status": "Active",
-      "ProductLine": null,
-      "Product": null,
-      "Type": "Security",
-      "Description": "When selecting &quot;Deny All&quot; in the cookies settings on IK Multimedia&#039;s website it automatically toggles on the &quot;Amazon DSP&quot; and &quot;Impact&quot; cookies.",
-      "StartDate__precision": null,
-      "EndDate__precision": null
-    },
-    {
       "PageName": "JetBlue Travel Credits",
       "PageID": "6108",
       "Company": "JetBlue",
@@ -1150,6 +1136,20 @@
       "Type": "Digital restrictions, IP Blocking",
       "Description": "A Spanish court allowed LaLiga to mandate mass IP blocks, mostly Cloudflare, which serves millions of legitimate websites via shared IPs.",
       "StartDate__precision": "2",
+      "EndDate__precision": null
+    },
+    {
+      "PageName": "LG Bootloader incident",
+      "PageID": "6089",
+      "Company": "LG",
+      "StartDate": "2021-12-31",
+      "EndDate": null,
+      "Status": "Pending Resolution",
+      "ProductLine": "LG Smartphones",
+      "Product": null,
+      "Type": "Service Termination",
+      "Description": "After exiting mobile, LG ends bootloader unlock services, preventing users from installing custom ROMs on their devices.",
+      "StartDate__precision": "1",
       "EndDate__precision": null
     }
   ],
@@ -1353,15 +1353,6 @@
       "Website": "https://www.libertysafe.com/"
     },
     {
-      "PageName": "Listonic",
-      "PageID": "6734",
-      "Category": null,
-      "Company": null,
-      "Description": "Shopping list app",
-      "ProductLine": "Shopping List",
-      "Website": null
-    },
-    {
       "PageName": "LiveView Technologies AI Surveillance",
       "PageID": "5947",
       "Category": "Surveillance, Security, AI, Law Enforcement",
@@ -1423,15 +1414,6 @@
       "Description": "Note-taking application for iOS and macOS, allows note-taking and the annotation of PDF files.",
       "ProductLine": null,
       "Website": "https://notability.com/"
-    },
-    {
-      "PageName": "Nothing X earbud companion app",
-      "PageID": "6183",
-      "Category": "Software",
-      "Company": null,
-      "Description": "The Nothing X app is the central control and management platform for Nothing&#039;s various audio devices and smartwatches",
-      "ProductLine": null,
-      "Website": "https://intl.nothing.tech/products/ear"
     },
     {
       "PageName": "OneDrive",
