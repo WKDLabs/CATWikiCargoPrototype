@@ -663,6 +663,20 @@
       "EndDate__precision": null
     },
     {
+      "PageName": "Bose kills SoundTouch and speakers lose smart functionality",
+      "PageID": "6901",
+      "Company": null,
+      "StartDate": null,
+      "EndDate": null,
+      "Status": null,
+      "ProductLine": null,
+      "Product": null,
+      "Type": null,
+      "Description": "Bose ends cloud support for SoundTouch products, removing smart functionality with no migration path to current ecosystem",
+      "StartDate__precision": null,
+      "EndDate__precision": null
+    },
+    {
       "PageName": "Brother printer dcp 3550 cdw cartridges failure",
       "PageID": "2482",
       "Company": "Brother Industries Ltd.",
@@ -1136,20 +1150,6 @@
       "Type": "Digital restrictions, IP Blocking",
       "Description": "A Spanish court allowed LaLiga to mandate mass IP blocks, mostly Cloudflare, which serves millions of legitimate websites via shared IPs.",
       "StartDate__precision": "2",
-      "EndDate__precision": null
-    },
-    {
-      "PageName": "LG Bootloader incident",
-      "PageID": "6089",
-      "Company": "LG",
-      "StartDate": "2021-12-31",
-      "EndDate": null,
-      "Status": "Pending Resolution",
-      "ProductLine": "LG Smartphones",
-      "Product": null,
-      "Type": "Service Termination",
-      "Description": "After exiting mobile, LG ends bootloader unlock services, preventing users from installing custom ROMs on their devices.",
-      "StartDate__precision": "1",
       "EndDate__precision": null
     }
   ],
