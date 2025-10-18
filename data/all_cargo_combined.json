@@ -453,6 +453,20 @@
   ],
   "Incident": [
     {
+      "PageName": "Acer leap ware smartwatch no longer useable due to the app server&#039;s no longer running",
+      "PageID": "6938",
+      "Company": "Acer",
+      "StartDate": "2017-01-01",
+      "EndDate": "2025-01-01",
+      "Status": "Active",
+      "ProductLine": "Acer smartwatch",
+      "Product": "Acer leap ware",
+      "Type": "Cloud lockout, Service Termination, Planned Obsolesence, Abandonware",
+      "Description": "The Acer Leap Ware smartwatch became unusable after Acer shut down the Liquid Life app servers, which were required for core functionality. Consumers",
+      "StartDate__precision": "3",
+      "EndDate__precision": "3"
+    },
+    {
       "PageName": "Airthings ASA new app release",
       "PageID": "5435",
       "Company": "Airthings",
@@ -717,6 +731,20 @@
       "Description": "CFMoto moved to a subscription model for their CFMOTO Ride app, charging users for features they previously received with their purchase",
       "StartDate__precision": "1",
       "EndDate__precision": null
+    },
+    {
+      "PageName": "Chrome OS ends support for school Chromebooks",
+      "PageID": "6950",
+      "Company": "Lenovo, Google",
+      "StartDate": "2019-02-27",
+      "EndDate": "2026-01-01",
+      "Status": "Pending Resolution",
+      "ProductLine": "Computer",
+      "Product": "Laptop",
+      "Type": "Service Termination",
+      "Description": "The end of millions of Chromebooks as Chrome OS support is discontinued, impacting schools and students worldwide.",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
     },
     {
       "PageName": "Click Adventure Scam Game: Draining Consumer Wallets and Bypassing Steam Security",
@@ -1123,34 +1151,6 @@
       "Description": "The Kwikset Kevo family of smart locks are having their app and web portal terminated November 14, 2025. Refunds are not provided.",
       "StartDate__precision": "1",
       "EndDate__precision": "1"
-    },
-    {
-      "PageName": "LA Fitness makes it purposely difficult to cancel memberships",
-      "PageID": "5851",
-      "Company": null,
-      "StartDate": null,
-      "EndDate": null,
-      "Status": null,
-      "ProductLine": "gym membership",
-      "Product": "gym membership",
-      "Type": null,
-      "Description": "LA Fitness goes out of their way to make it as difficult as possible to cancel gym memberships by placing intentional barriers in the path of customers",
-      "StartDate__precision": null,
-      "EndDate__precision": null
-    },
-    {
-      "PageName": "LaLiga forces Spanish ISPs to mass-block Cloudflare IPs during Soccer Games",
-      "PageID": "5587",
-      "Company": "LaLiga, Cloudflare",
-      "StartDate": "2024-12-01",
-      "EndDate": null,
-      "Status": "Active",
-      "ProductLine": "Internet Access",
-      "Product": null,
-      "Type": "Digital restrictions, IP Blocking",
-      "Description": "A Spanish court allowed LaLiga to mandate mass IP blocks, mostly Cloudflare, which serves millions of legitimate websites via shared IPs.",
-      "StartDate__precision": "2",
-      "EndDate__precision": null
     }
   ],
   "Product": [
@@ -1281,11 +1281,11 @@
       "Website": "https://friend.com/?page=hardware"
     },
     {
-      "PageName": "Genshin Impact Anticheat",
+      "PageName": "Genshin Impact anti-cheat",
       "PageID": "6522",
       "Category": "Video Games",
       "Company": "Mihoyo",
-      "Description": "Genshin Impact&#039;s Anticheat, sometimes referred to as mhyprot2.sys, is a kernel-level anticheat that runs regardless of if the game is running.",
+      "Description": null,
       "ProductLine": "Genshin Impact",
       "Website": "https://genshin.hoyoverse.com/"
     },
@@ -1468,6 +1468,15 @@
       "Description": "Home security system",
       "ProductLine": "320P1",
       "Website": null
+    },
+    {
+      "PageName": "Secure Boot",
+      "PageID": "6978",
+      "Category": "Security, Software, Operating System, Firmware",
+      "Company": "Microsoft",
+      "Description": null,
+      "ProductLine": null,
+      "Website": "https://learn.microsoft.com/en-gb/windows-hardware/design/device-experiences/oem-secure-boot"
     },
     {
       "PageName": "Sony&#039;s WF-1000XM4 earbuds",
