@@ -217,6 +217,15 @@
       "Website": "https://duolingo.com"
     },
     {
+      "PageName": "Extron",
+      "PageID": "7050",
+      "Description": "Canadian professional audiovisual equipment manufacturer",
+      "Industry": "Electronics, Corporate Audio and Video",
+      "ParentCompany": null,
+      "Type": "Private",
+      "Website": "https://extron.com"
+    },
+    {
       "PageName": "Fal (AI company)",
       "PageID": "5066",
       "Description": "Generative AI media platform primarily for developers.",
@@ -440,15 +449,6 @@
       "ParentCompany": null,
       "Type": "Public",
       "Website": "https://www.logitech.com"
-    },
-    {
-      "PageName": "Mastercard",
-      "PageID": "5449",
-      "Description": "An American multinational payment card services corporation, offering a range of payment transaction processing and other related-payment services.",
-      "Industry": "Banking",
-      "ParentCompany": null,
-      "Type": "Public",
-      "Website": "https://www.mastercard.com/"
     }
   ],
   "Incident": [
@@ -1182,6 +1182,15 @@
       "Website": "https://www.bandicam.com/"
     },
     {
+      "PageName": "Blur (Video Game)",
+      "PageID": "7035",
+      "Category": "Video Games",
+      "Company": "Activision",
+      "Description": "Blur (stylized as blur) is an arcade-style racing game with destruction items and modes.",
+      "ProductLine": null,
+      "Website": null
+    },
+    {
       "PageName": "Breezy Weather",
       "PageID": "6049",
       "Category": "Software, Weather",
@@ -1263,7 +1272,7 @@
       "Website": "https://www.image-line.com/?_gl=1*9cyz9q*_gcl_au*MjEyNDQ2Mjc4Mi4xNzUyOTkxMjA4LjQwMzYzNzE2OS4xNzU3MTMyNTc0LjE3NTcxMzI3Mjc."
     },
     {
-      "PageName": "Flock License Plate Readers",
+      "PageName": "Flock license plate readers",
       "PageID": "5885",
       "Category": "Cameras, Security, Surveillance",
       "Company": "Flock Safety",
