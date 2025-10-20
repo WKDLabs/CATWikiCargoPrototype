@@ -453,7 +453,7 @@
   ],
   "Incident": [
     {
-      "PageName": "Acer leap ware smartwatch no longer useable due to the app server&#039;s no longer running",
+      "PageName": "Acer Leap Ware smartwatch bricked by discontinuation",
       "PageID": "6938",
       "Company": "Acer",
       "StartDate": "2017-01-01",
@@ -717,6 +717,20 @@
       "Description": "Devices from Legrand and its subsidiaries refuse to connect unless they receive a special code during pairing to confirm it&#039;s a Legrand gateway",
       "StartDate__precision": null,
       "EndDate__precision": null
+    },
+    {
+      "PageName": "Canadian bread price fixing",
+      "PageID": "7099",
+      "Company": "Canada Bread, Weston Foods, Walmart Canada, Giant Tiger, Sobeys, Metro",
+      "StartDate": "2001-01-01",
+      "EndDate": "2015-01-01",
+      "Status": "Resolved",
+      "ProductLine": "Bread",
+      "Product": "Bread, Bagels, Naan",
+      "Type": "Price Fixing",
+      "Description": "From 2001 to 2015, many companies colluded in what can be described as a cartel, fixing bread prices in Canada",
+      "StartDate__precision": "3",
+      "EndDate__precision": "3"
     },
     {
       "PageName": "CF Moto puts previously included features behind paywall",
@@ -1137,20 +1151,6 @@
       "Description": "KSP2 turned into abandonware, still being sold and charging full price for the game that was never finished.",
       "StartDate__precision": "3",
       "EndDate__precision": "3"
-    },
-    {
-      "PageName": "Kwikset Kevo",
-      "PageID": "6717",
-      "Company": "Kwikset, ASSA ABLOY Americas Residential Inc.",
-      "StartDate": "2025-09-21",
-      "EndDate": "2025-11-14",
-      "Status": "Active",
-      "ProductLine": "Kevo",
-      "Product": "Kevo",
-      "Type": "Service Termination",
-      "Description": "The Kwikset Kevo family of smart locks are having their app and web portal terminated November 14, 2025. Refunds are not provided.",
-      "StartDate__precision": "1",
-      "EndDate__precision": "1"
     }
   ],
   "Product": [
@@ -1184,7 +1184,7 @@
     {
       "PageName": "Blur (Video Game)",
       "PageID": "7035",
-      "Category": "Video Games",
+      "Category": "Software",
       "Company": "Activision",
       "Description": "Blur (stylized as blur) is an arcade-style racing game with destruction items and modes.",
       "ProductLine": null,
