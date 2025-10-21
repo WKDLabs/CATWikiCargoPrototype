@@ -887,20 +887,6 @@
       "EndDate__precision": null
     },
     {
-      "PageName": "Disney wrongful-death lawsuit",
-      "PageID": "220",
-      "Company": "Disney",
-      "StartDate": "2024-02-01",
-      "EndDate": null,
-      "Status": "Pending Resolution",
-      "ProductLine": null,
-      "Product": "Disney+",
-      "Type": "Terms of Service",
-      "Description": "TBD",
-      "StartDate__precision": "2",
-      "EndDate__precision": null
-    },
-    {
       "PageName": "EA requires open beta players of battlefield 6 to change their motherboard bios settings",
       "PageID": "5068",
       "Company": "EA",
@@ -1041,6 +1027,20 @@
       "EndDate__precision": null
     },
     {
+      "PageName": "Google disables smart features of old Nest thermostats",
+      "PageID": "4826",
+      "Company": "Google, Nest",
+      "StartDate": null,
+      "EndDate": null,
+      "Status": "Active",
+      "ProductLine": "Nest Learning Thermostat",
+      "Product": "1st generation 2011, 2nd generation 2012, 2nd generation Europe version 2014",
+      "Type": "Abandonware",
+      "Description": "Google ending support for 1st/2nd gen Nest thermostats October 2025, removing app control and safety features despite working hardware.",
+      "StartDate__precision": null,
+      "EndDate__precision": null
+    },
+    {
       "PageName": "Google forces your device to join their &quot;Find Hub&quot; network, hard to opt out",
       "PageID": "5620",
       "Company": "Google",
@@ -1065,20 +1065,6 @@
       "Product": "Nest Protect Smoke + Carbon Monoxide Alarm (all generations)",
       "Type": "Forced Migration",
       "Description": "Google forcing Nest Protect users to migrate from Nest app to Google Home app with expanded data collection terms to maintain functionality.",
-      "StartDate__precision": null,
-      "EndDate__precision": null
-    },
-    {
-      "PageName": "Google Nest Thermostat (1st and 2nd Generation) Support Discontinuation",
-      "PageID": "6057",
-      "Company": "Google, Nest",
-      "StartDate": null,
-      "EndDate": null,
-      "Status": "Active",
-      "ProductLine": "Nest Learning Thermostat",
-      "Product": "1st generation 2011, 2nd generation 2012, 2nd generation Europe version 2014",
-      "Type": "Abandonware",
-      "Description": "Google ending support for 1st/2nd gen Nest thermostats Oct 2025, removing app control and CO safety shutoff feature despite working hardware.",
       "StartDate__precision": null,
       "EndDate__precision": null
     },
@@ -1151,6 +1137,20 @@
       "Description": "KSP2 turned into abandonware, still being sold and charging full price for the game that was never finished.",
       "StartDate__precision": "3",
       "EndDate__precision": "3"
+    },
+    {
+      "PageName": "Kwikset Kevo",
+      "PageID": "6717",
+      "Company": "Kwikset, ASSA ABLOY Americas Residential Inc.",
+      "StartDate": "2025-09-21",
+      "EndDate": "2025-11-14",
+      "Status": "Active",
+      "ProductLine": "Kevo",
+      "Product": "Kevo",
+      "Type": "Service Termination",
+      "Description": "The Kwikset Kevo family of smart locks are having their app and web portal terminated November 14, 2025. Refunds are not provided.",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
     }
   ],
   "Product": [
@@ -1180,15 +1180,6 @@
       "Description": "Bandicam is a screen-recording software created by Bandicam Company in 2009.",
       "ProductLine": null,
       "Website": "https://www.bandicam.com/"
-    },
-    {
-      "PageName": "Blur (Video Game)",
-      "PageID": "7035",
-      "Category": "Software",
-      "Company": "Activision",
-      "Description": "Blur (stylized as blur) is an arcade-style racing game with destruction items and modes.",
-      "ProductLine": null,
-      "Website": null
     },
     {
       "PageName": "Breezy Weather",
@@ -1636,6 +1627,14 @@
       "Company": "Bosch, Yamaha, Shimano",
       "Description": null,
       "Website": null
+    },
+    {
+      "PageName": "Early Roku models",
+      "PageID": "7128",
+      "Category": "entertainment",
+      "Company": "roku",
+      "Description": "Roku HD (pre-2011)\nRoku HD-XR (pre-2011)\nRoku SD (pre-2011)\nRoku XD and XDS (pre-2011)\nRoku LT (models 2400X/2450X)\nRoku HD (model 2500X)\nRoku 2 HD",
+      "Website": "Roku.com"
     },
     {
       "PageName": "Forced User Agreement on Jetbrains IntelliJ software",
