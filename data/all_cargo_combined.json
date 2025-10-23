@@ -593,6 +593,20 @@
       "EndDate__precision": null
     },
     {
+      "PageName": "Arbitration Opt-Out Mail to Cognosphere LTD Returned to Sender",
+      "PageID": "7197",
+      "Company": "Cognosphere PTE. LTD.",
+      "StartDate": null,
+      "EndDate": null,
+      "Status": "Active",
+      "ProductLine": "Video Game",
+      "Product": null,
+      "Type": "Arbitration",
+      "Description": "The Opt-Out method for arbitration required by the company&#039;s TOS does not actually work.",
+      "StartDate__precision": null,
+      "EndDate__precision": null
+    },
+    {
       "PageName": "Audi Basic HVAC &quot;Sync&quot; Function Paywalled",
       "PageID": "5803",
       "Company": "Audi",
@@ -619,6 +633,20 @@
       "Description": null,
       "StartDate__precision": null,
       "EndDate__precision": null
+    },
+    {
+      "PageName": "AWS outage wakes &quot;eight sleep&quot; customers as their beds think their subscriptions ran out.",
+      "PageID": "7218",
+      "Company": "Eight sleep",
+      "StartDate": "2025-10-21",
+      "EndDate": "2025-10-21",
+      "Status": "Pending Resolution",
+      "ProductLine": "Eight sleep pod",
+      "Product": "Eight sleep pod 4, Eight sleep pod 5",
+      "Type": "Subscription revoked.",
+      "Description": "Eight Sleep’s “Pod” smart mattresses rely entirely on AWS to manage temperature, elevation, and biometric tracking. When AWS disconnected, so did they",
+      "StartDate__precision": "1",
+      "EndDate__precision": "1"
     },
     {
       "PageName": "Bitly QR Code Preview Page Advertising",
@@ -1123,34 +1151,6 @@
       "Description": "Kemper has put certain features behind a paywall, most notably on the Kemper PROFILER Player. Even ones that were included at launch.",
       "StartDate__precision": null,
       "EndDate__precision": null
-    },
-    {
-      "PageName": "Kerbal Space Program 2",
-      "PageID": "5743",
-      "Company": "Take Two, Private Division",
-      "StartDate": "2019-01-01",
-      "EndDate": "2025-01-01",
-      "Status": "Active",
-      "ProductLine": null,
-      "Product": "KSP2",
-      "Type": "Product Termination, Abandonware",
-      "Description": "KSP2 turned into abandonware, still being sold and charging full price for the game that was never finished.",
-      "StartDate__precision": "3",
-      "EndDate__precision": "3"
-    },
-    {
-      "PageName": "Kwikset Kevo",
-      "PageID": "6717",
-      "Company": "Kwikset, ASSA ABLOY Americas Residential Inc.",
-      "StartDate": "2025-09-21",
-      "EndDate": "2025-11-14",
-      "Status": "Active",
-      "ProductLine": "Kevo",
-      "Product": "Kevo",
-      "Type": "Service Termination",
-      "Description": "The Kwikset Kevo family of smart locks are having their app and web portal terminated November 14, 2025. Refunds are not provided.",
-      "StartDate__precision": "1",
-      "EndDate__precision": "1"
     }
   ],
   "Product": [
@@ -1542,6 +1542,15 @@
       "Website": "https://tiktok.com"
     },
     {
+      "PageName": "Ubox / Anisee / RBX-B10 4G Low-Power Solar Wifi Security Camera",
+      "PageID": "7200",
+      "Category": "Cameras, Firmware, Software, Cloud storage",
+      "Company": "Ubox, Anisee, RBX",
+      "Description": null,
+      "ProductLine": "B10-WIFI-T31",
+      "Website": "https://uboxcam.com/ubox-solar-security-camera-b10-wifi/,https://www.icseecam.com/product/rbx-b10-low-power-4g-wifi-solar-camera/"
+    },
+    {
       "PageName": "Viber",
       "PageID": "5374",
       "Category": "Software",
@@ -1699,6 +1708,14 @@
       "Company": "Google",
       "Description": null,
       "Website": "https://store.google.com/us/product/pixel_watch_3"
+    },
+    {
+      "PageName": "Litter Robot",
+      "PageID": "7210",
+      "Category": "Hardware, Pet Care",
+      "Company": "Whisker, Pondera Holdings",
+      "Description": "Automated litter box",
+      "Website": "https://www.litter-robot.com/"
     },
     {
       "PageName": "MagicGate",
